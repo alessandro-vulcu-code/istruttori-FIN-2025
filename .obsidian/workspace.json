@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROMPT.md",
+                "file": "14.La Pallanuoto in Corsia parte I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROMPT"
+              "title": "14.La Pallanuoto in Corsia parte I"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fasi sensibili",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Ricerca"
             }
           },
           {
@@ -185,36 +185,46 @@
   },
   "active": "534b2c51e591ec79",
   "lastOpenFiles": [
-    "12.Galleggiamenti spostamenti posture propulsioni.md",
-    "Trascrizioni/21.TRASCRIZIONE_Cenni di Attivita Prescolare Piattaforma FAD FIN.txt",
-    "17.Il Nuoto Artistico in Corsia parte II.md",
+    "Corso istruttori FIN 2025 new.md",
+    "Corso istruttori FIN 2025.md",
+    "Corso istruttori FIN 2025.pdf",
+    "combined.md",
+    "Corso istruttori FIN 2025.synctex(busy)",
+    "pdflatex52978.fls",
+    "Corso istruttori FIN 2025.fdb_latexmk",
+    "Corso istruttori FIN 2025.aux",
+    "Corso istruttori FIN 2025.log",
+    "Corso istruttori FIN 2025.fls",
+    "pdflatex52895.fls",
+    "pdflatex52790.fls",
+    "pdflatex52647.fls",
     "16.Il Nuoto Artistico in Corsia parte I.md",
-    "15.La Pallanuoto in Corsia parte II.md",
-    "14.La Pallanuoto in Corsia parte I.md",
-    "13.Tecnica e didattica delle quattro nuotate regolamentari.md",
-    "PROMPT.md",
-    "10.L'uomo e l'acqua.md",
-    "11.Ambientamento e acquaticita.md",
-    "6.Area psicopedagogica 2.md",
-    "5.Area psicopedagogica 1.md",
-    "7.Area psicopedagogica 3.md",
-    "8.Elementi di Primo Soccorso parte I.md",
-    "9.Elementi di Primo Soccorso parte II.md",
-    "10.Luomo e lacqua Piattaforma.md.tmp.26059.1772986348470",
+    "4.Teoria del movimento.md",
+    "Corso_completo.md",
+    "Pasted image 20260309113532.png",
+    "Pics/Pasted image 20260309105700.png",
+    "1. Aspetti Amministrativi.md",
+    "3.Il Corpo Umano parte II.md",
+    "2.Il Corpo Umano parte I.md",
     "1. Aspetti amministrativi.md",
-    "5. Area psicopedagogica.md",
-    "Trascrizioni/20.TRASCRIZIONE_Cenni di Attivita Neonatale Piattaforma FAD FIN.txt",
-    "Trascrizioni/19.TRASCRIZIONE_Cenni di Attivita per Gestanti Piattaforma FAD FIN.txt",
-    "Trascrizioni/18.TRASCRIZIONE_Il Nuoto per Salvamento in Corsia Piattaforma FAD FIN.txt",
-    "Trascrizioni/17.TRASCRIZIONE_Il Nuoto Artistico in Corsia parte II Piattaforma FAD FIN.txt",
-    "Trascrizioni/16.TRASCRIZIONE_Il Nuoto Artistico in Corsia parte I Piattaforma FAD FIN.txt",
-    "Trascrizioni/15.TRASCRIZIONE_La Pallanuoto in Corsia parte II Piattaforma FAD FIN.txt",
-    "Trascrizioni/14.TRASCRIZIONE_La Pallanuoto in Corsia parte I Piattaforma FAD FIN.txt",
-    "Trascrizioni/13.TRASCRIZIONE_Tecnica e didattica delle quattro nuotate regolamentari Piattafo.txt",
-    "Untitled.md",
-    "2026-02-25.md",
+    "4. Teoria del Movimento.md",
     "3. Il Corpo Umano (Parte 2).md",
     "2. Il Corpo Umano (Parte 1).md",
-    "4. Teoria del Movimento.md"
+    "6.Area psicopedagogica 2.md",
+    "28.Le Scuole Nuoto Federali.md",
+    "27.L'Avviamento all'Attività Sportiva.md",
+    "26.L'Organizzazione del Centro Natatorio.md",
+    "Pics/Pasted image 20260309105909.png",
+    "5.Area psicopedagogica 1.md",
+    "Pics/Pasted image 20260309105803.png",
+    "Pics/Pasted image 20260309105712.png",
+    "11.Ambientamento e acquaticita.md",
+    "22.Cenni di Attività per Persone con Disabilità.md",
+    "25.Ginnastica Educativa e Prenatatoria.md",
+    "24.Il Fitness in Acqua.md",
+    "23.Cenni di Attività per Adulti e Terza e Quarta Età.md",
+    "19.Cenni di Attività per Gestanti.md",
+    "21.Cenni di Attività Prescolare.md",
+    "20.Cenni di Attività Neonatale.md"
   ]
 }
