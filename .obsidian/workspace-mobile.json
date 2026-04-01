@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/10.L'uomo e l'acqua.md",
+                "file": "Lezioni/4.Teoria del movimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.L'uomo e l'acqua"
+              "title": "4.Teoria del movimento"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lezioni/5.Area psicopedagogica 1.md",
+            "file": "Lezioni/4.Teoria del movimento.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,8 @@
   },
   "active": "46c2adb682a3f0f5",
   "lastOpenFiles": [
+    "Riassunto_Corso_ISTRUTTORI_FIN_2025-2026.md",
+    "Lezioni/10.L'uomo e l'acqua.md",
     "Lezioni/Priorità_Studio.md",
     "Lezioni/11.Ambientamento e acquaticita.md",
     "Lezioni/Indice_Analitico.md",

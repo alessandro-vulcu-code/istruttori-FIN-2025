@@ -258,13 +258,13 @@ Mobilità articolare (flessibilità)
 
 ### Analizzatori
 
-| Tipo | Recettori | Funzione |
-|------|-----------|----------|
-| **Visivo** | Telecettori | Modello di apprendimento, controllo parziale |
-| **Acustico** | Recettori uditivi | Informazioni verbali, ritmo |
-| **Tattile** | Pressocettori, termocettori | Fondamentale nel nuoto per applicare forza propulsiva |
-| **Cinestesico** | Propriocettori | Percepisce movimento e tensione (vie più veloci) |
-| **Vestibolare** | Apparato vestibolare | Equilibrio, accelerazioni/decelerazioni |
+| Tipo                | Recettori                   | Funzione                                              |
+| ------------------- | --------------------------- | ----------------------------------------------------- |
+| **Visivo**          | Telecettori                 | Modello di apprendimento, controllo parziale          |
+| **Acustico**        | Recettori uditivi           | Informazioni verbali, ritmo                           |
+| **Tattile**         | Pressocettori, termocettori | Fondamentale nel nuoto per applicare forza propulsiva |
+| ==**Cinestesico**== | ==Propriocettori==          | Percepisce movimento e tensione (vie più veloci)      |
+| **==Vestibolare==** | ==Apparato vestibolare==    | Equilibrio, accelerazioni/decelerazioni               |
 
 ### Capacità Condizionali
 
