@@ -549,7 +549,14 @@
 - [ ] C. Prevenzione e repressione del doping
 - [ ] D. Organizzazione dei campionati italiani di nuoto
 
-Manca 251 risposta giusta A
+## 251 - La cultura dell’acqua
+
+**Quali di questi soggetti non fanno parte della FIN?**
+
+- [x] A. Medici sociali
+- [ ] B. Giudici
+- [ ] C. Atleti
+- [ ] D. Cronometristi
 ## 252 - La cultura dell’acqua
 
 **Quali parametri vanno considerati per determinare le potenzialità di un allievo?**
@@ -675,13 +682,3 @@ Manca 251 risposta giusta A
 - [x] B. Fasi sensibili
 - [ ] C. Periodi costanti
 - [ ] D. Fasi olistiche
-
-
-## 251 - La
-
-**cultura dell’acqua Quali di questi soggetti non fanno parte della FIN?**
-
-- [x] A. Medici sociali
-- [ ] B. Giudici
-- [ ] C. Atleti
-- [ ] D. Cronometristi

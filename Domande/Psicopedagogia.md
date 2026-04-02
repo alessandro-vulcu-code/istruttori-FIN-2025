@@ -1183,9 +1183,20 @@
 
 **Un opportuno clima psicologico implica**
 
+- [x] A. Un’atmosfera serena e ludica che sollecita la partecipazione
+- [ ] B. Un complesso di tecniche per il condizionamento psicologico
+- [ ] C. Una disponibilità aggressiva verso le gare
+- [ ] D. Una leadership autoritaria
+
+## 1000 - Psicopedagogia
+
+**Una barriera della comunicazione è:**
+
 - [x] A. Un muro che impedisce la comunicazione
 - [ ] B. Un malfunzionamento degli analizzatori
 - [ ] C. Un atteggiamento di un individuo che si oppone alla comunicazione
 - [ ] D. Un ostacolo di qualsiasi genere che interrompe o riduce il flusso dell’informazione
+
+
 
 Manca la 1000
