@@ -1,0 +1,6954 @@
+[
+  {
+    "question": "A dorso le braccia si muovono",
+    "answers": [
+      {
+        "text": "In sequenza, prima uno e poi l’altro",
+        "correct": false
+      },
+      {
+        "text": "Liberamente",
+        "correct": false
+      },
+      {
+        "text": "Quando un braccio entra l’altro è a metà recupero",
+        "correct": false
+      },
+      {
+        "text": "In opposizione, un braccio entra in acqua e l’altro esce",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "A stile libero, dopo la partenza e dopo ogni virata, per quanto è consentito rimanere in completa immersione?",
+    "answers": [
+      {
+        "text": "Non c’è nessun limite",
+        "correct": false
+      },
+      {
+        "text": "10 metri",
+        "correct": false
+      },
+      {
+        "text": "15 metri",
+        "correct": true
+      },
+      {
+        "text": "25 metri",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Affinché un bambino acquisisca un buon galleggiamento bisogna",
+    "answers": [
+      {
+        "text": "Che sappia nuotare almeno il crawl e il dorso",
+        "correct": false
+      },
+      {
+        "text": "Che abbia acquisito una buona educazione respiratoria",
+        "correct": false
+      },
+      {
+        "text": "Che trascorrano almeno sei mesi di ambientamento",
+        "correct": false
+      },
+      {
+        "text": "Che sia ben rilassato",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ambientamento e acquaticità",
+    "answers": [
+      {
+        "text": "Sono la stessa cosa",
+        "correct": false
+      },
+      {
+        "text": "L’ambientamento è legato a caratteristiche psicologiche, l’acquaticità a caratteristiche tecniche",
+        "correct": true
+      },
+      {
+        "text": "Sono caratteristiche indipendenti tra di loro, da sviluppare con esercizi differenti",
+        "correct": false
+      },
+      {
+        "text": "Una buona acquaticità è un presupposto per ottenere un buon ambientamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ambientamento significa",
+    "answers": [
+      {
+        "text": "Rimanere molto tempo in acqua",
+        "correct": false
+      },
+      {
+        "text": "Acquisire un rapporto naturale con l’acqua e stare bene in acqua",
+        "correct": true
+      },
+      {
+        "text": "Nuotare veloci",
+        "correct": false
+      },
+      {
+        "text": "Entusiasmo e amicizia",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Anelli della catena della sopravvivenza nel giusto ordine",
+    "answers": [
+      {
+        "text": "RCP – attivazione del 118 – defibrillazione – trattamenti avanzati",
+        "correct": false
+      },
+      {
+        "text": "Trattamenti avanzati – defibrillazione - RCP – attivazione del 118",
+        "correct": false
+      },
+      {
+        "text": "Attivazione del 118 – RCP – trattamenti avanzati – defibrillazione",
+        "correct": false
+      },
+      {
+        "text": "Attivazione del 118 – RCP – defibrillazione – trattamenti avanzati",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "BLS (Basic Life Support) è",
+    "answers": [
+      {
+        "text": "L’insieme delle manovre da effettuare solamente nei casi di ostruzione delle vie aeree",
+        "correct": false
+      },
+      {
+        "text": "L’acronimo di Biological Lifelearning Swimming",
+        "correct": false
+      },
+      {
+        "text": "L’insieme delle tecniche da usare nella rianimazione",
+        "correct": true
+      },
+      {
+        "text": "il complesso delle differenti nuotate di base da usare nell’avvicinamento e nel trasporto del pericolante",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Caratteristiche della respirazione in acqua",
+    "answers": [
+      {
+        "text": "Si espira e si inspira dal naso",
+        "correct": false
+      },
+      {
+        "text": "Si inspira e si espira dalla bocca",
+        "correct": false
+      },
+      {
+        "text": "Si inspira dal naso e si espira dalla bocca",
+        "correct": false
+      },
+      {
+        "text": "Si inspira dalla bocca si espira dalla bocca o dal naso",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ciambelle, braccioli, tavolette, tubi, ecc., sono",
+    "answers": [
+      {
+        "text": "Sussidi didattici",
+        "correct": true
+      },
+      {
+        "text": "Oggetti di plastica galleggianti",
+        "correct": false
+      },
+      {
+        "text": "Oggetti per giocare in piscina",
+        "correct": false
+      },
+      {
+        "text": "Oggetti rituali",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Come ci si comporta in caso di emergenza che renda necessario evacuare la piscina?",
+    "answers": [
+      {
+        "text": "Mettersi in salvo",
+        "correct": false
+      },
+      {
+        "text": "Far uscire gli allievi in ordine e indirizzarli verso l’uscita di emergenza",
+        "correct": false
+      },
+      {
+        "text": "Allertare il servizio di emergenza e mettersi in salvo",
+        "correct": false
+      },
+      {
+        "text": "Far uscire gli allievi mettendoli in fila, contandoli e accompagnandoli verso l’uscita d’emergenza",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Come comportarsi nel caso di una forte emorragia esterna?",
+    "answers": [
+      {
+        "text": "Non fare nulla",
+        "correct": false
+      },
+      {
+        "text": "Mettere a sedere l’infortunato con del ghiaccio sulla testa",
+        "correct": false
+      },
+      {
+        "text": "Perdere conoscenza",
+        "correct": false
+      },
+      {
+        "text": "Tamponare la ferita e avvisare il pronto soccorso",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Come si allertano i soccorsi del 118?",
+    "answers": [
+      {
+        "text": "Si telefona fornendo i propri dati anagrafici, località e caratteristiche dell’incidente",
+        "correct": true
+      },
+      {
+        "text": "Si telefona fornendo le caratteristiche dell’incidente e la località",
+        "correct": false
+      },
+      {
+        "text": "Si telefona fornendo i propri dati anagrafici",
+        "correct": false
+      },
+      {
+        "text": "Si telefona fornendo informazioni confuse",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Come si costruisce un progetto didattico?",
+    "answers": [
+      {
+        "text": "Affidandosi al buon senso e fare quello che si è sempre fatto",
+        "correct": false
+      },
+      {
+        "text": "Utilizzando percorsi sperimentati e progressioni didattiche",
+        "correct": false
+      },
+      {
+        "text": "Applicando i codici di comunicazione federali",
+        "correct": false
+      },
+      {
+        "text": "Definendo degli obiettivi appropriati e scegliendo esercizi orientati per raggiungerli",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Come si costruisce una lezione?",
+    "answers": [
+      {
+        "text": "Stabilendo una scaletta usando degli indicatori e immaginando esercizi adeguati agli obiettivi",
+        "correct": true
+      },
+      {
+        "text": "Proponendo progressioni didattiche dal semplice al difficile",
+        "correct": false
+      },
+      {
+        "text": "Cogliendo al momento l’ispirazione",
+        "correct": false
+      },
+      {
+        "text": "Chiedendo consiglio a un collega più esperto",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Come si effettua la selezione dei talenti",
+    "answers": [
+      {
+        "text": "Attraverso considerazioni del genitore",
+        "correct": false
+      },
+      {
+        "text": "Attraverso gare sociali, istruttori e allenatori",
+        "correct": true
+      },
+      {
+        "text": "Attraverso desideri personali",
+        "correct": false
+      },
+      {
+        "text": "Attraverso il consiglio dei compagni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Come si può alzare il livello di sicurezza in piscina?",
+    "answers": [
+      {
+        "text": "Stendendo un protocollo della sicurezza a cui tutti devono attenersi",
+        "correct": true
+      },
+      {
+        "text": "Incaricando istruttori molto attenti e severi",
+        "correct": false
+      },
+      {
+        "text": "Creando un clima coercitivo",
+        "correct": false
+      },
+      {
+        "text": "Esercitandosi con la procedura BLS",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Con che frequenza si deve inspirare nuotando a dorso?",
+    "answers": [
+      {
+        "text": "Ogni 4 bracciate",
+        "correct": false
+      },
+      {
+        "text": "Ogni 3 bracciate",
+        "correct": false
+      },
+      {
+        "text": "Ogni 2 bracciate",
+        "correct": true
+      },
+      {
+        "text": "Ogni bracciata",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Contenuti della ginnastica prenatatoria per la fascia di età della scuola primaria, sono",
+    "answers": [
+      {
+        "text": "Ginnastica analitica",
+        "correct": false
+      },
+      {
+        "text": "Ginnastica con piccoli attrezzi",
+        "correct": false
+      },
+      {
+        "text": "Forza massimale",
+        "correct": false
+      },
+      {
+        "text": "Circuiti e giochi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cos’è il GUG?",
+    "answers": [
+      {
+        "text": "Un organo tecnico della F.I.N.",
+        "correct": true
+      },
+      {
+        "text": "L’organizzazione sindacale dei giudici di gara",
+        "correct": false
+      },
+      {
+        "text": "Il gruppo che si occupa di formare i tecnici",
+        "correct": false
+      },
+      {
+        "text": "Un comando dello starter",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cos’è il SIT?",
+    "answers": [
+      {
+        "text": "Settore istruzione tecnica",
+        "correct": true
+      },
+      {
+        "text": "Settore interno telematico",
+        "correct": false
+      },
+      {
+        "text": "Swimming international team",
+        "correct": false
+      },
+      {
+        "text": "Squadra italiana tuffi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cos’è il SIT?",
+    "answers": [
+      {
+        "text": "Il gruppo che si occupa di formare i giudici di gara",
+        "correct": false
+      },
+      {
+        "text": "L’organizzazione sindacale dei tecnici",
+        "correct": false
+      },
+      {
+        "text": "Un ente di promozione sportiva",
+        "correct": false
+      },
+      {
+        "text": "Un organo tecnico della FIN",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cos’è importante nella nuotata a crawl, dorso e farfalla?",
+    "answers": [
+      {
+        "text": "Le pause nelle azioni",
+        "correct": false
+      },
+      {
+        "text": "La continuità delle azioni, evitando pause a fine ed inizio bracciata",
+        "correct": true
+      },
+      {
+        "text": "Delle forti decelerazioni nella fase di spinta",
+        "correct": false
+      },
+      {
+        "text": "La respirazione ogni due bracciate",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cos’è la programmazione didattica?",
+    "answers": [
+      {
+        "text": "Un vincolo che i gestori utilizzano per standardizzare il lavoro dell’istruttore",
+        "correct": false
+      },
+      {
+        "text": "Una suddivisione degli apprendimenti nel tempo",
+        "correct": false
+      },
+      {
+        "text": "Una successione razionale di progressioni",
+        "correct": false
+      },
+      {
+        "text": "Un sistema per immaginare e seguire un percorso formativo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cos’è un protocollo della sicurezza?",
+    "answers": [
+      {
+        "text": "La procedura BLS",
+        "correct": false
+      },
+      {
+        "text": "Un insieme di norme e comportamenti standard a cui attenersi",
+        "correct": true
+      },
+      {
+        "text": "Il regolamento di iscrizione ai corsi di nuoto",
+        "correct": false
+      },
+      {
+        "text": "Un opuscolo contenente informazioni generali sul funzionamento della struttura",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa deve contenere il protocollo della sicurezza?",
+    "answers": [
+      {
+        "text": "L’elenco degli allievi dei corsi",
+        "correct": false
+      },
+      {
+        "text": "La sequenza della procedura BLS",
+        "correct": false
+      },
+      {
+        "text": "Un atlante anatomico",
+        "correct": false
+      },
+      {
+        "text": "Poche norme ma chiare ed efficaci",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cosa non va fatto in una situazione di emergenza?",
+    "answers": [
+      {
+        "text": "Spostare il paziente",
+        "correct": true
+      },
+      {
+        "text": "Somministrare alcolici o comunque da bere",
+        "correct": false
+      },
+      {
+        "text": "Caricare il paziente su una macchina di passaggio per trasportarlo in ospedale",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa rappresentano queste sigle: FINA, LEN, ##### COMEN, COLAN, ILS, ILSE?",
+    "answers": [
+      {
+        "text": "Società sportive affiliate alla FIN",
+        "correct": false
+      },
+      {
+        "text": "Procedure internazionali di sicurezza",
+        "correct": false
+      },
+      {
+        "text": "Standard costruttivi degli impianti natatori",
+        "correct": false
+      },
+      {
+        "text": "Federazioni e istituzioni sportive alle quali la FIN è affiliata",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cosa si fa quando un allievo dice di stare male?",
+    "answers": [
+      {
+        "text": "Gli si dice che non è nulla",
+        "correct": false
+      },
+      {
+        "text": "Si valuta la situazione",
+        "correct": true
+      },
+      {
+        "text": "Si grida aiuto",
+        "correct": false
+      },
+      {
+        "text": "Si allerta immediatamente il STE",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa si prevede che un bambino sappia fare nella prima fase di ambientamento?",
+    "answers": [
+      {
+        "text": "Si sappia tuffare dal bordo autonomamente e riemerge da solo",
+        "correct": false
+      },
+      {
+        "text": "Abbia un buon rilassamento corporeo",
+        "correct": true
+      },
+      {
+        "text": "Sappia spostarsi lungo il bordo autonomamente",
+        "correct": false
+      },
+      {
+        "text": "Nuoti per 25m con tecnica a piacere senza interruzioni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Da che cosa può essere determinata la squalifica per una virata a rana?",
+    "answers": [
+      {
+        "text": "Mani che toccano il muro in modo non contemporaneo",
+        "correct": true
+      },
+      {
+        "text": "Recupero delle braccia con le mani fuori dall’acqua",
+        "correct": false
+      },
+      {
+        "text": "Riemergere dopo i 15 metri",
+        "correct": false
+      },
+      {
+        "text": "Mani che toccano il muro non alla stessa altezza",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Definizione di ambientamento.",
+    "answers": [
+      {
+        "text": "Il periodo in cui un allievo prende confidenza con l’ambiente acquatico",
+        "correct": false
+      },
+      {
+        "text": "Il momento dell’iscrizione a un corso",
+        "correct": false
+      },
+      {
+        "text": "La lunga esperienza motoria che porta un allievo a padroneggiare i suoi movimenti in acqua, vivendo desideri, superando paure, incontrando relazioni positive e scoprendo nuove cognizioni di sé",
+        "correct": true
+      },
+      {
+        "text": "L’esperienza di apprendimento del nuoto attraverso attività ludiche",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Definizione di trauma",
+    "answers": [
+      {
+        "text": "Effetto lesivo provocato su un organismo vivente da parte di un’azione meccanica esterna",
+        "correct": true
+      },
+      {
+        "text": "Lesione che determina un’interruzione della continuità della cute",
+        "correct": false
+      },
+      {
+        "text": "Perdita di sangue dal sistema circolatorio",
+        "correct": false
+      },
+      {
+        "text": "Allontanamento temporaneo di due capi articolari delle estremità delle ossa di un’articolazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Dopo ogni partenza ed ogni virata, tranne in uno stile, a quanti metri deve emergere dall’acqua il nuotatore e con quale parte del corpo?",
+    "answers": [
+      {
+        "text": "Entro 15 metri con il capo",
+        "correct": true
+      },
+      {
+        "text": "Entro 15 metri con il baricentro del corpo",
+        "correct": false
+      },
+      {
+        "text": "Entro 10 metri con la parte più avanzata del corpo",
+        "correct": false
+      },
+      {
+        "text": "Entro 10 metri con il capo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Dopo una lunga esposizione ai raggi solari a capo scoperto, potrebbe verificarsi",
+    "answers": [
+      {
+        "text": "Colpo di calore",
+        "correct": false
+      },
+      {
+        "text": "Idrocuzione",
+        "correct": false
+      },
+      {
+        "text": "Ustione",
+        "correct": false
+      },
+      {
+        "text": "Colpo di sole",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Durante il recupero delle gambe a rana, quale parte del corpo provoca il maggior attrito frontale?",
+    "answers": [
+      {
+        "text": "La testa",
+        "correct": false
+      },
+      {
+        "text": "Il petto",
+        "correct": true
+      },
+      {
+        "text": "La coscia",
+        "correct": false
+      },
+      {
+        "text": "I gomiti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Durante l’ambientamento è importante",
+    "answers": [
+      {
+        "text": "Far superare fastidi fobie e paure",
+        "correct": true
+      },
+      {
+        "text": "Spiegare subito le prime forme propulsive",
+        "correct": false
+      },
+      {
+        "text": "Far sistemare i bambini vicino la scaletta per far superare loro la paura",
+        "correct": false
+      },
+      {
+        "text": "Non congratularsi con i bambini anche se hanno raggiunto un piccolo traguardo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Durante l’apprendimento dei fondamentali di pallanuoto gli errori sono da imputare più frequentemente a",
+    "answers": [
+      {
+        "text": "Un’errata presentazione del modello visivo",
+        "correct": false
+      },
+      {
+        "text": "Un’errata percezione di tutti i feed- back da parte dell’allievo",
+        "correct": true
+      },
+      {
+        "text": "Un uso improprio dell’analizzatore visivo",
+        "correct": false
+      },
+      {
+        "text": "All’approfondimento del gesto",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Durante la fase di ambientamento l’allievo",
+    "answers": [
+      {
+        "text": "Impara a nuotare",
+        "correct": false
+      },
+      {
+        "text": "Sfrutta inizialmente gli schemi motori terrestri nell’ambiente acquatico",
+        "correct": true
+      },
+      {
+        "text": "Sfrutta da subito gli schemi motori acquatici",
+        "correct": false
+      },
+      {
+        "text": "Deve fare esercizi di coordinazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Durante la nuotata è normale inspirare attraverso",
+    "answers": [
+      {
+        "text": "La bocca",
+        "correct": true
+      },
+      {
+        "text": "La bocca ed il naso",
+        "correct": false
+      },
+      {
+        "text": "La cute",
+        "correct": false
+      },
+      {
+        "text": "Solo con il naso",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Durante la prima lezione, in fase di ambientamento, l’istruttore come prima cosa",
+    "answers": [
+      {
+        "text": "Deve insegnare subito il galleggiamento",
+        "correct": false
+      },
+      {
+        "text": "Deve far ambientare i propri allievi in acqua alta",
+        "correct": false
+      },
+      {
+        "text": "Deve provvedere a far conoscere il nuovo ambiente (spogliatoi, piscina, istruttore ecc.) ai nuovi arrivati.",
+        "correct": true
+      },
+      {
+        "text": "Deve insegnare la respirazione nella forma più ludica possibile",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Durante le sedute di ginnastica educativa e prenatatoria, per un gruppo di bambini in età della scuola primaria, è fondamentale sviluppare e affinare",
+    "answers": [
+      {
+        "text": "Forza e resistenza.",
+        "correct": false
+      },
+      {
+        "text": "Capacità di: controllo motorio, apprendimento, capacità di adattamento e trasformazione del movimento.",
+        "correct": true
+      },
+      {
+        "text": "Schemi motori di base",
+        "correct": false
+      },
+      {
+        "text": "Orientamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Durante una lezione la dimostrazione dell’insegnante deve avvenire",
+    "answers": [
+      {
+        "text": "Di spalle agli allievi fuori dall’acqua",
+        "correct": false
+      },
+      {
+        "text": "A specchio fuori dall’acqua",
+        "correct": true
+      },
+      {
+        "text": "Di spalle gli allievi su un rialzo",
+        "correct": false
+      },
+      {
+        "text": "Solamente a voce",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "È importante che l’istruttore entri in acqua durante l’impostazione dello scivolamento sul dorso in vasca piccola?",
+    "answers": [
+      {
+        "text": "Sì, ma solo se l’esercizio è impostato in acqua alta",
+        "correct": false
+      },
+      {
+        "text": "No, perché l’allievo non si abituerebbe mai a farlo da solo",
+        "correct": false
+      },
+      {
+        "text": "No, perché l’istruttore non deve mai perdere di vista gli altri allievi",
+        "correct": false
+      },
+      {
+        "text": "Sì, perché trasmette sicurezza all’allievo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "È un errore più grave nella nuotata a farfalla",
+    "answers": [
+      {
+        "text": "Fermare le braccia davanti alla testa per effettuare il secondo colpo di gambe",
+        "correct": true
+      },
+      {
+        "text": "Non effettuare il secondo colpo di gambe",
+        "correct": false
+      },
+      {
+        "text": "Non far entrare le braccia in linea con le spalle",
+        "correct": false
+      },
+      {
+        "text": "Non effettuare la respirazione laterale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Fasi della bracciata a stile libero",
+    "answers": [
+      {
+        "text": "Presa, trazione, recupero",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, recupero aereo",
+        "correct": false
+      },
+      {
+        "text": "Presa, spinta, recupero",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, spinta, recupero",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Figure necessariamente presenti in una Scuola nuoto federale",
+    "answers": [
+      {
+        "text": "Direttore sportivo- coordinatore – istruttori",
+        "correct": true
+      },
+      {
+        "text": "Capo istruttori – assistente bagnanti - allenatori",
+        "correct": false
+      },
+      {
+        "text": "Istruttori - assistente bagnanti – coordinatori",
+        "correct": false
+      },
+      {
+        "text": "Maestro di salvamento – allenatore – istruttori",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Funzioni della gambata nel crawl",
+    "answers": [
+      {
+        "text": "Propulsivo e di riequilibrio",
+        "correct": false
+      },
+      {
+        "text": "Propulsivo, di galleggiamento e stabilizzante",
+        "correct": true
+      },
+      {
+        "text": "Recupero, presa, trazione e spinta",
+        "correct": false
+      },
+      {
+        "text": "Ristoro muscolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli ausili didattici vanno utilizzati in modo maggiore e continuativo per",
+    "answers": [
+      {
+        "text": "La didattica delle nuotate",
+        "correct": false
+      },
+      {
+        "text": "I galleggiamenti statici",
+        "correct": false
+      },
+      {
+        "text": "Il potenziamento a secco",
+        "correct": false
+      },
+      {
+        "text": "Il lavoro di tipo multilaterale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Gli esercizi nella fase del consolidamento devono essere",
+    "answers": [
+      {
+        "text": "Brevi e poco differenziati",
+        "correct": false
+      },
+      {
+        "text": "Brevi e molto differenziati",
+        "correct": false
+      },
+      {
+        "text": "Lunghi e ripetitivi",
+        "correct": true
+      },
+      {
+        "text": "Lunghi e molto differenziati",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Gli esercizi nella fase della conoscenza devono essere",
+    "answers": [
+      {
+        "text": "Brevi e poco differenziati",
+        "correct": false
+      },
+      {
+        "text": "Brevi e molto differenziati",
+        "correct": true
+      },
+      {
+        "text": "Lunghi e ripetitivi",
+        "correct": false
+      },
+      {
+        "text": "Lunghi e molto differenziati",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli esercizi nella fase della scoperta devono essere",
+    "answers": [
+      {
+        "text": "Brevi e poco differenziati",
+        "correct": true
+      },
+      {
+        "text": "Brevi e molto differenziati",
+        "correct": false
+      },
+      {
+        "text": "Lunghi e ripetitivi",
+        "correct": false
+      },
+      {
+        "text": "Lunghi e molto differenziati",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gli obiettivi affettivi indicano",
+    "answers": [
+      {
+        "text": "Ciò che l’allievo deve sapere",
+        "correct": false
+      },
+      {
+        "text": "Ciò che l’allievo deve provare davanti ad una situazione",
+        "correct": true
+      },
+      {
+        "text": "Come l’allievo si deve comportare",
+        "correct": false
+      },
+      {
+        "text": "I brevetti tecnici",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli obiettivi cognitivi indicano",
+    "answers": [
+      {
+        "text": "Ciò che l’allievo deve sapere",
+        "correct": true
+      },
+      {
+        "text": "Ciò che l’allievo deve saper fare",
+        "correct": false
+      },
+      {
+        "text": "Ciò che l’allievo deve provare davanti ad una situazione",
+        "correct": false
+      },
+      {
+        "text": "I brevetti tecnici",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gli obiettivi dell’educazione respiratoria sono",
+    "answers": [
+      {
+        "text": "Ossigenare il sangue",
+        "correct": false
+      },
+      {
+        "text": "Controllo delle apnee, delle inspirazioni/espirazioni in acqua",
+        "correct": true
+      },
+      {
+        "text": "Immergersi e rimanere sott’acqua per molto tempo",
+        "correct": false
+      },
+      {
+        "text": "Costituzione, coordinazione, controllo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli obiettivi finali sono",
+    "answers": [
+      {
+        "text": "Obiettivi esposti in termini generali che si possono raggiungere in tempi lunghi",
+        "correct": true
+      },
+      {
+        "text": "Obiettivi espressi con una certa specificità che si possono ottenere in periodi valutabili in mesi",
+        "correct": false
+      },
+      {
+        "text": "I brevetti tecnici",
+        "correct": false
+      },
+      {
+        "text": "Obiettivi espressi in operazioni concrete raggiungibili nei tempi di una unità didattica",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gli obiettivi intermedi sono",
+    "answers": [
+      {
+        "text": "Obiettivi esposti in termini generali che si possono raggiungere in tempi lunghi",
+        "correct": false
+      },
+      {
+        "text": "Obiettivi espressi con una certa specificità che si possono ottenere in periodi valutabili in mesi",
+        "correct": true
+      },
+      {
+        "text": "Obiettivi espressi in operazioni concrete raggiungibili nei tempi di una unità didattica",
+        "correct": false
+      },
+      {
+        "text": "I brevetti tecnici",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli obiettivi motori indicano",
+    "answers": [
+      {
+        "text": "Ciò che l’allievo deve sapere",
+        "correct": false
+      },
+      {
+        "text": "Ciò che l’allievo deve saper fare",
+        "correct": true
+      },
+      {
+        "text": "Come l’allievo si deve comportare",
+        "correct": false
+      },
+      {
+        "text": "I brevetti tecnici",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli obiettivi operativi sono",
+    "answers": [
+      {
+        "text": "Obiettivi esposti in termini generali che si possono raggiungere in tempi lunghi",
+        "correct": false
+      },
+      {
+        "text": "Progressioni didattiche",
+        "correct": false
+      },
+      {
+        "text": "Obiettivi espressi con una certa specificità che si possono ottenere in periodi valutabili in mesi",
+        "correct": false
+      },
+      {
+        "text": "Obiettivi espressi in operazioni concrete raggiungibili nei tempi di una unità didattica",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Gli organi della FIN sono",
+    "answers": [
+      {
+        "text": "Gli organi periferici e centrali",
+        "correct": false
+      },
+      {
+        "text": "Gli organi centrali ed internazionali",
+        "correct": false
+      },
+      {
+        "text": "Gli organi ministeriali",
+        "correct": false
+      },
+      {
+        "text": "Gli organi centrali, periferici e di giustizia",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Grazie a quale principio fisico il corpo umano galleggia in acqua?",
+    "answers": [
+      {
+        "text": "Principio di gravità",
+        "correct": false
+      },
+      {
+        "text": "Principio di azione e reazione",
+        "correct": false
+      },
+      {
+        "text": "Principio di Archimede",
+        "correct": true
+      },
+      {
+        "text": "Principio di Bernoulli",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "I livelli tecnici minimi previsti dalla scuola nuoto federale sono: #####",
+    "answers": [
+      {
+        "text": "2 #####",
+        "correct": false
+      },
+      {
+        "text": "3 #####",
+        "correct": false
+      },
+      {
+        "text": "4 #####",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "I prerequisiti per l’insegnamento della virata a crawl sono",
+    "answers": [
+      {
+        "text": "Saper effettuare la capovolta",
+        "correct": true
+      },
+      {
+        "text": "Possedere una buona tecnica in almeno tre stili",
+        "correct": false
+      },
+      {
+        "text": "Inserire il gesto tecnico subito dopo il tuffo di partenza",
+        "correct": false
+      },
+      {
+        "text": "Buone capacità anaerobiche alattacide",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "I principali obiettivi della ginnastica educativa sono",
+    "answers": [
+      {
+        "text": "Consolidamento delle capacità condizionali e sviluppo della resistenza alla forza",
+        "correct": false
+      },
+      {
+        "text": "Acquisizione a secco delle tecniche di nuotata",
+        "correct": false
+      },
+      {
+        "text": "Controllo della respirazione in fase di apnea, sviluppo della forza, controllo visivo",
+        "correct": false
+      },
+      {
+        "text": "Sviluppo degli schemi motori di base, sviluppo dello schema corporeo, miglioramento delle capacità coordinative",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il coordinatore della scuola nuoto",
+    "answers": [
+      {
+        "text": "Rappresenta la società, definisce gli obiettivi sulla base delle risorse disponibili",
+        "correct": false
+      },
+      {
+        "text": "Pone in essere le indicazioni della direzione",
+        "correct": true
+      },
+      {
+        "text": "Programma e attua la preparazione delle squadre agonistiche",
+        "correct": false
+      },
+      {
+        "text": "Sviluppa autonomamente il proprio percorso didattico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il crawl prevede movimenti",
+    "answers": [
+      {
+        "text": "Simmetrici",
+        "correct": false
+      },
+      {
+        "text": "Simultanei",
+        "correct": false
+      },
+      {
+        "text": "Isometrici",
+        "correct": false
+      },
+      {
+        "text": "Alternati",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il galleggiamento dipende principalmente",
+    "answers": [
+      {
+        "text": "Dalla viscosità del liquido",
+        "correct": true
+      },
+      {
+        "text": "Dal risucchio o vortice",
+        "correct": false
+      },
+      {
+        "text": "Dalla costituzione corporea",
+        "correct": false
+      },
+      {
+        "text": "Dalla quantità di aria nei polmoni",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il galleggiamento statico può essere definito come",
+    "answers": [
+      {
+        "text": "La posizione in cui centro di gravità e baricentro coincidono",
+        "correct": false
+      },
+      {
+        "text": "La posizione in cui la spinta di galleggiamento si trova più in alto del baricentro",
+        "correct": false
+      },
+      {
+        "text": "L’equilibrio olistico fra uomo e acqua",
+        "correct": false
+      },
+      {
+        "text": "La posizione di equilibrio tra baricentro e centro di gravità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il movimento degli arti inferiori, nella nuotata a rana, si distingue in (nell’ordine)",
+    "answers": [
+      {
+        "text": "Scivolamento, spinta e recupero",
+        "correct": false
+      },
+      {
+        "text": "Flessione, spinta e scivolamento",
+        "correct": true
+      },
+      {
+        "text": "Flessione, scivolamento e spinta",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il raggiungimento degli obiettivi dell’ambientamento si deducono dal fatto che",
+    "answers": [
+      {
+        "text": "Il soggetto in acqua non ha paura",
+        "correct": false
+      },
+      {
+        "text": "Il soggetto in acqua è rilassato e padroneggia in modo elementare il suo corpo",
+        "correct": true
+      },
+      {
+        "text": "Il soggetto in acqua si sposta dal bordo alla corsia in maniera autonoma",
+        "correct": false
+      },
+      {
+        "text": "Il soggetto consegue uno o più brevetti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il recupero delle braccia a rana è",
+    "answers": [
+      {
+        "text": "Propulsivo",
+        "correct": false
+      },
+      {
+        "text": "Stabilizzante",
+        "correct": false
+      },
+      {
+        "text": "Alternato",
+        "correct": false
+      },
+      {
+        "text": "Veloce",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il recupero delle braccia nella nuotata a farfalla inizia",
+    "answers": [
+      {
+        "text": "Durante la respirazione",
+        "correct": false
+      },
+      {
+        "text": "All’inizio della trazione",
+        "correct": false
+      },
+      {
+        "text": "Alla fine della spinta",
+        "correct": true
+      },
+      {
+        "text": "Durante la fase di scivolamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Il rollio è un movimento di spalle e busto sull’asse sagittale, si esegue",
+    "answers": [
+      {
+        "text": "In fase di partenza",
+        "correct": false
+      },
+      {
+        "text": "Nella rana",
+        "correct": false
+      },
+      {
+        "text": "Nello stile libero e nel dorso",
+        "correct": true
+      },
+      {
+        "text": "Nella farfalla",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Il torpedo è un attrezzo che si usa",
+    "answers": [
+      {
+        "text": "Come ausilio didattico nell’ambientamento",
+        "correct": false
+      },
+      {
+        "text": "Nel Salvamento",
+        "correct": true
+      },
+      {
+        "text": "Nel nuoto per disabili",
+        "correct": false
+      },
+      {
+        "text": "Nel nuoto sincronizzato",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il trudgen è",
+    "answers": [
+      {
+        "text": "Una nuotata a crawl, ma con le gambe a farfalla",
+        "correct": false
+      },
+      {
+        "text": "Una nuotata a crawl, ma con le gambe che effettuano un colpo di gambe a rana o sforbiciano",
+        "correct": true
+      },
+      {
+        "text": "Una nuotata a dorso con l’azione delle braccia simultanea",
+        "correct": false
+      },
+      {
+        "text": "Una nuotata a farfalla con le gambe a rana",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In caso di attivazione del STE cosa si deve comunicare, nell’ordine?",
+    "answers": [
+      {
+        "text": "Luogo, condizioni del pericolante e recapito telefonico",
+        "correct": true
+      },
+      {
+        "text": "Luogo, recapito telefonico e condizioni del pericolante",
+        "correct": false
+      },
+      {
+        "text": "Condizioni del pericolante, recapito telefonico e luogo",
+        "correct": false
+      },
+      {
+        "text": "Età, peso, statura, livello tecnico del pericolante",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In caso di incidente in piscina quale numero telefonico è necessario usare per innescare la cosiddetta catena della sopravvivenza? #####",
+    "answers": [
+      {
+        "text": "112 #####",
+        "correct": true
+      },
+      {
+        "text": "113 #####",
+        "correct": false
+      },
+      {
+        "text": "117 #####",
+        "correct": false
+      },
+      {
+        "text": "118",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In che cosa consiste la revisione della programmazione didattica?",
+    "answers": [
+      {
+        "text": "Rielaborazione di tutte le fasi della programmazione",
+        "correct": false
+      },
+      {
+        "text": "Rifacimento di tutta la programmazione",
+        "correct": false
+      },
+      {
+        "text": "Sostituzione dei supporti didattici",
+        "correct": false
+      },
+      {
+        "text": "Rielaborazione degli elementi che si ritengono migliorabili",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "In che posizione si trova il gomito, rispetto alla mano, nel recupero a stile libero?",
+    "answers": [
+      {
+        "text": "Più in alto",
+        "correct": true
+      },
+      {
+        "text": "Allo stesso livello",
+        "correct": false
+      },
+      {
+        "text": "Più in basso",
+        "correct": false
+      },
+      {
+        "text": "È indifferente",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In quale nuotata non c’è il limite dei 15 metri subacquei in fase di partenza e dopo ogni virata?",
+    "answers": [
+      {
+        "text": "Stile libero",
+        "correct": false
+      },
+      {
+        "text": "Dorso",
+        "correct": false
+      },
+      {
+        "text": "Rana",
+        "correct": true
+      },
+      {
+        "text": "Farfalla",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In quale ordine si svolge la staffetta 4x100 metri mista?",
+    "answers": [
+      {
+        "text": "Farfalla – dorso – rana – stile libero",
+        "correct": false
+      },
+      {
+        "text": "Dorso – rana – farfalla – stile libero",
+        "correct": true
+      },
+      {
+        "text": "Dorso - farfalla – rana - stile libero",
+        "correct": false
+      },
+      {
+        "text": "Stile libero – dorso – rana - farfalla",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In quali nuotate si esegue il rollio?",
+    "answers": [
+      {
+        "text": "Rana e farfalla",
+        "correct": false
+      },
+      {
+        "text": "Nessuna",
+        "correct": false
+      },
+      {
+        "text": "Crawl e dorso",
+        "correct": true
+      },
+      {
+        "text": "Crawl e farfalla",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In termini giuridici, chi è responsabile?",
+    "answers": [
+      {
+        "text": "Chi assume su di sé l’onere del rischio e delle conseguenze provocate dal proprio comportamento",
+        "correct": true
+      },
+      {
+        "text": "Chi si fa carico del risarcimento economico conseguente a un dato comportamento",
+        "correct": false
+      },
+      {
+        "text": "L’oggetto dell’azione della magistratura",
+        "correct": false
+      },
+      {
+        "text": "Chi accetta di assumere la responsabilità delle proprie azioni",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In un ciclo completo di braccia a farfalla, quante battute di gambe si eseguono normalmente?",
+    "answers": [
+      {
+        "text": "Una",
+        "correct": false
+      },
+      {
+        "text": "Due",
+        "correct": true
+      },
+      {
+        "text": "Tre",
+        "correct": false
+      },
+      {
+        "text": "Nessuna, le gambe vengono trascinate dal movimento del tronco",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In un massaggio cardiaco si comprime ritmicamente il torace ad una frequenza di",
+    "answers": [
+      {
+        "text": "10 - 15 colpi al minuto",
+        "correct": false
+      },
+      {
+        "text": "30 - 50 colpi al minuto",
+        "correct": false
+      },
+      {
+        "text": "80 - 100 colpi al minuto",
+        "correct": true
+      },
+      {
+        "text": "150 - 180 colpi al minuto",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In una gara a stile libero un concorrente può rimanere in completa immersione",
+    "answers": [
+      {
+        "text": "Per tutta la distanza che deve coprire",
+        "correct": false
+      },
+      {
+        "text": "Mai",
+        "correct": false
+      },
+      {
+        "text": "Alla partenza ed alle virate, per un massimo di 10 metri",
+        "correct": false
+      },
+      {
+        "text": "Alla partenza ed alle virate, per un massimo di 15 metri",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "In una gara di misti individuali o di staffetta mista, la frazione a stile libero è intesa come",
+    "answers": [
+      {
+        "text": "Nuotare tassativamente a crawl",
+        "correct": false
+      },
+      {
+        "text": "Nuotare uno stile qualsiasi",
+        "correct": false
+      },
+      {
+        "text": "Nuotare uno stile qualsiasi anche subacqueo",
+        "correct": false
+      },
+      {
+        "text": "Nuotare uno stile che non sia la farfalla, il dorso, la rana",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "In una gara di nuoto quante partenze sono previste?",
+    "answers": [
+      {
+        "text": "Due (la seconda comunque valida)",
+        "correct": false
+      },
+      {
+        "text": "Una (comunque valida)",
+        "correct": true
+      },
+      {
+        "text": "Tre (la terza comunque valida)",
+        "correct": false
+      },
+      {
+        "text": "Quattro (la quarta comunque valida)",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In una gara di stile libero individuale è possibile nuotare",
+    "answers": [
+      {
+        "text": "In qualsiasi modo",
+        "correct": true
+      },
+      {
+        "text": "Solo a crawl",
+        "correct": false
+      },
+      {
+        "text": "Tirandosi alla corda separatrice",
+        "correct": false
+      },
+      {
+        "text": "Spingendosi dal fondo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In una gara, in quali nuotate è possibile fermarsi in piedi sul fondo della vasca senza incorrere in una squalifica?",
+    "answers": [
+      {
+        "text": "Non è possibile in nessuno stile",
+        "correct": false
+      },
+      {
+        "text": "Solo nello stile libero",
+        "correct": true
+      },
+      {
+        "text": "Solo stile libero e dorso",
+        "correct": false
+      },
+      {
+        "text": "Nella rana",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Indica alcuni segnali che evidenziano la paura",
+    "answers": [
+      {
+        "text": "Stato di tensione generale, rigidità, silenzio, ritardo nelle reazioni, esagerata percezione del freddo",
+        "correct": true
+      },
+      {
+        "text": "Dichiarazioni esplicite",
+        "correct": false
+      },
+      {
+        "text": "Perdita di conoscenza",
+        "correct": false
+      },
+      {
+        "text": "Ribellione, disattenzione, ipercinesia",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Indica le principali cause di paura",
+    "answers": [
+      {
+        "text": "Esperienza diretta negativa dell’acqua",
+        "correct": false
+      },
+      {
+        "text": "Esperienza diretta negativa dell’acqua, esperienze indirette, imitazione dei comportamenti di altri",
+        "correct": true
+      },
+      {
+        "text": "Esperienze raccontate circa la pericolosità dell’acqua",
+        "correct": false
+      },
+      {
+        "text": "Tradizioni familiari",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Inserire il gioco durante la lezione significa",
+    "answers": [
+      {
+        "text": "Utilizzarlo come strumento didattico",
+        "correct": true
+      },
+      {
+        "text": "Creare un diversivo che aiuta a vincere le paure",
+        "correct": false
+      },
+      {
+        "text": "Premiare gli allievi",
+        "correct": false
+      },
+      {
+        "text": "Rilassarsi in vista del turno successivo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’acronimo che indica la procedura di rianimazione è: #####",
+    "answers": [
+      {
+        "text": "BLS #####",
+        "correct": true
+      },
+      {
+        "text": "BDSM #####",
+        "correct": false
+      },
+      {
+        "text": "IRS #####",
+        "correct": false
+      },
+      {
+        "text": "SDS",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’ambientamento in acqua alta",
+    "answers": [
+      {
+        "text": "Stimola maggiormente la ricerca degli equilibri",
+        "correct": true
+      },
+      {
+        "text": "Si può fare, ma solo con ciambelle, braccioli e/o altri sussidi didattici",
+        "correct": false
+      },
+      {
+        "text": "Rappresenta la modalità ottimale",
+        "correct": false
+      },
+      {
+        "text": "Non si può fare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’ambientamento",
+    "answers": [
+      {
+        "text": "Non è necessario",
+        "correct": false
+      },
+      {
+        "text": "È importante per conoscere l’ambiente piscina",
+        "correct": false
+      },
+      {
+        "text": "È importante solo con i bambini di massimo 6 anni",
+        "correct": false
+      },
+      {
+        "text": "È la fase fondamentale della scuola nuoto",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’analisi della situazione iniziale è la fase della programmazione didattica nella quale",
+    "answers": [
+      {
+        "text": "Si analizza il contesto per fare delle scelte",
+        "correct": true
+      },
+      {
+        "text": "Si immagina come dovrà essere il nostro allievo dopo un certo periodo di esperienza",
+        "correct": false
+      },
+      {
+        "text": "Si definiscono le tappe delle varie progressioni didattiche",
+        "correct": false
+      },
+      {
+        "text": "Si scelgono le strategie migliori per arrivare agli obiettivi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’insegnamento delle nuotate a secco",
+    "answers": [
+      {
+        "text": "È indispensabile per il corretto apprendimento delle nuotate in acqua",
+        "correct": false
+      },
+      {
+        "text": "È molto utile perché crea i presupposti per l’apprendimento in acqua",
+        "correct": false
+      },
+      {
+        "text": "Risulta utile solo per l’apprendimento delle nuotate a rana e farfalla",
+        "correct": false
+      },
+      {
+        "text": "È inutile, vista la posizione del corpo e la diversa densità dell’aria rispetto all’acqua",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’inspirazione nella nuotata a rana si effettua",
+    "answers": [
+      {
+        "text": "Al termine della fase di trazione",
+        "correct": true
+      },
+      {
+        "text": "Durante la fase di presa",
+        "correct": false
+      },
+      {
+        "text": "Durante la fase di spinta",
+        "correct": false
+      },
+      {
+        "text": "Durante la fase di recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’istruttore deve stimolare la fantasia e l’attenzione del bambino attraverso",
+    "answers": [
+      {
+        "text": "Una proposta di esercizi per la respirazione",
+        "correct": false
+      },
+      {
+        "text": "La propria autorevolezza",
+        "correct": false
+      },
+      {
+        "text": "Un tuffo dal blocco di partenza",
+        "correct": false
+      },
+      {
+        "text": "Il gioco",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’istruttore deve",
+    "answers": [
+      {
+        "text": "Gridare",
+        "correct": false
+      },
+      {
+        "text": "Tenere il gruppo ordinato e in assoluto silenzio",
+        "correct": false
+      },
+      {
+        "text": "Vincere",
+        "correct": false
+      },
+      {
+        "text": "Sapere, saper fare, saper far fare, saper essere, saper comunicare",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’istruttore nella fase del consolidamento dovrebbe",
+    "answers": [
+      {
+        "text": "Essere attento alla relazione",
+        "correct": false
+      },
+      {
+        "text": "Concentrarsi sull’esercizio",
+        "correct": false
+      },
+      {
+        "text": "Lavorare anche a secco",
+        "correct": false
+      },
+      {
+        "text": "Vigilare sull’esecuzione corretta",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’istruttore nella fase della conoscenza dovrebbe",
+    "answers": [
+      {
+        "text": "Essere attento alla relazione",
+        "correct": false
+      },
+      {
+        "text": "Concentrarsi sull’esercizio",
+        "correct": true
+      },
+      {
+        "text": "Lavorare anche a secco",
+        "correct": false
+      },
+      {
+        "text": "Vigilare sull’esecuzione corretta",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’istruttore nella fase della scoperta dovrebbe",
+    "answers": [
+      {
+        "text": "Essere attento alla relazione",
+        "correct": true
+      },
+      {
+        "text": "Concentrarsi sull’esercizio",
+        "correct": false
+      },
+      {
+        "text": "Lavorare anche a secco",
+        "correct": false
+      },
+      {
+        "text": "Vigilare sull’esecuzione corretta",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’obiettivo di una programmazione deve essere",
+    "answers": [
+      {
+        "text": "Formulato in positivo",
+        "correct": true
+      },
+      {
+        "text": "Basato esclusivamente su aspetti tecnico-didattici",
+        "correct": false
+      },
+      {
+        "text": "Limitato nel tempo.",
+        "correct": false
+      },
+      {
+        "text": "Definito grazie a criterio, razionalità, casualità",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’obiettivo principale di un corso di nuoto è",
+    "answers": [
+      {
+        "text": "Sviluppare le capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Acquisire una postura corretta",
+        "correct": false
+      },
+      {
+        "text": "Massimizzare la performance",
+        "correct": false
+      },
+      {
+        "text": "Sviluppare capacità senso-percettive e coordinative speciali",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’organizzazione della singola lezione",
+    "answers": [
+      {
+        "text": "Non deve mai avere il requisito dell’estemporaneità",
+        "correct": true
+      },
+      {
+        "text": "Deve prevedere una ripetizione sistematica di esercizi",
+        "correct": false
+      },
+      {
+        "text": "Non deve prevedere momenti di svago, gli allievi potrebbero distrarsi dal compito",
+        "correct": false
+      },
+      {
+        "text": "Deve prevedere lunghe pause per consentire la rielaborazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’organizzazione didattica della lezione è costituita da",
+    "answers": [
+      {
+        "text": "Scoperta, conoscenza e consolidamento",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, spinta e recupero",
+        "correct": false
+      },
+      {
+        "text": "Introduzione, consolidamento, apprendimento e conclusiva/ricreativa",
+        "correct": true
+      },
+      {
+        "text": "Pianificazione degli strumenti e dei metodi",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "L’organizzazione si può definire come",
+    "answers": [
+      {
+        "text": "Una procedura flessibile che controlla e verifica il lavoro per stabilire tempi e modi dell’intervento",
+        "correct": true
+      },
+      {
+        "text": "Un procedere unilaterale di proposte volte al raggiungimento dell’obiettivo",
+        "correct": false
+      },
+      {
+        "text": "Una progressione di esercizi finalizzati al miglioramento della situazione iniziale",
+        "correct": false
+      },
+      {
+        "text": "Un insieme di procedure codificate e standardizzate",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’overarm è",
+    "answers": [
+      {
+        "text": "Una nuotata a dorso con gambe rana",
+        "correct": false
+      },
+      {
+        "text": "Una nuotata a dorso con gambe a delfino",
+        "correct": false
+      },
+      {
+        "text": "Una tecnica di tiro della pallanuoto",
+        "correct": false
+      },
+      {
+        "text": "Una nuotata sul fianco",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La fabulazione è",
+    "answers": [
+      {
+        "text": "L’arte di creare e raccontare storie",
+        "correct": true
+      },
+      {
+        "text": "Una pratica medica",
+        "correct": false
+      },
+      {
+        "text": "Uno stile comunicativo",
+        "correct": false
+      },
+      {
+        "text": "Una modalità fondamentale di apprendimento",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La fase propulsiva della bracciata a rana si divide in",
+    "answers": [
+      {
+        "text": "Appoggio-presa, trazione, spinta e recupero",
+        "correct": true
+      },
+      {
+        "text": "Spinta, allungo, distensione, recupero",
+        "correct": false
+      },
+      {
+        "text": "Appoggio, allungo",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La fase propulsiva più significativa della gambata nel crawl è",
+    "answers": [
+      {
+        "text": "La fase ascensionale",
+        "correct": false
+      },
+      {
+        "text": "La fase terminale",
+        "correct": false
+      },
+      {
+        "text": "La fase discendente",
+        "correct": true
+      },
+      {
+        "text": "Nessuna delle risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La fase propulsiva più significativa della gambata nel dorso è",
+    "answers": [
+      {
+        "text": "La fase ascensionale",
+        "correct": true
+      },
+      {
+        "text": "La fase discendente",
+        "correct": false
+      },
+      {
+        "text": "La fase obliqua",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La forza di gravità in acqua",
+    "answers": [
+      {
+        "text": "Non si manifesta",
+        "correct": false
+      },
+      {
+        "text": "Si manifesta ed è bilanciata dalla spinta idrostatica",
+        "correct": true
+      },
+      {
+        "text": "Si manifesta ed è superiore a quella riscontrata sulla terra",
+        "correct": false
+      },
+      {
+        "text": "Risulta utile per il galleggiamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La frustata verso il basso della gambata a farfalla provoca",
+    "answers": [
+      {
+        "text": "Il sollevamento del bacino del nuotatore",
+        "correct": true
+      },
+      {
+        "text": "L’abbassamento del bacino del nuotatore",
+        "correct": false
+      },
+      {
+        "text": "Un brusco scartamento",
+        "correct": false
+      },
+      {
+        "text": "Il sollevamento di tutto il corpo del nuotatore",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La ginnastica prenatatoria",
+    "answers": [
+      {
+        "text": "È proponibile in tutte le fasce d’età",
+        "correct": true
+      },
+      {
+        "text": "Serve per migliorare le capacità condizionali in età infantile",
+        "correct": false
+      },
+      {
+        "text": "È da escludere nella terza età",
+        "correct": false
+      },
+      {
+        "text": "È inutile",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La nuotata a farfalla prevede un’azione braccia/gambe",
+    "answers": [
+      {
+        "text": "Alternata",
+        "correct": false
+      },
+      {
+        "text": "Asimmetrica",
+        "correct": false
+      },
+      {
+        "text": "Aciclica",
+        "correct": false
+      },
+      {
+        "text": "Ciclica",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La peculiarità tecnica del piede a martello è caratteristica del colpo di gambe a",
+    "answers": [
+      {
+        "text": "Farfalla",
+        "correct": false
+      },
+      {
+        "text": "Rana",
+        "correct": true
+      },
+      {
+        "text": "Dorso",
+        "correct": false
+      },
+      {
+        "text": "Crawl",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La posizione laterale di sicurezza si adotta quando la persona da soccorrere",
+    "answers": [
+      {
+        "text": "Non è cosciente, presenta spontanea attività cardiaca ed assenza di quella respiratoria",
+        "correct": false
+      },
+      {
+        "text": "Non è più in vita",
+        "correct": false
+      },
+      {
+        "text": "Non è cosciente ma presenta spontaneamente attività respiratorie e cardiache",
+        "correct": true
+      },
+      {
+        "text": "È cosciente ma denuncia difficoltà respiratorie",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La pratica della pallanuoto favorisce",
+    "answers": [
+      {
+        "text": "La socializzazione e la cooperazione, lo sviluppo di abilità motorie",
+        "correct": true
+      },
+      {
+        "text": "Lo sviluppo della fase di egocentrismo",
+        "correct": false
+      },
+      {
+        "text": "Lo sviluppo di abilità motorie e della muscolatura degli arti superiori",
+        "correct": false
+      },
+      {
+        "text": "L’utilizzo di ausili didattici, per esempio il pallone",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La procedura o protocollo internazionale BLS consente di",
+    "answers": [
+      {
+        "text": "Chiamare i soccorsi sanitari di emergenza (118)",
+        "correct": true
+      },
+      {
+        "text": "Attivare il primo soccorso",
+        "correct": false
+      },
+      {
+        "text": "Gestire le conseguenze legali di un infortunio",
+        "correct": false
+      },
+      {
+        "text": "Effettuare le manovre di rianimazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La respirazione in acqua è",
+    "answers": [
+      {
+        "text": "Inconsapevole e automatica",
+        "correct": false
+      },
+      {
+        "text": "Normale e disinvolta",
+        "correct": false
+      },
+      {
+        "text": "Problematica e angosciante",
+        "correct": false
+      },
+      {
+        "text": "Forzata e cosciente",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La respirazione nella nuotata a rana avviene",
+    "answers": [
+      {
+        "text": "Terminata la fase di presa",
+        "correct": false
+      },
+      {
+        "text": "All’inizio della trazione",
+        "correct": false
+      },
+      {
+        "text": "Tra il termine della trazione e l’inizio del recupero",
+        "correct": true
+      },
+      {
+        "text": "Ogni due cicli di bracciata",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La scelta degli esercizi è la fase della programmazione didattica in cui",
+    "answers": [
+      {
+        "text": "Si immagina come dovrà essere il nostro allievo dopo un certo periodo di esperienza",
+        "correct": false
+      },
+      {
+        "text": "Si definiscono le tappe della varie progressioni didattiche",
+        "correct": false
+      },
+      {
+        "text": "Si scelgono le strategie migliori per arrivare agli obiettivi",
+        "correct": true
+      },
+      {
+        "text": "Si valutano i risultati ottenuti",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La scelta dei mezzi e dei metodi è la fase della programmazione didattica in cui",
+    "answers": [
+      {
+        "text": "Si immagina come dovrà essere il nostro allievo dopo un certo periodo di esperienza",
+        "correct": false
+      },
+      {
+        "text": "Si acquista il materiale didattico",
+        "correct": false
+      },
+      {
+        "text": "Si scelgono le strategie migliori per arrivare agli obiettivi",
+        "correct": true
+      },
+      {
+        "text": "Si fa un piano di interventi rispetto al tempo a disposizione",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La singola lezione di nuoto in quali fasi è suddivisa?",
+    "answers": [
+      {
+        "text": "Introduzione, ambientazione, apprendimento e conclusione",
+        "correct": false
+      },
+      {
+        "text": "Introduzione, consolidamento, apprendimento e conclusione",
+        "correct": true
+      },
+      {
+        "text": "Introduzione, consolidamento, apprendimento, verifica e conclusione",
+        "correct": false
+      },
+      {
+        "text": "Introduzione, ambientazione, consolidamento e conclusione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La sommersione e la conseguente asfissia, con inondazione polmonare si dice",
+    "answers": [
+      {
+        "text": "Idrocuzione",
+        "correct": false
+      },
+      {
+        "text": "Emorragia",
+        "correct": false
+      },
+      {
+        "text": "Idrofobia",
+        "correct": false
+      },
+      {
+        "text": "Annegamento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le distanze olimpiche a stile libero sono",
+    "answers": [
+      {
+        "text": "200 e 400 metri",
+        "correct": false
+      },
+      {
+        "text": "4x100 e 4x200 metri",
+        "correct": false
+      },
+      {
+        "text": "50 e 100 metri",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti sono corrette",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le fasi dell’apprendimento sono",
+    "answers": [
+      {
+        "text": "Scoperta, conoscenza e consolidamento",
+        "correct": true
+      },
+      {
+        "text": "Gioco, scoperta e conoscenza",
+        "correct": false
+      },
+      {
+        "text": "Lettura e studio",
+        "correct": false
+      },
+      {
+        "text": "Gioco, conoscenza e studio",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le fasi di una bracciata",
+    "answers": [
+      {
+        "text": "Subiscono piccole pause per incrementi di forza",
+        "correct": false
+      },
+      {
+        "text": "Sono uguali in tutti gli stili",
+        "correct": false
+      },
+      {
+        "text": "A livello generale sono presa, trazione, spinta e recupero",
+        "correct": true
+      },
+      {
+        "text": "Sono regolate prevalentemente dalle informazioni dell’analizzatore ottico e sono presa, trazione, spinta e recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Le fasi fondamentali della bracciata sono generalmente",
+    "answers": [
+      {
+        "text": "Ascendente e discendente",
+        "correct": false
+      },
+      {
+        "text": "Recupero, presa e trazione",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione e recupero",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, spinta e recupero",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le nuotate simmetriche sono",
+    "answers": [
+      {
+        "text": "Dorso e crawl",
+        "correct": false
+      },
+      {
+        "text": "Farfalla e rana",
+        "correct": true
+      },
+      {
+        "text": "Dorso e Farfalla",
+        "correct": false
+      },
+      {
+        "text": "Crawl e rana",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le remate del nuoto sincronizzato nella scuola nuoto sono utili per",
+    "answers": [
+      {
+        "text": "Prendere confidenza con l’acqua",
+        "correct": false
+      },
+      {
+        "text": "Affinare la sensibilità",
+        "correct": true
+      },
+      {
+        "text": "Sviluppare le capacità e le abilità necessarie al nuoto sincronizzato",
+        "correct": false
+      },
+      {
+        "text": "Non sono utili",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le remate sono",
+    "answers": [
+      {
+        "text": "Esercizi specifici dell’aquaswimtraining",
+        "correct": false
+      },
+      {
+        "text": "Tecniche specifiche del nuoto per salvamento",
+        "correct": false
+      },
+      {
+        "text": "Andature eseguite con gli arti inferiori ai fini dell’avanzamento",
+        "correct": false
+      },
+      {
+        "text": "Movimenti degli arti superiori utili per il mantenimento dell’equilibrio",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Lo scivolamento nella nuotata a rana ha una funzione",
+    "answers": [
+      {
+        "text": "Propulsiva",
+        "correct": false
+      },
+      {
+        "text": "Equilibratrice",
+        "correct": false
+      },
+      {
+        "text": "Fissativa",
+        "correct": true
+      },
+      {
+        "text": "Stabilizzatrice",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Lo strumento più adatto per vincere la paura è",
+    "answers": [
+      {
+        "text": "Il gioco",
+        "correct": true
+      },
+      {
+        "text": "La compagnia di un genitore che assicuri serenità al bambino",
+        "correct": false
+      },
+      {
+        "text": "Il gioco abbinato da subito a tecniche specifiche",
+        "correct": false
+      },
+      {
+        "text": "La realizzazione di un’attività poco emozionante e rischiosa",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Mettere nel giusto ordine le seguenti fasi di un processo didattico",
+    "answers": [
+      {
+        "text": "Analisi della situazione di partenza, definizione degli obiettivi, scelta di mezzi e metodi, valutazione finale",
+        "correct": true
+      },
+      {
+        "text": "Definizione degli obiettivi, scelta di mezzi e metodi, analisi della situazione di partenza, valutazione finale",
+        "correct": false
+      },
+      {
+        "text": "Scelta di mezzi e metodi, analisi della situazione di partenza, definizione degli obiettivi, valutazione finale",
+        "correct": false
+      },
+      {
+        "text": "Definizione degli obiettivi, analisi della situazione di partenza, valutazione finale, definizione degli obiettivi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nel bambino la paura dell’acqua viene rimossa con",
+    "answers": [
+      {
+        "text": "L’entrare solo quando lo chiede",
+        "correct": false
+      },
+      {
+        "text": "Esperienze positive",
+        "correct": true
+      },
+      {
+        "text": "Spiegazioni dell’istruttore",
+        "correct": false
+      },
+      {
+        "text": "La presenza dei genitori",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel crawl la coordinazione classica per ogni ciclo di braccia prevede",
+    "answers": [
+      {
+        "text": "Sei battute di gambe",
+        "correct": true
+      },
+      {
+        "text": "Due battute di gambe",
+        "correct": false
+      },
+      {
+        "text": "Quattro battute di gambe",
+        "correct": false
+      },
+      {
+        "text": "Dieci battute di gambe",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nel crawl la fase più efficace agli effetti propulsivi è",
+    "answers": [
+      {
+        "text": "La presa",
+        "correct": false
+      },
+      {
+        "text": "La trazione",
+        "correct": false
+      },
+      {
+        "text": "La spinta",
+        "correct": true
+      },
+      {
+        "text": "La fase aerea",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nel crawl, la bracciata si effettua a",
+    "answers": [
+      {
+        "text": "Gomito flesso sia nel recupero che nella fase subacquea",
+        "correct": true
+      },
+      {
+        "text": "Gomito disteso sia nel recupero che nella fase subacquea",
+        "correct": false
+      },
+      {
+        "text": "Braccio teso",
+        "correct": false
+      },
+      {
+        "text": "Gomito disteso nel recupero e flesso nella fase subacquea",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nel crawl",
+    "answers": [
+      {
+        "text": "L’azione propulsiva è ripartita in modo uguale tra gambe e braccia",
+        "correct": false
+      },
+      {
+        "text": "Tra spinta e recupero, in determinate condizioni è preferibile effettuare una piccolissima pausa",
+        "correct": false
+      },
+      {
+        "text": "La fase di trazione è la più importante ai fini della propulsione",
+        "correct": false
+      },
+      {
+        "text": "Il recupero avviene fuori dall’acqua, con il braccio flesso, i muscoli decontratti , il gomito alto e la mano che sfiora l’acqua",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nel crawl",
+    "answers": [
+      {
+        "text": "L’azione propulsiva è ripartita in modo uguale tra gambe e braccia",
+        "correct": false
+      },
+      {
+        "text": "Braccia e gambe contribuiscono in egual maniera alla propulsione",
+        "correct": false
+      },
+      {
+        "text": "È importante la posizione del gomito alto e avanzato nella fase di trazione",
+        "correct": true
+      },
+      {
+        "text": "Tra spinta e recupero, in determinate condizioni è preferibile effettuare una piccola pausa",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nel crawl",
+    "answers": [
+      {
+        "text": "È importante che l’atleta inspiri per tutto il tratto subacqueo della bracciata.",
+        "correct": false
+      },
+      {
+        "text": "L’allungamento del corpo incide poco sullo scivolamento.",
+        "correct": false
+      },
+      {
+        "text": "La testa deve essere tenuta alta per garantire la miglior posizione idrodinamica.",
+        "correct": false
+      },
+      {
+        "text": "Tra spinta e recupero ci deve essere continuità.",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nel dorso è un errore più grave",
+    "answers": [
+      {
+        "text": "Non effettuare il rollio",
+        "correct": false
+      },
+      {
+        "text": "Fermare la bracciata lungo i fianchi",
+        "correct": true
+      },
+      {
+        "text": "Muovere le gambe a bicicletta",
+        "correct": false
+      },
+      {
+        "text": "Nuotare con il capo leggermente sollevato sull’acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel dorso la bracciata è",
+    "answers": [
+      {
+        "text": "Gomito flesso sia nella fase aerea che in quella subacquea",
+        "correct": false
+      },
+      {
+        "text": "Gomito disteso nella fase aerea e flesso in quella subacquea",
+        "correct": true
+      },
+      {
+        "text": "Gomito disteso nella fase aerea e in quella subacquea",
+        "correct": false
+      },
+      {
+        "text": "Braccio teso",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel dorso la coordinazione respiratoria",
+    "answers": [
+      {
+        "text": "Non ha molta importanza in quanto la bocca è sempre fuori dall’acqua e non influisce sul rendimento della nuotata",
+        "correct": false
+      },
+      {
+        "text": "È corretto ritmarla ed automatizzarla per avere scambio d’aria frequente e assicurare una buona ossigenazione del sangue",
+        "correct": true
+      },
+      {
+        "text": "Si può respirare ogni 6/8 bracciate, indipendentemente dalla frequenza",
+        "correct": false
+      },
+      {
+        "text": "È importante unicamente nelle distanze gara dei 100 e 200 metri dorso, nei 50 metri si può anche non respirare",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel dorso, al termine della fase di recupero, come entra in acqua la mano?",
+    "answers": [
+      {
+        "text": "Con il dorso",
+        "correct": false
+      },
+      {
+        "text": "Con il palmo rivolto verso il corpo del nuotatore",
+        "correct": false
+      },
+      {
+        "text": "Con il palmo della mano rivolto verso l’esterno",
+        "correct": true
+      },
+      {
+        "text": "Con il palmo rivolto verso il basso",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nel dorso, le braccia, si trovano sempre in posizione",
+    "answers": [
+      {
+        "text": "Contrapposta",
+        "correct": true
+      },
+      {
+        "text": "Parallela",
+        "correct": false
+      },
+      {
+        "text": "Libera",
+        "correct": false
+      },
+      {
+        "text": "Perpendicolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nel dorso, nella fase di spinta è importante",
+    "answers": [
+      {
+        "text": "Esprimere il minimo della forza",
+        "correct": false
+      },
+      {
+        "text": "Esprimere il massimo della forza",
+        "correct": true
+      },
+      {
+        "text": "Creare una pausa prima dell’inizio del recupero",
+        "correct": false
+      },
+      {
+        "text": "Respirare",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel galleggiamento statico supino in che posizione sono le braccia rispetto al corpo?",
+    "answers": [
+      {
+        "text": "In alto",
+        "correct": false
+      },
+      {
+        "text": "In fuori",
+        "correct": true
+      },
+      {
+        "text": "Lungo i fianchi",
+        "correct": false
+      },
+      {
+        "text": "In basso",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel kick (o pull kick) del nuoto sincronizzato il movimento effettuato dalle gambe è",
+    "answers": [
+      {
+        "text": "A forbice",
+        "correct": false
+      },
+      {
+        "text": "Alternato",
+        "correct": false
+      },
+      {
+        "text": "Bicicletta",
+        "correct": false
+      },
+      {
+        "text": "A rana",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nel nuoto sincronizzato la posizione dell’alligatore si effettua",
+    "answers": [
+      {
+        "text": "Solo da proni",
+        "correct": false
+      },
+      {
+        "text": "Solo da supini",
+        "correct": false
+      },
+      {
+        "text": "Sia proni che supini",
+        "correct": true
+      },
+      {
+        "text": "Sul fianco",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nel processo di ambientamento si segue quale ordine?",
+    "answers": [
+      {
+        "text": "Immersione-scivolamento- galleggiamento-rilassamento- educazione respiratoria",
+        "correct": false
+      },
+      {
+        "text": "Immersione-rilassamento- scivolamento-educazione respiratoria-galleggiamento",
+        "correct": false
+      },
+      {
+        "text": "Educazione respiratoria- galleggiamento-rilassamento- scivolamento-immersione",
+        "correct": false
+      },
+      {
+        "text": "Immersione-rilassamento-educazione respiratoria-galleggiamento- scivolamento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nel tuffo, per entrare in acqua in modo dolce (senza spanciare) bisogna",
+    "answers": [
+      {
+        "text": "Flettere la testa in avanti",
+        "correct": true
+      },
+      {
+        "text": "Spingere con le gambe molto forte dal bordo o dal blocco",
+        "correct": false
+      },
+      {
+        "text": "Non tuffarsi",
+        "correct": false
+      },
+      {
+        "text": "Trattenere l’aria più possibile",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nell’ambientamento degli adulti",
+    "answers": [
+      {
+        "text": "Si propongono attività uguali a quelle dei bambini",
+        "correct": false
+      },
+      {
+        "text": "Non è necessario utilizzare la vasca didattica",
+        "correct": false
+      },
+      {
+        "text": "È indispensabile la tavoletta",
+        "correct": false
+      },
+      {
+        "text": "Si può utilizzare un approccio maggiormente cognitivo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nell’ambientamento in acqua alta l’istruttore deve essere",
+    "answers": [
+      {
+        "text": "Fuori dall’acqua",
+        "correct": true
+      },
+      {
+        "text": "In acqua",
+        "correct": false
+      },
+      {
+        "text": "Una lezione fuori, una in acqua",
+        "correct": false
+      },
+      {
+        "text": "È indifferente",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nell’ambientamento quale di queste situazioni è utile?",
+    "answers": [
+      {
+        "text": "Avere bene in mente schemi rigidi e precisi",
+        "correct": false
+      },
+      {
+        "text": "Iniziare in maniera precoce l’impostazione della nuotata",
+        "correct": false
+      },
+      {
+        "text": "Una leadership autoritaria",
+        "correct": false
+      },
+      {
+        "text": "L’impostazione della attività in maniera giocosa",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nell’ambito della ginnastica educativa e prenatatoria quale è il complesso articolare la cui mobilità è meno stimolabile?",
+    "answers": [
+      {
+        "text": "Complesso articolare del ginocchio",
+        "correct": true
+      },
+      {
+        "text": "Complesso articolare della colonna vertebrale",
+        "correct": false
+      },
+      {
+        "text": "Complesso articolare tibio–tarsico",
+        "correct": false
+      },
+      {
+        "text": "Complesso articolare scapolo- omerale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nell’insegnamento del nuoto il gioco può essere utilizzato come",
+    "answers": [
+      {
+        "text": "Strumento per sviluppare la motricità innata dell’individuo e come mezzo per l’apprendimento di tecniche motorie più complesse",
+        "correct": true
+      },
+      {
+        "text": "Ricompensa per un’esercitazione od un allenamento ben svolto",
+        "correct": false
+      },
+      {
+        "text": "Pausa per permettere agli allievi di scaricare la tensione e riacquisire le giuste motivazioni all’apprendimento",
+        "correct": false
+      },
+      {
+        "text": "Mezzo per ammansire i genitori degli allievi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nell’insegnamento della bracciata a dorso bisogna verificare che",
+    "answers": [
+      {
+        "text": "La respirazione venga effettuata solo con il naso",
+        "correct": false
+      },
+      {
+        "text": "Il recupero venga effettuato a braccio disteso e ben alto, con mano rilassata",
+        "correct": true
+      },
+      {
+        "text": "La trazione avvenga in profondità, e non lateralmente",
+        "correct": false
+      },
+      {
+        "text": "Le gambe si muovano simmetricamente",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nell’insegnamento della farfalla è bene procedere",
+    "answers": [
+      {
+        "text": "Con brevi tratti molto veloci",
+        "correct": true
+      },
+      {
+        "text": "Con tratti anche lunghi ma nuotati correttamente",
+        "correct": false
+      },
+      {
+        "text": "Con serie piramidali",
+        "correct": false
+      },
+      {
+        "text": "Con ripetute di almeno 50 metri, per una corretta assimilazione del gesto tecnico",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nell’insegnamento delle quattro nuotate qual è lo stile che si insegna partendo dall’azione degli arti inferiori?",
+    "answers": [
+      {
+        "text": "Rana",
+        "correct": true
+      },
+      {
+        "text": "Crawl",
+        "correct": false
+      },
+      {
+        "text": "Farfalla",
+        "correct": false
+      },
+      {
+        "text": "Dorso",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nell’insegnamento di una nuotata cosa è opportuno curare inizialmente?",
+    "answers": [
+      {
+        "text": "Costanza, precisione e fluidità dei movimenti",
+        "correct": false
+      },
+      {
+        "text": "Caratteristiche elementari del movimento",
+        "correct": false
+      },
+      {
+        "text": "Struttura di base, ritmo ed accoppiamento dei movimenti",
+        "correct": true
+      },
+      {
+        "text": "Coordinazione e controllo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nell’organizzazione di una singola lezione si deve dedicare più tempo a",
+    "answers": [
+      {
+        "text": "La fase di introduzione",
+        "correct": false
+      },
+      {
+        "text": "La fase di consolidamento",
+        "correct": false
+      },
+      {
+        "text": "La fase di apprendimento",
+        "correct": true
+      },
+      {
+        "text": "La fase di rinforzo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella bracciata a crawl e a dorso è utile effettuare una pausa nell’azione delle braccia?",
+    "answers": [
+      {
+        "text": "No",
+        "correct": true
+      },
+      {
+        "text": "Sì",
+        "correct": false
+      },
+      {
+        "text": "Dipende dalla capacità di resistenza aerobica del soggetto",
+        "correct": false
+      },
+      {
+        "text": "Sì a crawl, no a dorso",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella didattica della farfalla s’inizia insegnando",
+    "answers": [
+      {
+        "text": "Il colpo di gambe per ricercare il movimento del bacino",
+        "correct": true
+      },
+      {
+        "text": "Tutto insieme per facilitare la comprensione tecnica",
+        "correct": false
+      },
+      {
+        "text": "La bracciata, che è il principale fattore di avanzamento",
+        "correct": false
+      },
+      {
+        "text": "È indifferente perché è uno stile facile da imparare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella didattica della farfalla, il termine delfinizzazione significa",
+    "answers": [
+      {
+        "text": "Movimento degli arti durante la nuotata",
+        "correct": true
+      },
+      {
+        "text": "Il momento della respirazione",
+        "correct": false
+      },
+      {
+        "text": "L’atteggiamento mentale che il nuotatore deve assumere",
+        "correct": false
+      },
+      {
+        "text": "Gli esercizi da proporre per ottenere un movimento ondulatorio del corpo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella farfalla è obbligatorio eseguire una respirazione",
+    "answers": [
+      {
+        "text": "Ogni ciclo di bracciata",
+        "correct": false
+      },
+      {
+        "text": "Ogni due cicli di bracciata",
+        "correct": false
+      },
+      {
+        "text": "Due per ciclo di bracciata",
+        "correct": false
+      },
+      {
+        "text": "Non c’è nessun obbligo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella farfalla il ritmo braccia/gambe va insegnato",
+    "answers": [
+      {
+        "text": "Da subito per aiutare il principiante a velocizzare la nuotata",
+        "correct": false
+      },
+      {
+        "text": "Dopo l’età puberale quando vi è un aumento sostanziale della forza",
+        "correct": false
+      },
+      {
+        "text": "Solo agli allievi giovani",
+        "correct": false
+      },
+      {
+        "text": "Non va insegnato, si definisce con l’evoluzione della nuotata",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella farfalla la battuta di gambe deve essere, pena squalifica",
+    "answers": [
+      {
+        "text": "Libera",
+        "correct": true
+      },
+      {
+        "text": "Armoniosa",
+        "correct": false
+      },
+      {
+        "text": "Simmetrica, simultanea e con i piedi tassativamente alla stessa altezza",
+        "correct": false
+      },
+      {
+        "text": "Simmetrica, simultanea anche se con i piedi non alla stessa altezza",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella farfalla, la respirazione avviene",
+    "answers": [
+      {
+        "text": "Durante il recupero",
+        "correct": false
+      },
+      {
+        "text": "Quando se ne ha bisogno",
+        "correct": false
+      },
+      {
+        "text": "Durante la fase di appoggio/presa",
+        "correct": false
+      },
+      {
+        "text": "Durante la fase di spinta",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella farfalla, terminata la trazione le mani spingono con forza verso",
+    "answers": [
+      {
+        "text": "Il Petto",
+        "correct": false
+      },
+      {
+        "text": "L’esterno",
+        "correct": false
+      },
+      {
+        "text": "I fianchi",
+        "correct": true
+      },
+      {
+        "text": "L’alto",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella farfalla",
+    "answers": [
+      {
+        "text": "Tutti i movimenti devono essere eseguiti simmetricamente",
+        "correct": true
+      },
+      {
+        "text": "Tutti i movimenti devono essere eseguiti asimmetricamente",
+        "correct": false
+      },
+      {
+        "text": "La fase di spinta delle braccia è fondamentale per l’avanzamento",
+        "correct": false
+      },
+      {
+        "text": "Il recupero non va coordinato con l’azione delle gambe",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella fase del consolidamento",
+    "answers": [
+      {
+        "text": "Si incontra il problema da risolvere",
+        "correct": false
+      },
+      {
+        "text": "Si sperimenta la soluzione",
+        "correct": false
+      },
+      {
+        "text": "Si memorizza la soluzione",
+        "correct": true
+      },
+      {
+        "text": "Si attende un’illuminazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella fase della conoscenza",
+    "answers": [
+      {
+        "text": "Si incontra il problema da risolvere",
+        "correct": false
+      },
+      {
+        "text": "Si sperimenta la soluzione",
+        "correct": true
+      },
+      {
+        "text": "Si memorizza la soluzione",
+        "correct": false
+      },
+      {
+        "text": "Si attende un’illuminazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella fase della scoperta",
+    "answers": [
+      {
+        "text": "Si incontra il problema da risolvere",
+        "correct": true
+      },
+      {
+        "text": "Si sperimenta la soluzione",
+        "correct": false
+      },
+      {
+        "text": "Si memorizza la soluzione",
+        "correct": false
+      },
+      {
+        "text": "Si attende un’illuminazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella fase di consolidamento",
+    "answers": [
+      {
+        "text": "La durata è di circa 20 minuti",
+        "correct": false
+      },
+      {
+        "text": "Aumenta l’attenzione degli allievi perché aumentano le difficoltà in modo da predisporli alla fase successiva",
+        "correct": true
+      },
+      {
+        "text": "Troviamo il nucleo centrale della lezione",
+        "correct": false
+      },
+      {
+        "text": "Le nuove informazioni devono essere pianificate e ponderate",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella fase di trazione della bracciata a crawl il gomito deve essere",
+    "answers": [
+      {
+        "text": "Più basso rispetto alla mano",
+        "correct": false
+      },
+      {
+        "text": "Disteso",
+        "correct": false
+      },
+      {
+        "text": "Più alto rispetto alla mano",
+        "correct": true
+      },
+      {
+        "text": "Più avanti rispetto alla mano",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella fase iniziale dell’insegnamento della nuotata a crawl è più importante verificare",
+    "answers": [
+      {
+        "text": "La giusta flessione del gomito durante la trazione",
+        "correct": false
+      },
+      {
+        "text": "La continuità delle azioni e l’assenza di pause",
+        "correct": true
+      },
+      {
+        "text": "La flessione del gomito durante il recupero",
+        "correct": false
+      },
+      {
+        "text": "La traiettoria subacquea a S del braccio",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella fase subacquea a rana dopo la virata la corretta sequenza dei movimenti è",
+    "answers": [
+      {
+        "text": "Spinta dal bordo, azione di braccia, gambata rana, recupero delle braccia",
+        "correct": true
+      },
+      {
+        "text": "Presa/appoggio, trazione, spinta, recupero",
+        "correct": false
+      },
+      {
+        "text": "Spinta dal bordo, gambata a delfino, azione delle braccia, recupero, gambata rana",
+        "correct": false
+      },
+      {
+        "text": "Spinta dal bordo, bracciata, colpo di gambe a delfino, recupero delle braccia, gambata rana",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella ginnastica prenatatoria l’allenamento del complesso articolare della colonna vertebrale",
+    "answers": [
+      {
+        "text": "È importante perché questa struttura svolge il ruolo di asse portante per il capo, il tronco e per gli arti inferiori",
+        "correct": false
+      },
+      {
+        "text": "Deve essere effettuato sempre a intensità medio-basse",
+        "correct": false
+      },
+      {
+        "text": "Non prevede controindicazioni",
+        "correct": false
+      },
+      {
+        "text": "È importante perché questa struttura svolge il ruolo di asse portante per il capo, il tronco e per gli arti superiori",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella ginnastica prenatatoria, si cura",
+    "answers": [
+      {
+        "text": "La mobilità articolare",
+        "correct": true
+      },
+      {
+        "text": "Lo sviluppo delle capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "La tecnica di nuotata a secco",
+        "correct": false
+      },
+      {
+        "text": "Lo stretching",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella nuotata a crawl che tipo di movimenti si eseguono sia con gli arti superiori sia con gli arti inferiori?",
+    "answers": [
+      {
+        "text": "Alternato e ciclico",
+        "correct": true
+      },
+      {
+        "text": "Simultaneo e ciclico",
+        "correct": false
+      },
+      {
+        "text": "Simultaneo e simmetrico",
+        "correct": false
+      },
+      {
+        "text": "Simmetrico e alternato",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella nuotata a crawl, per ottimizzare la tecnica, la mano dovrebbe uscire",
+    "answers": [
+      {
+        "text": "All’altezza dell’anca",
+        "correct": false
+      },
+      {
+        "text": "All’altezza della coscia",
+        "correct": true
+      },
+      {
+        "text": "All’altezza del ginocchio",
+        "correct": false
+      },
+      {
+        "text": "All’altezza della spalla",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a dorso che funzione ha, nella parte finale della spinta, l’azione della mano verso il basso?",
+    "answers": [
+      {
+        "text": "Propulsiva",
+        "correct": false
+      },
+      {
+        "text": "Stabilizzatrice",
+        "correct": false
+      },
+      {
+        "text": "Liberatoria",
+        "correct": true
+      },
+      {
+        "text": "Alternativa",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella nuotata a dorso",
+    "answers": [
+      {
+        "text": "Non è presente il rollio",
+        "correct": false
+      },
+      {
+        "text": "Durante tutta la prima fase della bracciata il gomito deve essere in linea con la mano e il poso",
+        "correct": false
+      },
+      {
+        "text": "Durante tutta la prima fase della bracciata si deve mantenere il gomito più alto della mano e del polso",
+        "correct": true
+      },
+      {
+        "text": "Non è importante la continuità del movimento",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella nuotata a farfalla la fase subacquea della bracciata è formata da",
+    "answers": [
+      {
+        "text": "Appoggio-presa/trazione/ spinta",
+        "correct": true
+      },
+      {
+        "text": "Presa/trazione/recupero",
+        "correct": false
+      },
+      {
+        "text": "Appoggio-presa/spinta/recupero",
+        "correct": false
+      },
+      {
+        "text": "Presa/recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella nuotata a farfalla la respirazione avviene",
+    "answers": [
+      {
+        "text": "Al termine della fase di recupero",
+        "correct": false
+      },
+      {
+        "text": "In fase di spinta",
+        "correct": true
+      },
+      {
+        "text": "Ogni quattro colpi di gambe",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a farfalla, i movimenti degli arti superiori e inferiori sono",
+    "answers": [
+      {
+        "text": "Simmetrici e alternati",
+        "correct": false
+      },
+      {
+        "text": "Simultanei e simmetrici",
+        "correct": true
+      },
+      {
+        "text": "Simultanei e alternati",
+        "correct": false
+      },
+      {
+        "text": "Alternati e equilibrati",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a farfalla, il secondo colpo di gambe che funzione ha?",
+    "answers": [
+      {
+        "text": "Propulsiva",
+        "correct": false
+      },
+      {
+        "text": "Stabilizzatrice",
+        "correct": true
+      },
+      {
+        "text": "Equilibratrice",
+        "correct": false
+      },
+      {
+        "text": "Conservatrice",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a farfalla",
+    "answers": [
+      {
+        "text": "La prima battuta delle gambe non si relaziona al movimento delle braccia",
+        "correct": false
+      },
+      {
+        "text": "Il capo esce per la respirazione prima che la mani oltrepassano la linea delle spalle",
+        "correct": false
+      },
+      {
+        "text": "Il capo esce per la respirazione dopo che la mani oltrepassano la linea delle spalle",
+        "correct": true
+      },
+      {
+        "text": "Il capo può uscire per la respirazione indipendentemente dalla posizione delle mani",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella nuotata a rana l’inspirazione avviene quando",
+    "answers": [
+      {
+        "text": "Sia gli arti inferiori che quelli superiori sono completamente distesi",
+        "correct": false
+      },
+      {
+        "text": "Le spalle si trovano sopra la superficie dell’acqua",
+        "correct": true
+      },
+      {
+        "text": "Le braccia sono distese e le gambe sono flesse",
+        "correct": false
+      },
+      {
+        "text": "Le mani sono in fase di appoggio/presa",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a rana la gamba inizia a flettersi sulla coscia",
+    "answers": [
+      {
+        "text": "Nella fase di presa della bracciata",
+        "correct": false
+      },
+      {
+        "text": "Tra la trazione e il recupero delle braccia",
+        "correct": true
+      },
+      {
+        "text": "Alla fine del recupero delle braccia",
+        "correct": false
+      },
+      {
+        "text": "Quando il corpo è in completa estensione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a rana le fasi della bracciata sono",
+    "answers": [
+      {
+        "text": "Trazione, spinta, recupero, presa",
+        "correct": false
+      },
+      {
+        "text": "Spinta, trazione, recupero",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, spinta, recupero",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, recupero",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella nuotata a rana, la respirazione è",
+    "answers": [
+      {
+        "text": "Frontale",
+        "correct": true
+      },
+      {
+        "text": "Come si preferisce",
+        "correct": false
+      },
+      {
+        "text": "Alternata",
+        "correct": false
+      },
+      {
+        "text": "Laterale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella nuotata a rana, tutti i movimenti degli arti vengono eseguiti",
+    "answers": [
+      {
+        "text": "Asincroni",
+        "correct": false
+      },
+      {
+        "text": "Sott’acqua",
+        "correct": false
+      },
+      {
+        "text": "Simultaneamente",
+        "correct": false
+      },
+      {
+        "text": "Simmetricamente",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella nuotata con trasporto del pericolante quale tipo di battuta gambe è preferibile utilizzare?",
+    "answers": [
+      {
+        "text": "Crawl",
+        "correct": false
+      },
+      {
+        "text": "Farfalla",
+        "correct": false
+      },
+      {
+        "text": "Rana",
+        "correct": false
+      },
+      {
+        "text": "Bicicletta",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella nuotata dorso l’azione subacquea degli arti superiori si distingue in",
+    "answers": [
+      {
+        "text": "Appoggio/presa, trazione e spinta",
+        "correct": true
+      },
+      {
+        "text": "Trazione e spinta",
+        "correct": false
+      },
+      {
+        "text": "Appoggio/presa e spinta",
+        "correct": false
+      },
+      {
+        "text": "Trazione, spinta, recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella pallanuoto quali sono i mezzi a disposizione per la fase di attacco?",
+    "answers": [
+      {
+        "text": "I lanci, i marcamenti e i tiri",
+        "correct": false
+      },
+      {
+        "text": "I lanci, gli spostamenti, le intercettazioni del pallone e i tiri",
+        "correct": false
+      },
+      {
+        "text": "I lanci, gli spostamenti, i tiri e le segnature",
+        "correct": false
+      },
+      {
+        "text": "I lanci, gli spostamenti e i tiri",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella pallanuoto si distinguono due fasi, l’attacco e la difesa.Per l’attacco quali mezzi tecnici deve avere a disposizione la squadra?",
+    "answers": [
+      {
+        "text": "Marcamento – lancio – tiro",
+        "correct": false
+      },
+      {
+        "text": "Forza – resistenza – velocità",
+        "correct": false
+      },
+      {
+        "text": "Intercettamento del pallone – marcamento – lancio",
+        "correct": false
+      },
+      {
+        "text": "Lanci – spostamento – tiro",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella pallanuoto, quale fondamentale viene utilizzato per le partenze?",
+    "answers": [
+      {
+        "text": "Bicicletta",
+        "correct": false
+      },
+      {
+        "text": "Trudgen",
+        "correct": true
+      },
+      {
+        "text": "Gambata a Stile Libero",
+        "correct": false
+      },
+      {
+        "text": "Remata (sculling)",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella partenza a rana quante battute di gambe a delfino sono ammesse",
+    "answers": [
+      {
+        "text": "Nessuna",
+        "correct": false
+      },
+      {
+        "text": "Quante se ne vogliono, purché si riemerga entro i 15 metri",
+        "correct": false
+      },
+      {
+        "text": "Una",
+        "correct": true
+      },
+      {
+        "text": "Al massimo due",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella programmazione didattica che posto occupa la fase dell’ambientamento?",
+    "answers": [
+      {
+        "text": "Primo",
+        "correct": true
+      },
+      {
+        "text": "Secondo",
+        "correct": false
+      },
+      {
+        "text": "Terzo",
+        "correct": false
+      },
+      {
+        "text": "Ultimo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella progressione didattica per la rana, è importante curare la fase di scivolamento?",
+    "answers": [
+      {
+        "text": "No, perché lo scivolamento è una dote innata",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma solo nelle gare molto veloci",
+        "correct": false
+      },
+      {
+        "text": "Sì, perché è una caratteristica essenziale dello stile",
+        "correct": true
+      },
+      {
+        "text": "No, perché l’avanzamento viene, per la maggior parte, dal colpo di gambe",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella rana il colpo di gambe è",
+    "answers": [
+      {
+        "text": "A velocità costante",
+        "correct": false
+      },
+      {
+        "text": "In accelerazione",
+        "correct": true
+      },
+      {
+        "text": "A velocità uniforme",
+        "correct": false
+      },
+      {
+        "text": "Pressoché inifluente",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella rana la fase di recupero delle braccia è",
+    "answers": [
+      {
+        "text": "Subacquea",
+        "correct": true
+      },
+      {
+        "text": "Aerea",
+        "correct": false
+      },
+      {
+        "text": "Parzialmente subacquea",
+        "correct": false
+      },
+      {
+        "text": "Ellittica",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella rana la fase di spinta della bracciata",
+    "answers": [
+      {
+        "text": "Non è mai presente",
+        "correct": false
+      },
+      {
+        "text": "Non è mai assente",
+        "correct": false
+      },
+      {
+        "text": "È fondamentale",
+        "correct": false
+      },
+      {
+        "text": "È presente dopo alcuni particolari movimenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella rana la respirazione è",
+    "answers": [
+      {
+        "text": "Come si vuole",
+        "correct": false
+      },
+      {
+        "text": "Obliqua",
+        "correct": false
+      },
+      {
+        "text": "Laterale",
+        "correct": false
+      },
+      {
+        "text": "Frontale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella rana, la velocità di spostamento della mano è massima durante",
+    "answers": [
+      {
+        "text": "La Spinta",
+        "correct": false
+      },
+      {
+        "text": "La Trazione",
+        "correct": false
+      },
+      {
+        "text": "Il recupero",
+        "correct": false
+      },
+      {
+        "text": "La remata verso l’interno",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella rana",
+    "answers": [
+      {
+        "text": "La fase attiva della gambata avviene mentre le braccia si estendono in avanti",
+        "correct": true
+      },
+      {
+        "text": "La coordinazione ha un’importanza minore rispetto al dorso",
+        "correct": false
+      },
+      {
+        "text": "È fondamentale che la trazione inizi quando le gambe non sono completamente distese",
+        "correct": false
+      },
+      {
+        "text": "La trazione è ottimale se la profondità delle mani è di circa 25- 30 cm.",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella remata standard del nuoto sincronizzato (galleggiamento supino e braccia flesse lungo i fianchi) per spostarsi in direzione della testa la mano deve essere",
+    "answers": [
+      {
+        "text": "In flessione palmare con le dita più basse rispetto al polso",
+        "correct": false
+      },
+      {
+        "text": "In flessione dorsale con le dita più alte rispetto al polso",
+        "correct": true
+      },
+      {
+        "text": "Distesa in linea con l’avambraccio",
+        "correct": false
+      },
+      {
+        "text": "A martello",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella virata a dorso, cosa non è consentito fare in posizione prona?",
+    "answers": [
+      {
+        "text": "Muovere le braccia",
+        "correct": false
+      },
+      {
+        "text": "Espirare",
+        "correct": false
+      },
+      {
+        "text": "Muovere la testa",
+        "correct": false
+      },
+      {
+        "text": "Muovere le gambe",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella virata a rana il tocco delle mani sulla parete come deve avvenire?",
+    "answers": [
+      {
+        "text": "Simultaneamente",
+        "correct": true
+      },
+      {
+        "text": "È sufficiente solo il tocco di una mano",
+        "correct": false
+      },
+      {
+        "text": "Basta toccare la parete con una qualsiasi parte del corpo",
+        "correct": false
+      },
+      {
+        "text": "Tassativamente sotto il pelo dell’acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella virata a rana",
+    "answers": [
+      {
+        "text": "È consentita l’azione dall’alto verso il basso degli arti inferiori",
+        "correct": false
+      },
+      {
+        "text": "È consentito toccare il bordo con le mani a differenti altezze",
+        "correct": true
+      },
+      {
+        "text": "È consigliabile affondare le spalle nella fase di entrata",
+        "correct": false
+      },
+      {
+        "text": "È consigliabile ridurre l’angolo tra coscia e gamba per avere un colpo di gambe più efficace",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nelle gare a farfalla la distanza più lunga è",
+    "answers": [
+      {
+        "text": "400 metri",
+        "correct": false
+      },
+      {
+        "text": "200 metri",
+        "correct": true
+      },
+      {
+        "text": "100 metri",
+        "correct": false
+      },
+      {
+        "text": "50 metri",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nello stile libero è un errore più grave",
+    "answers": [
+      {
+        "text": "Respirare ogni 4 bracciate",
+        "correct": false
+      },
+      {
+        "text": "Effettuare la passata subacquea con le dita leggermente aperte",
+        "correct": false
+      },
+      {
+        "text": "Nuotare con le gambe che battono poco",
+        "correct": false
+      },
+      {
+        "text": "Respirare frontalmente invece che lateralmente",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Obblighi dell’istruttore",
+    "answers": [
+      {
+        "text": "Diligenza, prudenza, perizia",
+        "correct": true
+      },
+      {
+        "text": "Epica, etica, etnica, pathos",
+        "correct": false
+      },
+      {
+        "text": "Prudenza, giustizia, fortezza, temperanza",
+        "correct": false
+      },
+      {
+        "text": "Costituzione, condizione, coordinazione, controllo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Organizzare un corso di nuoto significa",
+    "answers": [
+      {
+        "text": "Seguire esclusivamente le progressioni didattiche prestabilite",
+        "correct": false
+      },
+      {
+        "text": "Proporre esercizi sempre più difficili",
+        "correct": false
+      },
+      {
+        "text": "Lavorare seguendo il principio della casualità",
+        "correct": false
+      },
+      {
+        "text": "Avere ben chiari gli obiettivi che si vogliono perseguire",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per acquisire un efficiente ritmo respiratorio quale di queste capacità bisogna padroneggiare correttamente?",
+    "answers": [
+      {
+        "text": "Trattenere l’aria",
+        "correct": false
+      },
+      {
+        "text": "Svuotare completamente i polmoni",
+        "correct": true
+      },
+      {
+        "text": "Soffiare bocca/naso",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Per evitare incidenti l’istruttore non deve mai",
+    "answers": [
+      {
+        "text": "Perdere di vista gli allievi",
+        "correct": true
+      },
+      {
+        "text": "Contare gli allievi",
+        "correct": false
+      },
+      {
+        "text": "Parlare con i colleghi",
+        "correct": false
+      },
+      {
+        "text": "Lasciar scadere il tesserino",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per evitare incidenti l’istruttore non deve mai",
+    "answers": [
+      {
+        "text": "Distrarsi",
+        "correct": false
+      },
+      {
+        "text": "Voltare le spalle agli allievi",
+        "correct": false
+      },
+      {
+        "text": "Assentarsi",
+        "correct": false
+      },
+      {
+        "text": "Tutte le voci precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per facilitare il galleggiamento gli arti devono essere",
+    "answers": [
+      {
+        "text": "Rigidamente distesi",
+        "correct": false
+      },
+      {
+        "text": "Flessi",
+        "correct": false
+      },
+      {
+        "text": "Distesi e rilassati",
+        "correct": true
+      },
+      {
+        "text": "In continuo movimento per spostare l’acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Per il raggiungimento degli obiettivi dell’attività motoria in acqua è consigliato dividere i gruppi",
+    "answers": [
+      {
+        "text": "Secondo parametri oggettivi (misurazioni antropometriche: altezza, ampiezza braccia, peso, ecc)",
+        "correct": false
+      },
+      {
+        "text": "Tra maschi e femmine",
+        "correct": false
+      },
+      {
+        "text": "Per livello tecnico/capacità",
+        "correct": true
+      },
+      {
+        "text": "Per simpatia",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Per quale distanza massima è permesso ad un concorrente di rimanere completamente immerso dopo la partenza e dopo ogni virata nelle gare di stile libero dorso e farfalla?",
+    "answers": [
+      {
+        "text": "12,5 metri",
+        "correct": false
+      },
+      {
+        "text": "15 metri",
+        "correct": true
+      },
+      {
+        "text": "10 metri",
+        "correct": false
+      },
+      {
+        "text": "25 metri",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Per quale motivo è opportuno prevedere l’insegnamento della farfalla come ultimo dei quattro stili?",
+    "answers": [
+      {
+        "text": "Perché necessita di buoni livelli di forza e resistenza",
+        "correct": true
+      },
+      {
+        "text": "Perché ha elevati gradi di difficoltà coordinativa",
+        "correct": false
+      },
+      {
+        "text": "Perché ci vogliono abilità acquatiche particolari",
+        "correct": false
+      },
+      {
+        "text": "Perché i movimenti di tipo ondulatorio creano scompensi alla colonna vertebrale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per quale motivo il recupero delle braccia nella farfalla deve avvenire a braccia distese?",
+    "answers": [
+      {
+        "text": "Perché è il movimento più semplice",
+        "correct": false
+      },
+      {
+        "text": "Per evitare un eccessivo innalzamento delle spalle",
+        "correct": true
+      },
+      {
+        "text": "Per effettuare una trazione più efficace",
+        "correct": false
+      },
+      {
+        "text": "Per non incorrere in una squalifica",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Per quali delle seguenti discipline acquatiche è fondamentale l’apprendimento della bicicletta?",
+    "answers": [
+      {
+        "text": "Nuoto in acque libere-tuffi da grandi altezze",
+        "correct": false
+      },
+      {
+        "text": "Nuoto-pallanuoto-nuoto sincronizzato",
+        "correct": false
+      },
+      {
+        "text": "Tuffi-pallanuoto-nuoto sincronizzato",
+        "correct": false
+      },
+      {
+        "text": "Pallanuoto-nuoto sincronizzato- salvamento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per un buon galleggiamento è fondamentale",
+    "answers": [
+      {
+        "text": "L’uso dei braccioli",
+        "correct": false
+      },
+      {
+        "text": "L’uso del bastone ricurvo",
+        "correct": false
+      },
+      {
+        "text": "La presenza dell’istruttore o del genitore",
+        "correct": false
+      },
+      {
+        "text": "Il rilassamento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per un ciclo completo delle braccia a farfalla quante gambate sono necessarie?",
+    "answers": [
+      {
+        "text": "Nessuna",
+        "correct": false
+      },
+      {
+        "text": "Due",
+        "correct": true
+      },
+      {
+        "text": "Tre",
+        "correct": false
+      },
+      {
+        "text": "Quattro",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Perché è importante conoscere le tecniche di primo soccorso?",
+    "answers": [
+      {
+        "text": "Per ampliare le proprie conoscenze e il bagaglio culturale",
+        "correct": false
+      },
+      {
+        "text": "Per avere più prestigio fra i tecnici brevettati",
+        "correct": false
+      },
+      {
+        "text": "Per acquisire gli indispensabili crediti formativi",
+        "correct": false
+      },
+      {
+        "text": "Per effettuare un corretto intervento in caso di necessità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Perché è importante far svolgere agli allievi attività di immersione in acqua fonda?",
+    "answers": [
+      {
+        "text": "Per imparare a raccogliere gli oggetti dal fondo ed essere capaci di immergere le testa",
+        "correct": false
+      },
+      {
+        "text": "Per conoscere lo spazio sottostante e sentire che l’acqua spinge verso l’alto",
+        "correct": true
+      },
+      {
+        "text": "Perché è piacevole ed insegna a soffiare",
+        "correct": false
+      },
+      {
+        "text": "Non è opportuno svolgere questo tipo di esercitazioni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Perché la rana è lo stile più lento?",
+    "answers": [
+      {
+        "text": "Perché la posizione in acqua è più inclinata rispetto agli altri stili",
+        "correct": false
+      },
+      {
+        "text": "Perché è uno stile discontinuo",
+        "correct": true
+      },
+      {
+        "text": "Perché la testa rompe la superficie dell’acqua ad ogni bracciata",
+        "correct": false
+      },
+      {
+        "text": "Perché non c’è la fase di spinta nella bracciata",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Principale problema che s’incontra nell’insegnamento del dorso",
+    "answers": [
+      {
+        "text": "Impostazione della posizione dei piedi",
+        "correct": false
+      },
+      {
+        "text": "Posizione in acqua seduta",
+        "correct": true
+      },
+      {
+        "text": "Spinta delle braccia sufficiente per la propulsione",
+        "correct": false
+      },
+      {
+        "text": "Coordinazione tra bracciata e respirazione laterale",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Principale problema che s’incontra nell’insegnamento della farfalla",
+    "answers": [
+      {
+        "text": "Impostazione della posizione dei piedi",
+        "correct": false
+      },
+      {
+        "text": "Posizione in acqua seduta",
+        "correct": false
+      },
+      {
+        "text": "Spinta delle braccia sufficiente per la propulsione",
+        "correct": true
+      },
+      {
+        "text": "Coordinazione tra bracciata e respirazione laterale",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Principale problema che s’incontra nell’insegnamento della rana",
+    "answers": [
+      {
+        "text": "Impostazione della posizione dei piedi",
+        "correct": true
+      },
+      {
+        "text": "Posizione in acqua seduta",
+        "correct": false
+      },
+      {
+        "text": "Spinta delle braccia sufficiente per la propulsione",
+        "correct": false
+      },
+      {
+        "text": "Coordinazione tra bracciata e respirazione laterale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Principale problema che s’incontra nell’insegnamento dello stile libero",
+    "answers": [
+      {
+        "text": "Impostazione della posizione dei piedi",
+        "correct": false
+      },
+      {
+        "text": "Posizione in acqua seduta",
+        "correct": false
+      },
+      {
+        "text": "Spinta delle braccia sufficiente per la propulsione",
+        "correct": false
+      },
+      {
+        "text": "Coordinazione tra bracciata e respirazione laterale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Principio indispensabile della nuotata a crawl è",
+    "answers": [
+      {
+        "text": "Il sollevamento della testa per agevolare la respirazione",
+        "correct": false
+      },
+      {
+        "text": "La continuità delle azioni",
+        "correct": true
+      },
+      {
+        "text": "L’eliminazione del rollio del tronco",
+        "correct": false
+      },
+      {
+        "text": "L’inserimento di una pauso dopo la spinta di ciascun braccio per sfruttare lo scivolamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è il momento in cui è più probabile possa accadere un incidente in piscina?",
+    "answers": [
+      {
+        "text": "Nella fase di ginnastica prenatatoria",
+        "correct": false
+      },
+      {
+        "text": "Nella fase di riscaldamento in acqua",
+        "correct": false
+      },
+      {
+        "text": "Nel cambio tra un turno e l’altro",
+        "correct": true
+      },
+      {
+        "text": "Durante l’insegnamento delle gambe a rana",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qual è l’elemento indispensabile per eseguire un tuffo?",
+    "answers": [
+      {
+        "text": "Saltare più in alto possibile",
+        "correct": false
+      },
+      {
+        "text": "Controllare lo sbilanciamento in avanti",
+        "correct": true
+      },
+      {
+        "text": "Saper trattenere il respiro (apnea)",
+        "correct": false
+      },
+      {
+        "text": "Tenere il naso chiuso",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è l’esercizio che presenta maggiori difficoltà di esecuzione per l’allievo nell’apprendimento dello stile libero?",
+    "answers": [
+      {
+        "text": "Battuta di gambe",
+        "correct": false
+      },
+      {
+        "text": "Bracciata",
+        "correct": false
+      },
+      {
+        "text": "Scivolo",
+        "correct": false
+      },
+      {
+        "text": "Respirazione",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qual è l’obiettivo della scuola nuoto federale?",
+    "answers": [
+      {
+        "text": "L’insegnamento delle quattro nuotate regolamentari",
+        "correct": false
+      },
+      {
+        "text": "La strutturazione e la realizzazione di un progetto di total quality",
+        "correct": true
+      },
+      {
+        "text": "L’erogazione di contributi da parte della FIN alle società affiliate",
+        "correct": false
+      },
+      {
+        "text": "Il censimento delle società affiliate presenti sul territorio nazionale",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è la corretta sequenza degli stili nelle gare di misti individuali?",
+    "answers": [
+      {
+        "text": "Dorso – rana – farfalla – crawl",
+        "correct": false
+      },
+      {
+        "text": "Crawl – dorso – rana – farfalla",
+        "correct": false
+      },
+      {
+        "text": "Farfalla – dorso – rana – crawl",
+        "correct": true
+      },
+      {
+        "text": "Dorso – farfalla – crawl – rana",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qual è la fase più propulsiva nella nuotata a stile libero?",
+    "answers": [
+      {
+        "text": "La spinta",
+        "correct": true
+      },
+      {
+        "text": "La trazione",
+        "correct": false
+      },
+      {
+        "text": "iI recupero",
+        "correct": false
+      },
+      {
+        "text": "La presa",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qual è la funzione principale della gambata a stile libero?",
+    "answers": [
+      {
+        "text": "Equilibratrice",
+        "correct": false
+      },
+      {
+        "text": "Propulsiva",
+        "correct": false
+      },
+      {
+        "text": "Rilassante",
+        "correct": false
+      },
+      {
+        "text": "Stabilizzatrice",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qual è la parte del corpo che viene maggiormente utilizzata per eseguire le remate?",
+    "answers": [
+      {
+        "text": "Piedi",
+        "correct": false
+      },
+      {
+        "text": "Mani",
+        "correct": true
+      },
+      {
+        "text": "Braccia",
+        "correct": false
+      },
+      {
+        "text": "Testa",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è la posizione più corretta della testa nuotando a dorso?",
+    "answers": [
+      {
+        "text": "Raccolta verso il petto",
+        "correct": false
+      },
+      {
+        "text": "In linea con il corpo",
+        "correct": true
+      },
+      {
+        "text": "Retroflessa",
+        "correct": false
+      },
+      {
+        "text": "Girata su un fianco",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è la prima forma di galleggiamento che è opportuno insegnare?",
+    "answers": [
+      {
+        "text": "Orizzontale",
+        "correct": true
+      },
+      {
+        "text": "Verticale",
+        "correct": false
+      },
+      {
+        "text": "Orizzontale o verticale senza differenza",
+        "correct": false
+      },
+      {
+        "text": "La facciamo scegliere al nostro allievo in relazione alle proprie attitudini",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qual è la progressione corretta delle fasi dell’ambientamento in vasca didattica (acqua bassa)?",
+    "answers": [
+      {
+        "text": "Approccio con l’acqua, immersione del viso e respirazione, galleggiamenti",
+        "correct": false
+      },
+      {
+        "text": "Immersione del viso e respirazioni, galleggiamenti, approccio con l’acqua, prime propulsioni",
+        "correct": false
+      },
+      {
+        "text": "Approccio con l’acqua, immersione del viso e respirazione, galleggiamenti, gli scivolamenti, prime propulsioni.",
+        "correct": true
+      },
+      {
+        "text": "Approccio con l’acqua, immersione d viso e respirazione, galleggiamenti, prime propulsioni",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qual è la sequenza degli stili nella staffetta 4x100 mista?",
+    "answers": [
+      {
+        "text": "Farfalla, Dorso, Rana, Stile Libero",
+        "correct": false
+      },
+      {
+        "text": "Dorso, rana, farfalla, stile libero",
+        "correct": true
+      },
+      {
+        "text": "Stile libero, farfalla, rana, dorso",
+        "correct": false
+      },
+      {
+        "text": "A piacere degli atleti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è la successione delle nuotate nella gara dei 100 metri misti individuali?",
+    "answers": [
+      {
+        "text": "Rana – dorso – delfino – stile libero",
+        "correct": false
+      },
+      {
+        "text": "Farfalla – dorso – rana – stile libero",
+        "correct": true
+      },
+      {
+        "text": "Farfalla – rana – dorso – stile libero",
+        "correct": false
+      },
+      {
+        "text": "Stile libero – dorso – rana - farfalla",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è lo stile che assicura la massima velocità di spostamento in acqua?",
+    "answers": [
+      {
+        "text": "Il dorso",
+        "correct": false
+      },
+      {
+        "text": "Il trudgeon",
+        "correct": false
+      },
+      {
+        "text": "La farfalla",
+        "correct": false
+      },
+      {
+        "text": "Il crawl",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qual è un connotato che deve caratterizzare il modello didattico della scuola nuoto per adulti?",
+    "answers": [
+      {
+        "text": "La flessibilità a fronte di particolari problematiche individuali",
+        "correct": true
+      },
+      {
+        "text": "La rigida aderenza alle progressioni didattiche stabilite",
+        "correct": false
+      },
+      {
+        "text": "La costruzione di un sincero rapporto di amicizia",
+        "correct": false
+      },
+      {
+        "text": "La relazione fondata su un asettico rapporto professionale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale aspetto della pallanuoto aiuta lo sviluppo dei processi cognitivi?",
+    "answers": [
+      {
+        "text": "L’utilizzo delle tecniche di pallanuoto",
+        "correct": false
+      },
+      {
+        "text": "Lo spirito di squadra",
+        "correct": false
+      },
+      {
+        "text": "L’ideazione e attivazione di strategie tattiche",
+        "correct": false
+      },
+      {
+        "text": "L’ampliamento delle abilità motorie",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale dei seguenti campi gara è omologabile?",
+    "answers": [
+      {
+        "text": "m. 50x21",
+        "correct": false
+      },
+      {
+        "text": "m. 33,33 x 15",
+        "correct": false
+      },
+      {
+        "text": "m. 25x10",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale delle seguenti affermazioni sulla nuotata a dorso non è corretta?",
+    "answers": [
+      {
+        "text": "Posizione orizzontale e postura rilassata, posizione idrodinamica",
+        "correct": false
+      },
+      {
+        "text": "Testa appoggiata sull’acqua",
+        "correct": false
+      },
+      {
+        "text": "Movimenti alternati e ciclici",
+        "correct": false
+      },
+      {
+        "text": "Bacino leggermente affondato",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale delle seguenti azioni non è causa di squalifica in una gara a rana?",
+    "answers": [
+      {
+        "text": "Ruotare sul dorso",
+        "correct": false
+      },
+      {
+        "text": "Superare la linea dei 15 metri durante la fase subacquea di nuotata",
+        "correct": true
+      },
+      {
+        "text": "Effettuare movimenti alternati delle braccia o delle gambe",
+        "correct": false
+      },
+      {
+        "text": "Portare i gomiti oltre la superficie dell’acqua (ad eccezione dell’ultima bracciata di ogni vasca e durante la virata)",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale fra le seguenti esercitazioni comporta il maggiore rischio di infortunio?",
+    "answers": [
+      {
+        "text": "Nuotata di sole gambe con tavoletta",
+        "correct": false
+      },
+      {
+        "text": "Galleggiamento statico",
+        "correct": false
+      },
+      {
+        "text": "Respirazioni a bordo vasca",
+        "correct": false
+      },
+      {
+        "text": "Tuffi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale rapporto esiste nella nuotata a farfalla tra bracciate e gambate? #####",
+    "answers": [
+      {
+        "text": "1/1 #####",
+        "correct": false
+      },
+      {
+        "text": "1/2 #####",
+        "correct": true
+      },
+      {
+        "text": "2/1 #####",
+        "correct": false
+      },
+      {
+        "text": "3/2",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale rapporto esiste nella nuotata a rana tra bracciate e gambate? #####",
+    "answers": [
+      {
+        "text": "1/ 1 #####",
+        "correct": true
+      },
+      {
+        "text": "2/ 1 #####",
+        "correct": false
+      },
+      {
+        "text": "4/ 1 #####",
+        "correct": false
+      },
+      {
+        "text": "6/ 1",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale segnale indica al nuotatore l’avvicinarsi della parete verticale durante una competizione?",
+    "answers": [
+      {
+        "text": "L’alternanza di colori nella corsia",
+        "correct": false
+      },
+      {
+        "text": "Un segnale acustico",
+        "correct": false
+      },
+      {
+        "text": "La T nera disegnata sul fondo della vasca a 2 metri dal bordo",
+        "correct": true
+      },
+      {
+        "text": "La T nera disegnata sul fondo della vasca a 1 metro dal bordo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale tra i seguenti elementi può influenzare maggiormente l’efficacia della nuotata a farfalla?",
+    "answers": [
+      {
+        "text": "Frequenza",
+        "correct": false
+      },
+      {
+        "text": "Profondità",
+        "correct": false
+      },
+      {
+        "text": "Ampiezza",
+        "correct": false
+      },
+      {
+        "text": "Continuità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale tra i seguenti non è un obiettivo della ginnastica educativa e prenatatoria?",
+    "answers": [
+      {
+        "text": "Apprendimento delle componenti gestuali delle nuotate",
+        "correct": true
+      },
+      {
+        "text": "Stimolazione delle capacità motorie in senso generale",
+        "correct": false
+      },
+      {
+        "text": "Facilitazione della socializzazione",
+        "correct": false
+      },
+      {
+        "text": "Elevare il tono funzionale di base in vista dell’attività in acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale, fra queste distanze gara, non è prevista dal regolamento federale?",
+    "answers": [
+      {
+        "text": "Staffetta 4x100 metri stile libero",
+        "correct": false
+      },
+      {
+        "text": "Staffetta 4x200 metri stile libero",
+        "correct": false
+      },
+      {
+        "text": "Staffetta 4x400 metri stile libero",
+        "correct": true
+      },
+      {
+        "text": "Staffetta 4x100 metri mista",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali accorgimenti vanno adottati per svolgere in sicurezza la prima lezione in acqua alta?",
+    "answers": [
+      {
+        "text": "Restare in acqua con il gruppo per essere pronti per le emergenze.",
+        "correct": false
+      },
+      {
+        "text": "Chiamare un altro istruttore per vigilare insieme sul gruppo.",
+        "correct": false
+      },
+      {
+        "text": "Usare metà vasca o poco meno per il lavoro così da essere facilitati nel controllo e fornirsi di bastone.",
+        "correct": false
+      },
+      {
+        "text": "Usare 5/6 metri di corsia, rimanere fuori dall’acqua e non perdere di vista il gruppo.",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali cautele bisogna adottare nell’esecuzione dei tuffi?",
+    "answers": [
+      {
+        "text": "Nessuna",
+        "correct": true
+      },
+      {
+        "text": "Munirsi di fischietto",
+        "correct": false
+      },
+      {
+        "text": "Si ordinano gli allievi in fila",
+        "correct": false
+      },
+      {
+        "text": "Si ordinano gli allievi in fila e si controlla che l’area sia sgombra",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali delle seguenti norme vanno tenute in considerazione nella gestione di un centro natatorio?",
+    "answers": [
+      {
+        "text": "Normative tecniche UNI",
+        "correct": false
+      },
+      {
+        "text": "Norme CONI per l’impiantistica sportiva",
+        "correct": false
+      },
+      {
+        "text": "Regolamenti FINA",
+        "correct": false
+      },
+      {
+        "text": "Tutte le precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali di questi errori è più grave e quindi va corretto prima?",
+    "answers": [
+      {
+        "text": "Un errore di traiettoria della mano sott’acqua",
+        "correct": false
+      },
+      {
+        "text": "Una battuta di gambe deficitaria",
+        "correct": false
+      },
+      {
+        "text": "Un errore di ritmo respiratorio",
+        "correct": true
+      },
+      {
+        "text": "Un errore nel recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali fra i seguenti fattori di rischio attengono direttamente alla responsabilità dell’istruttore?",
+    "answers": [
+      {
+        "text": "Strutturali",
+        "correct": false
+      },
+      {
+        "text": "Organizzativi",
+        "correct": false
+      },
+      {
+        "text": "Comportamentali",
+        "correct": true
+      },
+      {
+        "text": "Motivazionali",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali possono essere le finalità di una scuola nuoto federale?",
+    "answers": [
+      {
+        "text": "Ricreativa, agonistica, didattica",
+        "correct": true
+      },
+      {
+        "text": "Didattica, ricreativa, sociale",
+        "correct": false
+      },
+      {
+        "text": "Aggregativa, motivazionale, sociale",
+        "correct": false
+      },
+      {
+        "text": "Solo agonistica",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono gli obiettivi dell’educazione respiratoria?",
+    "answers": [
+      {
+        "text": "Ristrutturazione dei sistemi di riferimento",
+        "correct": false
+      },
+      {
+        "text": "Controllo dell’apnea e degli scambi respiratori",
+        "correct": true
+      },
+      {
+        "text": "Immersione del corpo in acqua",
+        "correct": false
+      },
+      {
+        "text": "Far trascorrere i primi minuti di lezione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali sono i benefici della ginnastica educativa e prenatatoria?",
+    "answers": [
+      {
+        "text": "Sviluppa le capacità motorie, eleva il tono funzionale di base dei sistemi organici centrali, prepara le strutture muscolare e articolare e stimola lo sviluppo di alcune caratteristiche delle diverse aree della personalità",
+        "correct": true
+      },
+      {
+        "text": "Sviluppa le capacità coordinative, prepara le strutture muscolare e articolare e stimola lo sviluppo di alcune caratteristiche delle diverse aree della personalità",
+        "correct": false
+      },
+      {
+        "text": "Nessuno in particolare",
+        "correct": false
+      },
+      {
+        "text": "Stimola lo sviluppo di alcune caratteristiche delle diverse aree della personalità",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le caratteristiche sport-specifiche del nuoto sincronizzato?",
+    "answers": [
+      {
+        "text": "Forza, resistenza, mobilità articolare",
+        "correct": true
+      },
+      {
+        "text": "Rapidità, coordinazione oculo- manuale, resistenza alla velocità",
+        "correct": false
+      },
+      {
+        "text": "Velocità, mobilità articolare, resistenza alla forza",
+        "correct": false
+      },
+      {
+        "text": "Compattezza, solidità, abnegazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le cause più frequenti di incidente in piscina?",
+    "answers": [
+      {
+        "text": "Cadute, urti, affondamenti",
+        "correct": true
+      },
+      {
+        "text": "Idrocuzione, colpo di calore, arresto cardiaco",
+        "correct": false
+      },
+      {
+        "text": "Cadute, colpi d’arma da fuoco, affondamenti",
+        "correct": false
+      },
+      {
+        "text": "Cadute, urti, elettrocuzione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le dimensioni di una vasca indoor per il nuoto?",
+    "answers": [
+      {
+        "text": "25x16,50 metri",
+        "correct": true
+      },
+      {
+        "text": "30x20 metri",
+        "correct": false
+      },
+      {
+        "text": "20x15 metri",
+        "correct": false
+      },
+      {
+        "text": "25x10 metri",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le distanze di gara a dorso in vasca da 25m?",
+    "answers": [
+      {
+        "text": "50, 100 e 200 m",
+        "correct": true
+      },
+      {
+        "text": "100, 150 e 200 m",
+        "correct": false
+      },
+      {
+        "text": "50, 100 e 400 m",
+        "correct": false
+      },
+      {
+        "text": "100, 200 e 400 m",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le distanze di gara a rana in vasca da 25m?",
+    "answers": [
+      {
+        "text": "50, 100 e 200 m",
+        "correct": true
+      },
+      {
+        "text": "100, 150 e 200 m",
+        "correct": false
+      },
+      {
+        "text": "50, 100 e 250 m",
+        "correct": false
+      },
+      {
+        "text": "100, 200 e 400 m",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le distanze olimpiche nel dorso?",
+    "answers": [
+      {
+        "text": "100, 200, 400 metri",
+        "correct": false
+      },
+      {
+        "text": "50, 100, 200, 400 metri",
+        "correct": false
+      },
+      {
+        "text": "100, 200, 4x100 metri",
+        "correct": false
+      },
+      {
+        "text": "100, 200 metri",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono le fasi della programmazione in ordine corretto?",
+    "answers": [
+      {
+        "text": "Analisi della situazione - Definizione dell’obiettivo - Scelta dei metodi - Verifica dei risultati",
+        "correct": true
+      },
+      {
+        "text": "Definizione dell’obiettivo – Verifica dei risultati – Analisi della situazione – Scelta dei metodi",
+        "correct": false
+      },
+      {
+        "text": "Scelta dei metodi – Analisi della situazione – Definizione dell’obiettivo - Verifica dei risultati",
+        "correct": false
+      },
+      {
+        "text": "Verifica dei risultati – Scelta dei metodi – Analisi della situazione – Definizione dell’obiettivo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le parti del corpo coinvolte nella propulsione della gambata a rana?",
+    "answers": [
+      {
+        "text": "Piede",
+        "correct": false
+      },
+      {
+        "text": "Coscia - gamba – piede",
+        "correct": false
+      },
+      {
+        "text": "Gamba-piede",
+        "correct": false
+      },
+      {
+        "text": "Piede - caviglia - gamba",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono le principali caratteristiche della bracciata a rana?",
+    "answers": [
+      {
+        "text": "Presa e Trazioni veloci, Recupero lento",
+        "correct": false
+      },
+      {
+        "text": "Presa veloce, Trazione e Recupero lento",
+        "correct": false
+      },
+      {
+        "text": "Presa e Trazione in accelerazione, Recupero veloce e scivolamento",
+        "correct": true
+      },
+      {
+        "text": "Presa, Trazione e Recupero alla stessa velocità",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali sono le principali tecniche di trasporto del pericolante?",
+    "answers": [
+      {
+        "text": "Nuotatore stanco, presa a stile libero, presa al capo, trasporto laterale",
+        "correct": false
+      },
+      {
+        "text": "Nuotatore stanco, tuck, appoggio/pressione",
+        "correct": false
+      },
+      {
+        "text": "Nuotatore stanco, trasporto laterale, presa al capo, presa a ranetta",
+        "correct": false
+      },
+      {
+        "text": "Nuotatore stanco, presa al petto, presa al capo, trasporto laterale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono, nel giusto ordine, le fasi della bracciata a rana?",
+    "answers": [
+      {
+        "text": "Presa, trazione, spinta, recupero",
+        "correct": false
+      },
+      {
+        "text": "Presa, spinta, recupero",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, recupero",
+        "correct": true
+      },
+      {
+        "text": "Trazione, spinta, recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali tra i seguenti è un obiettivo di un corso di nuoto?",
+    "answers": [
+      {
+        "text": "Lo sviluppo di capacità senso- percettive e coordinative",
+        "correct": true
+      },
+      {
+        "text": "Lo sviluppo della forza muscolare",
+        "correct": false
+      },
+      {
+        "text": "L’assumere una corretta postura",
+        "correct": false
+      },
+      {
+        "text": "Lo sviluppo delle masse muscolari",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali tra i seguenti obiettivi formativi fanno parte della fase di ambientamento?",
+    "answers": [
+      {
+        "text": "Respirazione a crawl con bracciate elementari e battuta di gambe",
+        "correct": false
+      },
+      {
+        "text": "Respirazioni e forme elementari di propulsione",
+        "correct": true
+      },
+      {
+        "text": "Tuffo di testa dal blocco",
+        "correct": false
+      },
+      {
+        "text": "Virate tecniche a crawl e dorso",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali tra quelli elencati non sono criteri di selezione?",
+    "answers": [
+      {
+        "text": "Fattori antropometrici ed ereditari",
+        "correct": false
+      },
+      {
+        "text": "Fattori coordinativo- cognitivi",
+        "correct": false
+      },
+      {
+        "text": "Fattori termoregolatori",
+        "correct": true
+      },
+      {
+        "text": "Capacità di apprendimento rapido",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quando è opportuno insegnare la respirazione laterale a stile libero?",
+    "answers": [
+      {
+        "text": "Quando l’allievo ha imparato la nuotata completa",
+        "correct": false
+      },
+      {
+        "text": "Quando l’allievo ha imparato la bracciata in forma grezza",
+        "correct": true
+      },
+      {
+        "text": "Subito, durante la didattica della bracciata",
+        "correct": false
+      },
+      {
+        "text": "In qualsiasi momento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quando proporre il tuffo?",
+    "answers": [
+      {
+        "text": "Quando l’allievo immerge il capo",
+        "correct": true
+      },
+      {
+        "text": "Alla fine dell’ambientamento",
+        "correct": false
+      },
+      {
+        "text": "Dopo aver appreso almeno una nuotata",
+        "correct": false
+      },
+      {
+        "text": "In qualsiasi momento",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quando s’inserisce la respirazione nella bracciata a rana?",
+    "answers": [
+      {
+        "text": "Alla fine della spinta",
+        "correct": false
+      },
+      {
+        "text": "Durante la spinta",
+        "correct": false
+      },
+      {
+        "text": "Alla fine della trazione",
+        "correct": true
+      },
+      {
+        "text": "All’inizio della trazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quando si può ritenere che la fase dell’ambientamento sia superata?",
+    "answers": [
+      {
+        "text": "Appena l’allievo ha acquisito una buona padronanza dell’acqua.",
+        "correct": false
+      },
+      {
+        "text": "Quando l’allievo si sa tuffare",
+        "correct": false
+      },
+      {
+        "text": "Quando l’allievo galleggia sul petto e sul dorso, affonda e si sa spostare con il corpo rilassato",
+        "correct": true
+      },
+      {
+        "text": "Quando l’allievo sa rimanere almeno 30 secondi in apnea",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quando si verifica il colpo di calore?",
+    "answers": [
+      {
+        "text": "In caso di presenza di ossigeno",
+        "correct": false
+      },
+      {
+        "text": "In luoghi molto assolati",
+        "correct": false
+      },
+      {
+        "text": "In ambienti particolarmente noiosi",
+        "correct": false
+      },
+      {
+        "text": "In ambienti eccessivamente caldi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quante sono le fasi della bracciata a stile libero? #####",
+    "answers": [
+      {
+        "text": "3 #####",
+        "correct": false
+      },
+      {
+        "text": "2 #####",
+        "correct": false
+      },
+      {
+        "text": "5 #####",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quanti giocatori della stessa squadra sono in campo contemporaneamente durante una partita di pallanuoto ufficiale? #####",
+    "answers": [
+      {
+        "text": "11 #####",
+        "correct": false
+      },
+      {
+        "text": "5 #####",
+        "correct": false
+      },
+      {
+        "text": "7 #####",
+        "correct": true
+      },
+      {
+        "text": "9",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Respirazione terrestre ed acquatica differiscono principalmente",
+    "answers": [
+      {
+        "text": "Per i tempi di inspirazione ed espirazione",
+        "correct": false
+      },
+      {
+        "text": "Per il differente utilizzo di bocca/naso",
+        "correct": false
+      },
+      {
+        "text": "Per le difficoltà nell’inspirazione, in quanto il viso deve uscire dall’acqua",
+        "correct": false
+      },
+      {
+        "text": "Perché l’espirazione è forzata in quanto deve vincere la maggior pressione dell’acqua",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Riscaldamento, rinforzo lezione precedente, introduzione nuove proposte, attivazione, nucleo aerobico, recupero (o defaticamento) e rinforzo sono",
+    "answers": [
+      {
+        "text": "Le fasi della singola lezione per gruppi di scuola nuoto evoluti: ed è fondamentale affrontarne almeno quattro per ogni lezione, facendole ruotare per variare il lavoro del gruppo",
+        "correct": false
+      },
+      {
+        "text": "Le fasi della programmazione del periodo: indispensabili all’insegnante per pianificare le proprie didattiche e metodologie nel periodo di insegnamento in un gruppo",
+        "correct": false
+      },
+      {
+        "text": "Le fasi della singola lezione per gruppi di scuola nuoto evoluti; e la loro applicazione costante nelle lezioni garantisce la concatenazione degli stimoli, lezione dopo lezione, assicurando i principi di gradualità di progressività",
+        "correct": false
+      },
+      {
+        "text": "Le fasi della singola lezione per gruppi di scuola nuoto evoluti; e la loro applicazione costante nelle lezioni favorisce la concatenazione degli stimoli, lezione dopo lezione, unitamente all’applicazione dei principi di gradualità e progressività",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Scoperta, conoscenza e consolidamento sono",
+    "answers": [
+      {
+        "text": "Funzioni del sistema nervoso",
+        "correct": false
+      },
+      {
+        "text": "Capacità coordinative speciali",
+        "correct": false
+      },
+      {
+        "text": "Caratteristiche dell’intelletto",
+        "correct": false
+      },
+      {
+        "text": "Fasi dell’apprendimento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Se un allievo non ha ancora acquisito la corretta posizione di scivolamento prono e supino, è corretto introdurre le prime propulsioni degli arti inferiori?",
+    "answers": [
+      {
+        "text": "Sì, perché in tal modo si aiuta il galleggiamento",
+        "correct": false
+      },
+      {
+        "text": "Dipende se la lezione si svolge in acqua alta o in acqua bassa",
+        "correct": false
+      },
+      {
+        "text": "No, perché molto probabilmente l’azione delle gambe sarà eseguita scorrettamente",
+        "correct": true
+      },
+      {
+        "text": "Sì, ma solo con i bambini al di sotto dei 6 anni",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Se un atleta iscritto nella gara dei 100 metri stile libero nuota a rana in che sanzione incorre?",
+    "answers": [
+      {
+        "text": "Squalifica per nuotata irregolare",
+        "correct": false
+      },
+      {
+        "text": "Squalifica per partenza anticipata",
+        "correct": false
+      },
+      {
+        "text": "Nessuna",
+        "correct": true
+      },
+      {
+        "text": "Viene deferito agli organi competenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Se un bambino non ha assimilato bene la posizione di scivolamento prona e supina, possiamo ugualmente insegnare la battuta di gambe?",
+    "answers": [
+      {
+        "text": "Si, perché così aiutiamo il galleggiamento",
+        "correct": false
+      },
+      {
+        "text": "No perché altrimenti la battuta di gambe sarà tecnicamente errata",
+        "correct": true
+      },
+      {
+        "text": "Sì ma solo con i bambini molto piccoli",
+        "correct": false
+      },
+      {
+        "text": "Dipende se siamo in vasca piccola o in vasca grande",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Sono esercizi per imparare a controllare la respirazione",
+    "answers": [
+      {
+        "text": "Aprire gli occhi sott’acqua, sentire sott’acqua, toccare il compagno e copiare la posizione",
+        "correct": false
+      },
+      {
+        "text": "Nuotate di sole braccia con o senza pull-buoy",
+        "correct": false
+      },
+      {
+        "text": "Stare fermi in posizione verticale, stare fermi in posizione raggruppata, stare fermi in posizione rovesciata, passare da una posizione ad un’altra senza fare sforzi",
+        "correct": false
+      },
+      {
+        "text": "Soffiare con il naso, tenere il fiato per 10 secondi in immersione, prendere aria dalla bocca e soffiarla dal naso, eseguire 20 respirazioni in immersione",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Sono esercizi per imparare a galleggiare",
+    "answers": [
+      {
+        "text": "Immersione completa, immersioni con aiuti, immersioni in semicapovolta, raccolta di oggetti sul fondo",
+        "correct": false
+      },
+      {
+        "text": "Stare fermi in posizione verticale, stare fermi in posizione raggruppata, stare fermi in posizione rovesciata, passare da una posizione ad un’altra senza fare sforzi",
+        "correct": true
+      },
+      {
+        "text": "Saltare in acqua, riprodurre una posizione in aria, tuffarsi da posizione in ginocchio, tuffarsi di testa",
+        "correct": false
+      },
+      {
+        "text": "Tuffi dal blocco, apnee prolungate",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Sono esercizi per imparare a immergersi",
+    "answers": [
+      {
+        "text": "Gioco dei nomi, ricognizioni della vasca, esercizi di movimento in vasca piccoli, spostamenti lungo il bordo",
+        "correct": false
+      },
+      {
+        "text": "Immersione completa, immersioni con aiuti, immersioni in semicapovolta, raccolta di oggetti sul fondo",
+        "correct": true
+      },
+      {
+        "text": "Spostarsi con la spinta dal bordo, arrivare alla corsia a sole gambe, scivolare sul dorso, usare braccia e gambe per raggiungere un punto, nuotare 25 m a gambe dorso",
+        "correct": false
+      },
+      {
+        "text": "Tuffi dal blocco",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Sono esercizi per imparare a tuffarsi",
+    "answers": [
+      {
+        "text": "Immersione completa, immersioni con aiuti, immersioni in semicapovolta, raccolta di oggetti sul fondo",
+        "correct": false
+      },
+      {
+        "text": "Training autogeno, visualizzazione mentale",
+        "correct": false
+      },
+      {
+        "text": "Aprire gli occhi sott’acqua, sentire sott’acqua, toccare il compagno e copiare la posizione",
+        "correct": false
+      },
+      {
+        "text": "Saltare in acqua, riprodurre una posizione in aria, tuffarsi da posizione in ginocchio, tuffarsi di testa",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Sono esercizi per l’accoglienza",
+    "answers": [
+      {
+        "text": "Gioco dei nomi, ricognizioni della vasca, esercizi di movimento in vasca piccoli, spostamenti lungo il bordo",
+        "correct": true
+      },
+      {
+        "text": "Immersione completa, immersioni con aiuti, immersioni in semicapovolta, raccolta di oggetti sul fondo",
+        "correct": false
+      },
+      {
+        "text": "Non sono necessari esercizi specifici",
+        "correct": false
+      },
+      {
+        "text": "Soffiare con il naso, tenere il fiato per 10 secondi in immersione, prendere aria dalla bocca e soffiarla dal naso, eseguire 20 respirazioni in immersione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Sono esercizi per la sensopercezione in acqua",
+    "answers": [
+      {
+        "text": "Immersione completa, immersioni con aiuti, immersioni in semicapovolta, raccolta di oggetti sul fondo",
+        "correct": false
+      },
+      {
+        "text": "Aprire gli occhi sott’acqua, sentire sott’acqua, toccare il compagno e copiare la posizione",
+        "correct": true
+      },
+      {
+        "text": "Soffiare con il naso, tenere il fiato per 10 secondi in immersione, prendere aria dalla bocca e soffiarla dal naso, eseguire 20 respirazioni in immersione",
+        "correct": false
+      },
+      {
+        "text": "Apnee prolungate, lavori di gambe con tavoletta",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Sono obiettivi intermedi dell’ambientamento",
+    "answers": [
+      {
+        "text": "Avvicinamento all’acqua, scivolamenti e insegnamento del nuoto",
+        "correct": false
+      },
+      {
+        "text": "Immersione, respirazione, spostamenti in acqua",
+        "correct": false
+      },
+      {
+        "text": "Pagamento della quota mensile, consegna del certificato medico",
+        "correct": false
+      },
+      {
+        "text": "Accoglienza, percepire in acqua, controllare la respirazione, controllare il galleggiamento, sapersi immergere,sapersi spostare, saltare in acqua e tuffarsi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Su quali distanze, in vasca da 50 metri, possono essere ottenuti primati nazionali nella disciplina dei misti individuali?",
+    "answers": [
+      {
+        "text": "50, 100, 200 metri",
+        "correct": false
+      },
+      {
+        "text": "4x100 metri",
+        "correct": false
+      },
+      {
+        "text": "100, 200, 400 metri",
+        "correct": false
+      },
+      {
+        "text": "200, 400 metri",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Tra gli obiettivi formativi del secondo livello troviamo",
+    "answers": [
+      {
+        "text": "Il rafforzamento delle capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Il controllo respiratorio",
+        "correct": true
+      },
+      {
+        "text": "Lo sviluppo del senso agonistico",
+        "correct": false
+      },
+      {
+        "text": "Quelle esercitazioni proposte anche se non compatibili con le capacità dell’allievo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tra i vari motivi la ginnastica prenatatoria è importante perché",
+    "answers": [
+      {
+        "text": "Effettuandosi in altri ambienti della piscina incrementa il processo di ambientamento",
+        "correct": false
+      },
+      {
+        "text": "Stimola elementi che trovano condizioni di massima efficienza sia fuori che dentro l’acqua",
+        "correct": false
+      },
+      {
+        "text": "Consente di sovrapporre due turni di scuola nuoto",
+        "correct": false
+      },
+      {
+        "text": "Consente di elevare il tono muscolare e di preparare le strutture periferiche all’attività natatoria",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Un esercizio è in forma competitiva",
+    "answers": [
+      {
+        "text": "Quando si propone un problema motorio e l’allievo deve trovare il modo di risolverlo",
+        "correct": false
+      },
+      {
+        "text": "Quando il fine dell’azione non è l’azione stessa ma uno di contenuto ludico",
+        "correct": false
+      },
+      {
+        "text": "Quando il fine dell’azione non è l’azione stessa ma la gratificazione ottenuta con la vittoria",
+        "correct": true
+      },
+      {
+        "text": "Lo deve sempre essere",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Un esercizio è in forma di gioco",
+    "answers": [
+      {
+        "text": "Quando si propone un problema motorio e l’allievo deve trovare il modo di risolverlo",
+        "correct": false
+      },
+      {
+        "text": "Quando il fine dell’azione non è l’azione stessa ma uno di contenuto ludico",
+        "correct": true
+      },
+      {
+        "text": "Quando il fine dell’azione non è l’azione stessa ma la gratificazione ottenuta con la vittoria",
+        "correct": false
+      },
+      {
+        "text": "Lo deve sempre essere",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Un esercizio è in forma di situazione problema quando",
+    "answers": [
+      {
+        "text": "Quando si propone un problema motorio e l’allievo deve trovare il modo di risolverlo",
+        "correct": true
+      },
+      {
+        "text": "Quando il fine dell’azione non è l’azione stessa ma uno di contenuto ludico",
+        "correct": false
+      },
+      {
+        "text": "Quando il fine dell’azione non è l’azione stessa ma la gratificazione ottenuta con la vittoria",
+        "correct": false
+      },
+      {
+        "text": "Lo deve sempre essere",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Un esercizio è riuscito quando",
+    "answers": [
+      {
+        "text": "È stato provato da tutti",
+        "correct": false
+      },
+      {
+        "text": "È riproducibile da tutti ogni volta che viene richiesto",
+        "correct": true
+      },
+      {
+        "text": "È stato eseguito dai migliori del gruppo",
+        "correct": false
+      },
+      {
+        "text": "Permette di conseguire un brevetto tecnico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Un esperto nuotatore può esercitare funzioni di assistente bagnanti senza avere conseguito il titolo specifico?",
+    "answers": [
+      {
+        "text": "Sì",
+        "correct": false
+      },
+      {
+        "text": "Sì, se dimostra di essere tesserato FIN da almeno 10 anni",
+        "correct": false
+      },
+      {
+        "text": "Sì, se è stato tesserato come agonista",
+        "correct": false
+      },
+      {
+        "text": "No",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Un nuotatore viene squalificato se",
+    "answers": [
+      {
+        "text": "Nuotando a stile libero effettua due colpi di gambe a delfino dopo la virata",
+        "correct": false
+      },
+      {
+        "text": "Dopo la partenza a dorso non riemerge entro i 15 metri",
+        "correct": true
+      },
+      {
+        "text": "Al momento dell’a posto si trova sul blocco con i piedi non allineati",
+        "correct": false
+      },
+      {
+        "text": "Nell’effettuare la virata a rana inserisce una bracciata subacquea ed un colpo di gambe",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Una piscina per poter ospitare manifestazioni agonistiche della FIN deve",
+    "answers": [
+      {
+        "text": "Essere affiliata",
+        "correct": false
+      },
+      {
+        "text": "Essere promossa",
+        "correct": false
+      },
+      {
+        "text": "Essere confortevole",
+        "correct": false
+      },
+      {
+        "text": "Essere omologata",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  }
+]
