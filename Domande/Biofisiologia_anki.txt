@@ -1,0 +1,114 @@
+Nella contrazione isotonica;Non viene effettuato il movimento delle leve ossee;Rimane costante la velocità di movimento;Il carico è superiore alla forza sviluppata dal muscolo;Rimane costante il carico;;0001
+All’atrio destro il sangue arriva;Dal ventricolo destro;Dalle vene cave;Dalle vene polmonari;Nessuna delle risposte è corretta;;0100
+Caratteristiche delle ossa corte;Lunghezza domina sulle altre due dimensioni;Le tre dimensioni sono nello stesso ordine di grandezza;Nessuna caratteristica particolare;Lunghezza e larghezza sono assai prevalenti rispetto allo spessore;;0100
+Caratteristiche delle ossa lunghe;Lunghezza domina sulle altre due dimensioni;Le tre dimensioni sono nello stesso ordine di grandezza;Nessuna caratteristica particolare;Lunghezza e larghezza sono assai prevalenti rispetto allo spessore;;1000
+Caratteristiche delle ossa piatte;Lunghezza domina sulle altre due dimensioni;Le tre dimensioni sono nello stesso ordine di grandezza;Nessuna caratteristica particolare;Lunghezza e larghezza sono assai prevalenti rispetto allo spessore;;0001
+Che cosa sono gli alveoli?;Cavità del naso preposte alla funzione di umidificare l’aria entrante;Minuscoli organi che secernano il liquido alveolare;Organelli monociliati dell’apparato digerente;Parti terminali dell’apparato respiratorio attraverso i quali avvengono gli scambi gassosi;;0001
+Che funzioni ha la cassa toracica?;Di permettere la respirazione;Di permettere la funzione del cuore;Di galleggiamento;Di proteggere cuore e polmoni e permettere la respirazione;;0001
+Componenti delle articolazioni mobili;Cartilagine articolare, liquido sinoviale, legamenti, capsula articolare;Cartilagine articolare, legamenti e disco cartilagineo;Nessuna dinamica articolare;Osso, muscolo scheletrico, tendine;;1000
+Componenti delle articolazioni semimobili;Cartilagine articolare, liquido sinoviale, legamenti, capsula articolare;Osso, muscolo scheletrico, tendine;Cartilagine articolare, legamenti e disco cartilagineo;Nessuna dinamica articolare;;0010
+Cos’è la frequenza cardiaca?;Il numero di contrazioni ventricolari nell’unità di tempo (minuto);La quantità di sangue emessa dal cuore nell’unità di tempo (minuto);La pressione arteriosa misurata nel tempo (minuto);Il numero di morti causate da patologie cardiache nell’unità di tempo;;1000
+Cos’è la frequenza respiratoria?;Il numero degli atti respiratori che si eseguono in una giornata;Il numero degli atti respiratori che si eseguono in un minuto;La capacità dell’individuo di respirare;La durata temporale di un singolo atto respiratorio;;0100
+Cosa non è trasportato dall’apparato circolatorio?;Impulsi nervosi;Sostanze nutritive;Anticorpi;Prodotti di rifiuto;;1000
+Cosa sono gli alveoli?;Cavità del naso preposte ad umidificare l’aria in entrata;Minuscoli organi che secernono il liquidi alveolare;Organelli monociliati dell’apparato digerente;Parti terminali dell’apparato respiratorio attraverso le quali avvengono gli scambi gassosi;;0001
+Cosa sono l’actina e la miosina?;Due tipi di articolazioni;Due diversi tipi di fibre muscolari;Dei principi alimentari;Dei miofilamenti che costituiscono le miofibrille muscolari;;0001
+Definizione di articolazione;Punti di collegamento tra due ossa;Organi che compongono il sistema scheletrico;Parte del muscolo costituita da tessuto connettivo che lo collega all’osso;Distribuzione topografica dei vasi sanguigni;;1000
+Definizione di cellula;L’unità fondamentale del vivente;L’unione funzionale di cellule simili;La struttura di tessuti organizzati per svolgere una funzione;Costituente base della materia;;1000
+Definizione di legamenti;Punti di collegamento tra due ossa;Tessuti particolarmente densi;Parte del muscolo costituita da tessuto connettivo che lo collega all’osso;Struttura connettiva che mantiene in contatto due capi ossei;;0001
+Definizione di organo;L’unione funzionale di cellule simili;Costituente base della materia;La struttura di tessuti organizzati per svolgere una funzione;La struttura complessa composta da organi diversi per soddisfare una funzione superiore;;0010
+Definizione di ossa;Punti di collegamento tra due ossa;Parti che compongono il sistema scheletrico;Sistema di organi che ha la funzione di sostegno del corpo e protezione degli organi interni;Tessuti particolarmente densi;;0100
+Definizione di scheletro;Organi che compongono il sistema scheletrico;Sistema di organi che ha la funzione di sostegno del corpo e protezione degli organi interni;Parte del muscolo costituita da tessuto connettivo che lo collega all’osso;Struttura polimorfica complessa;;0100
+Definizione di sistema di organi;L’unione funzionale di cellule simili;La struttura di tessuti organizzati per svolgere una funzione;Costituente base della materia;La struttura complessa composta da organi diversi per soddisfare una funzione superiore;;0001
+Definizione di tendini;Punti di collegamento tra due ossa;Tessuti particolarmente densi;Parti che compongono il sistema scheletrico;Tessuto connettivo che collega il muscolo all’osso;;0001
+Definizione di tessuto;L’unità fondamentale del vivente;L’unione funzionale di cellule simili;La struttura di tessuti organizzati per svolgere una funzione;Costituente base della materia;;0100
+Definizione di tono muscolare;Sezione trasversa del muscolo;Lunghezza del muscolo a riposo;Attività muscolare riflessa e costante che mantiene l'assetto posturale del corpo opponendosi alla forza di gravità;Percentuale di fibre rosse presenti nel muscolo;;0010
+Dopo la perdita di quanta acqua l’organismo inizia ad accusare sintomi di disidratazione? #####;0,2-0,3% #####;2 - 3% #####;20 - 30%;Nessuna delle risposte precedenti;;0100
+Dove si trova il sistema vestibolare e a cosa serve?;Nel naso e serve per sentire gli odori;Nelle orecchie e serve per raccogliere i suoni;Nelle orecchie e serve ad informare sulla posizione della testa;Sulla cute e determina la sensopercezione;;0010
+Durante la fase di inspirazione;Il diaframma si abbassa;Il diaframma si alza;Il cuore aumenta i battiti;Il cuore diminuisce i battiti;;1000
+Elementi che compongono la cellula;Membrana cellulare, citoplasma, organuli cellulari;Membrana e nucleo;Membrana cellulare e nucleo;Citoplasma e nucleo;;1000
+Gli scambi gassosi a livello polmonare avvengono tra;Bronchioli e capillari;Capillari e alveoli;Alveoli e vene;Arterie e vene;;0100
+Gli scambi respiratori avvengono;A livello delle cavità nasali;Nei bronchi;Negli alveoli;Nell’esofago;;0010
+I fattori che condizionano l’accrescimento sono;Endogeni ed esogeni;Muscolari ed energetici;Genetici e psicologici;Antropologici e sociali;;1000
+I muscoli abduttori;Permettono il movimento di allontanamento dalla linea mediana;Permettono il movimento di avvicinamento alla line mediana;Permettono il movimento di rotazione verso la linea mediana;Sono deputati alla mimica facciale;;1000
+I muscoli fasici;Hanno la funzione di sostegno, quindi governano la postura, hanno fibre corte oblique e contengono più fibre rosse e quindi lente;Hanno la funzione dinamica di movimento e contengono più fibre bianche per cui più rapide;Comprendono tutti i muscoli che concorrono al medesimo movimento;Sono muscoli involontari;;0100
+I muscoli si inseriscono sulle ossa tramite;Incastri;Le cartilagini;I legamenti;I tendini;;0001
+I muscoli volontari;Sono quelli cardiaci;Sono quelli scheletrici;Sono quelli lisci;Non esistono;;0100
+I segnali che arrivano dalla periferia al sistema nervoso centrale sono detti;Efferenti;Afferenti;Dipende dalle situazioni;Nessuna delle precedenti;;0100
+I valori normali di pressione arteriosa in un adulto sono;Inferiori a 170/;Inferiori a 160/;Inferiori a 150/;Inferiori a 140/;;0001
+Il cuore è un muscolo cavo formato da;Quattro cavità separate tra loro (atri e ventricoli);Quattro cavità comunicanti tra loro;Due cavità separate in senso longitudinale;Due cavità comunicanti tra loro;;1000
+Il cuore è;Un muscolo striato involontario;Un organo volontario;Una metafora;Un muscolo;;1000
+Il cuore è;Un organo muscolare, incavo, contrattile;Un apparato complesso;Un organo muscolare, cavo, contrattile;Un organo muscolare, incavo, retrattile;;0010
+Il diaframma è;Un muscolo respiratorio;Un muscolo scheletrico;Un muscolo addominale;Un muscolo facciale;;1000
+Il glicogeno è;Uno zucchero semplice;Uno zucchero grezzo;La fonte energetica direttamente utilizzabile dall’organismo;Un glucide complesso immagazzinato nel fegato;;0001
+Il metabolismo è;L’assorbimento dei principi alimentari;Il trasporto dei principi alimentari;Il complesso di reazioni chimiche vitali dell’organismo umano;L’utilizzo dei grassi da parte dell’organismo umano;;0010
+Il muscolo scheletrico è organizzato;In fasci, fascicoli, e miofibrille;In grosse strutture contrattili;In aggregati omogenei;In fasci, fascicoli, fibre e miofibrille;;0001
+Il sistema nervoso autonomo (SNA) è composto di;Encefalo e midollo spinale;Due parti, il parasimpatico e l’ortosimpatico;Nervi e muscoli;Coni e bastoncelli;;0100
+Il sistema nervoso centrale è costituito da;Nervi spinali e midollo spinale;Miosina e actina;Unità spinali;Encefalo e midollo spinale;;0001
+Il sistema nervoso centrale rappresenta;Il protoplasma;L’insieme delle terminazioni nervose collegate agli analizzatori;Il più importante sistema di regolazione e coordinazione: è la sede di tutte le funzioni mentali compresi il pensiero;Il principale organo del corpo umano;;0010
+Il sistema nervoso si divide in;Generale e speciale;Centrale e periferico;Muscolare e scheletrico;Condizionale e coordinativo;;0100
+Il sistema scheletrico svolge funzioni di;Protezione;Protezione e movimento;Sostegno e movimento;Protezione, sostegno e movimento;;0001
+Il sistema termoregolatore è composto da;Recettori, centro termoregolatore, organi effettori;Analizzatori, centro effettore, organi termoregolatori;Effettori, centro termoregolatore, organi analizzatori;Centro analizzatore, effettori, organi recettori;;1000
+Il trasporto dell’ossigeno dai polmoni al muscolo avviene tramite;Il plasma;Gli eritrociti (globuli rossi);I leucociti (globuli bianchi);Le piastrine;;0100
+In ambienti eccessivamente caldi e umidi, in assenza di opportuna ventilazione, si può rimanere vittime di;Colpo di sole;Ustione;Colpo di calore;Idrocuzione;;0010
+In un adulto, a riposo, il cuore pulsa alla frequenza di;70 - 80 battiti al minuto;140 - 160 battiti al minuto;30 - 40 battiti al minuto;Oltre 160 battiti al minuto;;1000
+In un’inspirazione la gabbia toracica si espande, ed il diaframma;Si alza;Si riempie;Si abbassa;Si svuota;;0010
+In una contrazione isometrica il muscolo;Si contrae mantenendo la stessa lunghezza;Si contrae accorciandosi;Si contrae allungandosi;Si allunga contraendosi;;1000
+In una contrazione muscolare isocinetica rimane costante;La tensione;La velocità angolare;Il consumo energetico;La direzione;;0100
+In una respirazione a riposo si immettono in ogni inspirazione circa;150 ml di aria;500 ml di aria;5000 ml di aria;Oltre 5000 ml di aria;;0100
+L’alimentazione soddisfa necessità;Affettive;Energetiche;Cognitive;Sociali;;0100
+L’apparato circolatorio ha funzione di;Sostegno;Protezione;Trasporto;Coordinazione;;0010
+L’apparato locomotore è costituito da;Ossa, articolazioni e muscoli scheletrici;Ossa e articolazioni;Ossa, articolazioni, muscoli scheletrici e muscolo cardiaco;Ossa, articolazioni, organi interni;;1000
+L’apparato respiratorio;Ha la funzione di permettere l’ingresso di ossigeno nell’organismo e l’espulsione dell’anidride carbonica, al fine di fornire ossigeno da utilizzare nel processo di respirazione cellulare.;Ha la funzione di produrre energia;Ha funzione di sostentamento;Ha funzione anabolica;;1000
+L’apparto cardiocircolatorio;È costituito da cuore, vasi sanguigni e polmoni;È costituito da cuore, vasi sanguigni, in cui scorre il sangue;Include quattro tipi di vasi: arterie, capillari, vene ed assoni;Assolve funzioni endocrine;;0100
+L’auxologia è;La scienza che studia l’accrescimento e la maturazione somatica;La scienza che studia il movimento;Un approccio speculativo alla tecnica;Un tipo di lavoro muscolare;;1000
+L’energia per la contrazione muscolare è fornita;Dalla demolizione delle proteine dei glucidi;Dalla risintesi dell’adenosintrifosfato;Dalla scissione dell’emoglobina;Dalla scissione dell’adenosintrifosfato;;0001
+L’idrocuzione, comunemente chiamata colpo d’acqua, è una sincope acquatica dovuta a quali fattori?;Termico e digestivo;Termico, traumatico, allergico e digestivo;Dovuti all’età avanzata;Psicologico e fisiologico;;0100
+La capacità vitale è;La quantità di sangue pompata dal cuore ogni minuto;La misura del torace in massima inspirazione;Il massimo volume di aria che viene inspirato ed espirato durante un atto respiratorio forzato;Il tempo massimo di resistenza in apnea;;0010
+La caratteristica di base dell’apparato muscolare è;L’elasticità;La flessibilità;La solidità;La contrattilità;;0001
+La contrazione del muscolo scheletrico avviene grazie;All’allontanamento reciproco dei filamenti di actina e miosina;All’avvicinamento e sovrapposizione reciproca dei filamenti di actina e miosina;All’avvicinamento delle miofibrille l’una all’altra;All’avvicinamento delle fibre bianche alle fibre rosse;;0100
+La fosfocreatina;È utilizzata negli ultimi istanti di un lavoro muscolare;È rigenerata durante il riposo;Produce acido lattico;Necessita della presenza di ossigeno;;0100
+La frequenza respiratoria è;La quantità di aria inspirata al minuto;Il numero di atti respiratori al minuto;Il massimo volume di aria che viene inspirato ed espirato durante un atto respiratorio forzato;Il tempo massimo di resistenza in apnea;;0100
+La funzione del sangue è quella di;Trasportare l’ossigeno;Trasportare l’ossigeno e l’anidride carbonica;Trasportare sostanze nutritive;Fluidificare la muscolatura;;0010
+La maggior parte delle leve ossee è di;Prima specie;Seconda specie;Terza specie;Quarta specie;;0010
+La normale frequenza cardiaca in un adulto a riposo è: #####;40 - 55 #####;60 - 80 #####;80 - 120 #####;100 - 140;;0100
+La percentuale di grasso corporeo negli uomini, rispetto al peso totale, è del: #####;10 - 12% #####;13 - 15% #####;15 - 18% #####;19 - 22%;;1000
+La percentuale di grasso corporeo nelle donne, rispetto al peso totale, è del: #####;0 - 15% #####;15 - 20% #####;20 - 22% #####;23 - 25 %;;0100
+La piccola circolazione è il percorso sanguigno che collega;Cuore e polmoni;I capillari;Cuore e capillari;Capillari e arteriole;;1000
+La quantità di sangue nel corpo umano, rispetto al peso totale, ammonta a: #####;8% #####;10% #####;12% #####;15%;;1000
+La ventilazione polmonare avviene per;La contrazione del muscolo diaframma;La contrazione del diaframma e dei muscoli intercostali;La contrazione della muscolatura addominale;Nessuna delle risposte precedenti;;0100
+Le arterie sono;Vasi sanguigni che vanno dai capillari al cuore;Vasi che trasportano sangue ricco di ossigeno;Vasi che trasportano sangue povero di ossigeno;Vasi sanguigni che vanno dal cuore ai capillari;;0001
+Le emorragie esterne possono interessare;Le braccia e le gambe;Gli arti, il torace e l’addome;Gli organi interni;Il midollo osseo;;0100
+Le fibre muscolari che esprimono forza e velocità sono;Quelle rosse;Quelle intermedie;Quelle violacee;Quelle bianche;;0001
+Le fibre muscolari rosse;Sono più lente e più resistenti;Sono lente e poco resistenti;Sono poco resistenti e molto veloci;Sono più veloci e più resistenti;;1000
+Le fibre muscolari sono;In alcuni muscoli solo bianche;In alcuni muscoli solo rosse;In alcuni muscoli violacee;Bianche e rosse in ogni muscolo;;0001
+Le informazioni tattili appartengono alla sensibilità;Esterocettiva;Propriocettiva;Interocettiva;Intuitiva;;1000
+Le proteine sono formate da;Fospolipidi;Acido deossiribonucleico;Aminoacidi;Polisaccaridi;;0010
+Le vie respiratorie sono costituite da;Naso, bocca, faringe, laringe, trachea, bronchi;Bocca, gola, polmoni;Bronchi, bronchioli, alveoli;Naso, bocca;;1000
+Negli alveoli polmonari avviene;Il contatto tra vie aeree superiori e inferiori;Scambio gassoso con i capillari polmonari;Il passaggio dei neuroni;La reazione immunitaria;;0100
+Nell’attività di resistenza;Si devono reintegrare carboidrati e proteine;Si devono reintegrare liquidi e carboidrati;Si devono reintegrare proteine e sali minerali;Si devono reintegrare vitamine e proteine;;0100
+Nella contrazione concentrica il muscolo;Rimane della stessa lunghezza;Si accorcia;Si allunga;Nessuna delle risposte precedenti;;0100
+Nella fase espiratoria;La trachea si irrigidisce;I muscoli intercostali e il diaframma si rilasciano;I muscoli intercostali e il diaframma si contraggono;Svolge un ruolo fondamentale l’esofago;;0100
+Nelle vene scorre sangue generalmente;Ricco di ossigeno;Da distribuire a tutto l’organismo nel grande circolo;Nel quale sono presenti ossigeno e anidride carbonica in egual misura;Povero di ossigeno;;0001
+Per gittata cardiaca si intende;La forza che il sangue esercita sulla parete dei vasi;La quantità di sangue che passa nei tessuti al minuto;La quantità di sangue pompato al ventricolo al minuto;Il numero dei battiti al minuto;;0010
+Qual è il corretto ordine, dalla più semplice alla più complessa, delle seguenti strutture?;Cellula, tessuto, organo, sistema;Sistema, cellula, organo, tessuto;Cellula, organo, sistema, tessuto;Tessuto, cellula,, sistema, organo;;1000
+Qual è l’unità di misura del metabolismo?;La caloria;Il picco di lattato;La sommatoria tra il consumo di ossigeno e le pulsazioni cardiache;Il Newton;;1000
+Qual è la parte del cuore da cui prende avvio il grande circolo sanguigno?;Il ventricolo sinistro;L’atrio sinistro;Il ventricolo destro;L’atrio destro;;1000
+Qual è la sede degli scambi respiratori?;Bronchioli;Bronchi;Alveoli;Trachea;;0010
+Quale di queste affermazioni è corretta?;Le fibre rosse sono meno forti ma più resistenti delle bianche;Le fibre bianche hanno principalmente metabolismo aerobico;Le fibre rosse sono meno irrorate dal sangue delle bianche;Le fibre bianche hanno principalmente funzione di sostegno;;1000
+Quale di questi sistemi fa innalzare la frequenza cardiaca?;Sistema nervoso simpatico;Sistema nervoso parasimpatico;Sistema nervoso volontario;Nessuna delle precedenti risposte;;1000
+Quale muscolo interviene principalmente nella meccanica respiratoria?;Bicipite;Diaframma;Tricipite;Quadricipite;;0100
+Quale tra le seguenti funzioni non è svolta dall’apparato osteoarticolare?;Produzione di globuli rossi;Trasmissione di impulsi;Sostegno;Protezione;;0100
+Quale, tra i seguenti, è un tipo di muscolo?;Striato;Grasso;Rosso;Allungato;;1000
+Quali di questi principi alimentari è calorico?;Acqua;Vitamine;Sali minerali;Proteine;;0001
+Quali sono i fattori che influenzano la forza massimale di un muscolo?;La lunghezza e la sezione trasversa delle fibre che lo compongono;La capacità di reclutamento di unità motorie da parte del sistema nervoso;Il numero delle fibre che lo compongono;Tutte le risposte precedenti;;0001
+Quali sono i principi alimentari?;Proteine - grassi o lipidi - glucidi o carboidrati - sali minerali - vitamine - acqua;Mangiare sano – Svolgere regolare attività fisica – Riposare;Vitamina A – Vitamina B – Vitamina C;Stomaco – intestino tenue – intestino crasso;;1000
+Quali tipi di ossa sono contenute nello scheletro?;Lunghe;Piatte e corte;Lunghe, piatte e corte;Lunghe, piatte, corte e sferiche;;0010
+Sono muscoli del corpo umano;Omero, ulna, radio, sterno;Fegato cuore, intestino, stomaco;Tricipite, gastrocnemio, gran dorsale;Dura madre, perineo, scroto;;0010
+Sono organi interni del corpo umano;Omero, ulna, radio, sterno;Fegato cuore, intestino, stomaco;Tricipite, gastrocnemio, gran dorsale;Dura madre, perineo, scroto;;0100
+Sono ossa del corpo umano;Omero, ulna, radio, sterno;Fegato cuore, intestino, stomaco;Tricipite, gastrocnemio, gran dorsale;Dura madre, perineo, scroto;;1000
+Un adulto a riposo consuma in un minuto la seguente quantità di ossigeno;0,03 litri;0,30 litri;3 litri;30 litri;;0100
+Un atto respiratorio è composto;Dalla fase d’inspirazione, d’espirazione e dalla breve pausa frapposta;Dalla fase d’inspirazione, d’espirazione e dalla lunga pausa frapposta;Dalla fase d’espirazione e dalla breve pausa frapposta;Da presa, trazione, spinta, recupero;;1000
+Una caloria equivale a;1 Joule;2,4 Joule;4,2 Joule;10 Joule;;0010
+Una contrazione muscolare pliometrica è;Concentrica esplosiva;Concentrica progressiva;Eccentrica progressiva;Eccentrica esplosiva;;1000
+Una contrazione si definisce isometrica quando;Il muscolo non consuma energia;Il muscolo si contrae ma non si accorcia;Il muscolo non si contrae;Il muscolo ha un crampo;;0100
+Una modalità contrattile nella quale il muscolo si contrae ma non produce movimento è detta;Eccentrica;Concentrica;Isometrica;Isotonica;;0010

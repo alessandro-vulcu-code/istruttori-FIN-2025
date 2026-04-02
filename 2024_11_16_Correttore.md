@@ -1,4 +1,4 @@
-# CORRETTORE
+ CORRETTORE
 
 ## Sezione I
 

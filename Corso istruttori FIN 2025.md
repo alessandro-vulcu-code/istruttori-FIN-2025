@@ -18,10 +18,10 @@ Con il **decreto legislativo n. 242 del 1999** (art. 15), il legislatore ha tras
 
 Il mutamento è sintetizzabile così:
 
-| Periodo | Natura giuridica | Tipo di attività |
-|---|---|---|
-| **Prima del 1999** | Ente di diritto **pubblico** | Con alcune attività privatistiche (ente misto) |
-| **Dal 1999 in poi** | Ente di diritto **privato** | Con alcune attività che mantengono valenza pubblicistica |
+| Periodo             | Natura giuridica             | Tipo di attività                                         |
+| ------------------- | ---------------------------- | -------------------------------------------------------- |
+| **Prima del 1999**  | Ente di diritto **pubblico** | Con alcune attività privatistiche (ente misto)           |
+| **Dal 1999 in poi** | Ente di diritto **privato**  | Con alcune attività che mantengono valenza pubblicistica |
 
 ### Attività che Mantengono Valenza Pubblicistica
 
