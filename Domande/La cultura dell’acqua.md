@@ -346,10 +346,10 @@
 
 **Le capacità motorie educate ed orientate sono**
 
-- [x] A. La mobilità articolare
+- [ ] A. La mobilità articolare
 - [ ] B. Le capacità coordinative
 - [ ] C. Le capacità condizionali
-- [ ] D. Abilità
+- [x] D. Abilità
 
 ## 229 - La cultura dell’acqua
 
@@ -549,6 +549,7 @@
 - [ ] C. Prevenzione e repressione del doping
 - [ ] D. Organizzazione dei campionati italiani di nuoto
 
+Manca 251 risposta giusta A
 ## 252 - La cultura dell’acqua
 
 **Quali parametri vanno considerati per determinare le potenzialità di un allievo?**
@@ -625,10 +626,10 @@
 
 **Quali sono le discipline regolamentate dalla FIN?**
 
-- [x] A. Nuoto – pallanuoto
+- [ ] A. Nuoto – pallanuoto
 - [ ] B. Nuoto – nuoto per salvamento – nuoto sincronizzato
 - [ ] C. Nuoto – nuoto pinnato – pallanuoto – tuffi – nuoto sincronizzato – nuoto per salvamento
-- [ ] D. Nuoto – pallanuoto – tuffi – nuoto sincronizzato – nuoto per salvamento
+- [x] D. Nuoto – pallanuoto – tuffi – nuoto sincronizzato – nuoto per salvamento
 
 ## 261 - La cultura dell’acqua
 

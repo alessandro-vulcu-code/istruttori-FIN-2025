@@ -1187,3 +1187,5 @@
 - [ ] B. Un malfunzionamento degli analizzatori
 - [ ] C. Un atteggiamento di un individuo che si oppone alla comunicazione
 - [ ] D. Un ostacolo di qualsiasi genere che interrompe o riduce il flusso dell’informazione
+
+Manca la 1000

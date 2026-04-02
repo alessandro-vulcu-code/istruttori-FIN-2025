@@ -319,10 +319,10 @@
 
 **Qual è il tratto caratterizzante del bambino di 3 - 4 anni?**
 
-- [x] A. Pensiero intuitivo
+- [ ] A. Pensiero intuitivo
 - [ ] B. Altruismo
 - [ ] C. Piena consapevolezza del corpo
-- [ ] D. Egocentrismo
+- [x] D. Egocentrismo
 
 ## 37 - Attività speciali
 

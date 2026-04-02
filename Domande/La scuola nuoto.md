@@ -229,10 +229,10 @@
 
 **Cosa non va fatto in una situazione di emergenza?**
 
-- [x] A. Spostare il paziente
+- [ ] A. Spostare il paziente
 - [ ] B. Somministrare alcolici o comunque da bere
 - [ ] C. Caricare il paziente su una macchina di passaggio per trasportarlo in ospedale
-- [ ] D. Tutte le risposte precedenti
+- [x] D. Tutte le risposte precedenti
 
 ## 292 - La scuola nuoto
 
@@ -589,10 +589,10 @@
 
 **Il galleggiamento dipende principalmente**
 
-- [x] A. Dalla viscosità del liquido
+- [ ] A. Dalla viscosità del liquido
 - [ ] B. Dal risucchio o vortice
 - [ ] C. Dalla costituzione corporea
-- [ ] D. Dalla quantità di aria nei polmoni
+- [x] D. Dalla quantità di aria nei polmoni
 
 ## 332 - La scuola nuoto
 
@@ -994,10 +994,10 @@
 
 **La fase propulsiva della bracciata a rana si divide in**
 
-- [x] A. Appoggio-presa, trazione, spinta e recupero
+- [ ] A. Appoggio-presa, trazione, spinta e recupero
 - [ ] B. Spinta, allungo, distensione, recupero
 - [ ] C. Appoggio, allungo
-- [ ] D. Nessuna delle risposte precedenti
+- [x] D. Nessuna delle risposte precedenti
 
 ## 377 - La scuola nuoto
 
@@ -1084,10 +1084,10 @@
 
 **La procedura o protocollo internazionale BLS consente di**
 
-- [x] A. Chiamare i soccorsi sanitari di emergenza (118)
+- [ ] A. Chiamare i soccorsi sanitari di emergenza (118)
 - [ ] B. Attivare il primo soccorso
 - [ ] C. Gestire le conseguenze legali di un infortunio
-- [ ] D. Effettuare le manovre di rianimazione
+- [x] D. Effettuare le manovre di rianimazione
 
 ## 387 - La scuola nuoto
 
@@ -1507,10 +1507,10 @@
 
 **Nella didattica della farfalla, il termine delfinizzazione significa**
 
-- [x] A. Movimento degli arti durante la nuotata
+- [ ] A. Movimento degli arti durante la nuotata
 - [ ] B. Il momento della respirazione
 - [ ] C. L’atteggiamento mentale che il nuotatore deve assumere
-- [ ] D. Gli esercizi da proporre per ottenere un movimento ondulatorio del corpo
+- [x] D. Gli esercizi da proporre per ottenere un movimento ondulatorio del corpo
 
 ## 434 - La scuola nuoto
 
@@ -1534,10 +1534,10 @@
 
 **Nella farfalla la battuta di gambe deve essere, pena squalifica**
 
-- [x] A. Libera
+- [ ] A. Libera
 - [ ] B. Armoniosa
 - [ ] C. Simmetrica, simultanea e con i piedi tassativamente alla stessa altezza
-- [ ] D. Simmetrica, simultanea anche se con i piedi non alla stessa altezza
+- [x] D. Simmetrica, simultanea anche se con i piedi non alla stessa altezza
 
 ## 437 - La scuola nuoto
 
@@ -1624,10 +1624,10 @@
 
 **Nella fase subacquea a rana dopo la virata la corretta sequenza dei movimenti è**
 
-- [x] A. Spinta dal bordo, azione di braccia, gambata rana, recupero delle braccia
+- [ ] A. Spinta dal bordo, azione di braccia, gambata rana, recupero delle braccia
 - [ ] B. Presa/appoggio, trazione, spinta, recupero
 - [ ] C. Spinta dal bordo, gambata a delfino, azione delle braccia, recupero, gambata rana
-- [ ] D. Spinta dal bordo, bracciata, colpo di gambe a delfino, recupero delle braccia, gambata rana
+- [x] D. Spinta dal bordo, bracciata, colpo di gambe a delfino, recupero delle braccia, gambata rana
 
 ## 447 - La scuola nuoto
 
@@ -2389,10 +2389,10 @@
 
 **Quali cautele bisogna adottare nell’esecuzione dei tuffi?**
 
-- [x] A. Nessuna
+- [ ] A. Nessuna
 - [ ] B. Munirsi di fischietto
 - [ ] C. Si ordinano gli allievi in fila
-- [ ] D. Si ordinano gli allievi in fila e si controlla che l’area sia sgombra
+- [x] D. Si ordinano gli allievi in fila e si controlla che l’area sia sgombra
 
 ## 532 - La scuola nuoto
 

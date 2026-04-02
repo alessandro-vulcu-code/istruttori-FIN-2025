@@ -139,10 +139,10 @@
 
 **Nella ginnastica in acqua, per fare resistenza occorre lavorare**
 
-- [x] A. Spingendo verso l’alto
+- [ ] A. Spingendo verso l’alto
 - [ ] B. Spingendo verso il basso
 - [ ] C. In modo circolare
-- [ ] D. Spingendo in alto e in basso in alternanza
+- [x] D. Spingendo in alto e in basso in alternanza
 
 ## 182 - Fitness in acqua
 

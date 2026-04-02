@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/4.Teoria del movimento.md",
+                "file": "Domande/Psicopedagogia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Teoria del movimento"
+              "title": "Psicopedagogia"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lezioni/4.Teoria del movimento.md",
+            "file": "Domande/Psicopedagogia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -170,6 +171,13 @@
   },
   "active": "46c2adb682a3f0f5",
   "lastOpenFiles": [
+    "Domande/Metodologia.md",
+    "Domande/La scuola nuoto.md",
+    "Domande/La cultura dell’acqua.md",
+    "Domande/Fitness in acqua.md",
+    "Domande/Biofisiologia.md",
+    "Domande/Attività speciali.md",
+    "Lezioni/4.Teoria del movimento.md",
     "Riassunto_Corso_ISTRUTTORI_FIN_2025-2026.md",
     "Lezioni/10.L'uomo e l'acqua.md",
     "Lezioni/Priorità_Studio.md",

@@ -4,10 +4,10 @@
 
 **A quale età avviene lo sviluppo prevalente delle capacità coordinative?**
 
-- [x] A. Prima dei 5 anni
+- [ ] A. Prima dei 5 anni
 - [ ] B. Dai 14 ai 18 anni
 - [ ] C. Dopo i 18 anni
-- [ ] D. Dai 5 ai 12 anni
+- [x] D. Dai 5 ai 12 anni
 
 ## 584 - Metodologia
 
@@ -841,10 +841,10 @@
 
 **L’attivazione di un sistema energetico piuttosto che un altro dipende**
 
-- [x] A. Dal livello di allenamento
+- [ ] A. Dal livello di allenamento
 - [ ] B. Dalla produzione di adrenalina
 - [ ] C. Dal momento della giornata
-- [ ] D. Dalle caratteristiche dell’esercizio fisico e dallo stato nutrizionale
+- [x] D. Dalle caratteristiche dell’esercizio fisico e dallo stato nutrizionale
 
 ## 677 - Metodologia
 
@@ -1471,10 +1471,10 @@
 
 **Nel nuoto quali sono le articolazioni più stimolate?**
 
-- [x] A. Polso, gomito, ginocchio e tibio- tarsica
+- [ ] A. Polso, gomito, ginocchio e tibio- tarsica
 - [ ] B. Falangi, gomito, coxo-femorale
 - [ ] C. SNC
-- [ ] D. Scapolo-omerale, colonna vertebrale, coxo-femorale e tibio-tarsica
+- [x] D. Scapolo-omerale, colonna vertebrale, coxo-femorale e tibio-tarsica
 
 ## 747 - Metodologia
 
@@ -2236,10 +2236,10 @@
 
 **Quali sono i requisiti fondamentali delle nuotate elementari?**
 
-- [x] A. Movimenti fini
+- [ ] A. Movimenti fini
 - [ ] B. Ritmo e variazioni di velocità
 - [ ] C. Rapidità di spostamento
-- [ ] D. Continuità delle azioni ed ampiezza del gesto
+- [x] D. Continuità delle azioni ed ampiezza del gesto
 
 ## 832 - Metodologia
 
@@ -2370,10 +2370,10 @@
 
 **Quali tra le seguenti può essere considerata una capacità condizionale?**
 
-- [x] A. Il galleggiamento
+- [ ] A. Il galleggiamento
 - [ ] B. Il ritmo della bracciata
 - [ ] C. La velocità di comprensione
-- [ ] D. La forza resistente
+- [x] D. La forza resistente
 
 ## 847 - Metodologia
 
