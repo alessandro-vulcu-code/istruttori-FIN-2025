@@ -13,15 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Correttore.md",
+                "file": "Lezioni/4.Teoria del movimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Correttore"
+              "title": "4.Teoria del movimento"
+            }
+          },
+          {
+            "id": "558d7e486d33bb51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ripasso_2_Aprile_2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ripasso_2_Aprile_2026"
+            }
+          },
+          {
+            "id": "21067b455eeeca89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Riassunto ordinato.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riassunto ordinato"
+            }
+          },
+          {
+            "id": "b74bab9ebfcdfb18",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,11 +222,14 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "9fa31941a8908dc2",
+  "active": "21067b455eeeca89",
   "lastOpenFiles": [
+    "Riassunto ordinato.md",
+    "Ripasso_2_Aprile_2026.md",
+    "Lezioni/4.Teoria del movimento.md",
+    "Riassunto_Corso_ISTRUTTORI_FIN_2025-2026.md",
     "Correttore.md",
     "2024_11_16_Correttore.md",
-    "Riassunto_Corso_ISTRUTTORI_FIN_2025-2026.md",
     "Lezioni/Priorità_Studio.md",
     "Lezioni/13.Tecnica e didattica delle quattro nuotate regolamentari.md",
     "Lezioni/11.Ambientamento e acquaticita.md",
@@ -196,7 +238,6 @@
     "Lezioni/18.Il Nuoto per Salvamento in Corsia.md",
     "Lezioni/1. Aspetti Amministrativi.md",
     "Lezioni/14.La Pallanuoto in Corsia parte I.md",
-    "Lezioni/4.Teoria del movimento.md",
     "Corso istruttori FIN 2025 new.md",
     "Corso istruttori FIN 2025.md",
     "Corso istruttori FIN 2025.pdf",
@@ -221,8 +262,6 @@
     "1. Aspetti amministrativi.md",
     "4. Teoria del Movimento.md",
     "3. Il Corpo Umano (Parte 2).md",
-    "2. Il Corpo Umano (Parte 1).md",
-    "6.Area psicopedagogica 2.md",
     "Pics/Pasted image 20260309105909.png",
     "Pics/Pasted image 20260309105803.png",
     "Pics/Pasted image 20260309105712.png"
