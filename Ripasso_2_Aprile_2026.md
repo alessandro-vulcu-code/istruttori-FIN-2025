@@ -178,16 +178,16 @@ Respirazione avanti-alto — il corpo rimane vicino all'acqua, niente verticaliz
 
 ### Riepilogo comparativo
 
-| | Stile libero | Dorso | Rana | Farfalla |
-|---|---|---|---|---|
-| Tipo | Asimmetrica | Asimmetrica | Simmetrica | Simmetrica |
-| Posizione | Prona | Supina | Prona | Prona |
-| Rollio | Sì | Sì | No | No |
-| Gambe | 6 colpi/ciclo | Alternati | Circolare extra-ruotata | 2 colpi/ciclo |
-| Spinta braccia | Sì | Sì | No (gambe ~50%) | Sì |
-| Tolleranza errori | Alta | Alta | Bassa | Bassa |
-| Quando si insegna | Inizio | Inizio | Seconda parte | Fine |
-| Respirazione | Laterale | Bocca | Frontale | Avanti-alto |
+|                   | Stile libero  | Dorso       | Rana                    | Farfalla      |
+| ----------------- | ------------- | ----------- | ----------------------- | ------------- |
+| Tipo              | Asimmetrica   | Asimmetrica | Simmetrica              | Simmetrica    |
+| Posizione         | Prona         | Supina      | Prona                   | Prona         |
+| Rollio            | Sì            | Sì          | No                      | No            |
+| Gambe             | 6 colpi/ciclo | Alternati   | Circolare extra-ruotata | 2 colpi/ciclo |
+| Spinta braccia    | Sì            | Sì          | No (gambe ~50%)         | Sì            |
+| Tolleranza errori | Alta          | Alta        | Bassa                   | Bassa         |
+| Quando si insegna | Inizio        | Inizio      | Seconda parte           | Fine          |
+| Respirazione      | Laterale      | Bocca       | Frontale                | Avanti-alto   |
 
 ---
 
