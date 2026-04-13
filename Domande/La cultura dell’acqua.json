@@ -1,0 +1,1674 @@
+[
+  {
+    "question": "Attività terrestre ed acquatica",
+    "answers": [
+      {
+        "text": "Differiscono per temperatura differente dei due elementi",
+        "correct": false
+      },
+      {
+        "text": "Sono analoghe in quanto ciò che si apprende a terra è semplicemente applicabile in acqua in posizione orizzontale (le abilità motorie sono trasferibili)",
+        "correct": false
+      },
+      {
+        "text": "A terra è tutto più difficile a causa della forza di gravità",
+        "correct": false
+      },
+      {
+        "text": "In acqua andranno creati presupposti differenti per poter apprendere nuove abilità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Attraverso quale percorso l’uomo diventa nuotatore?",
+    "answers": [
+      {
+        "text": "Deve conoscere il principio di Archimede",
+        "correct": false
+      },
+      {
+        "text": "Deve avere capacità innate",
+        "correct": false
+      },
+      {
+        "text": "Deve avere una struttura fisica adeguata",
+        "correct": false
+      },
+      {
+        "text": "Deve fare esperienze motorie specifiche",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Come possono essere definiti gli schemi motori di base?",
+    "answers": [
+      {
+        "text": "Capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Unità primarie del movimento umano",
+        "correct": true
+      },
+      {
+        "text": "Unità secondarie del movimento umano",
+        "correct": false
+      },
+      {
+        "text": "Capacità coordinative generali",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Come si applica il principio di multilateralità mirata?",
+    "answers": [
+      {
+        "text": "Diversificando più possibile gli esercizi con il maggior numero possibile di esperienze motorie, sia positive sia negative",
+        "correct": false
+      },
+      {
+        "text": "Variando continuamente le lezioni così gli allievi si divertono con cose sempre diverse",
+        "correct": false
+      },
+      {
+        "text": "Favorendo, attraverso la variazione degli stimoli positivi, l’esplorazione del ventaglio di esperienze motorie acquatiche, con consapevolezza",
+        "correct": true
+      },
+      {
+        "text": "Riproponendo con costanza sempre gli stessi stimoli, con l’obbiettivo di instaurare l’indispensabile meccanicità dei movimenti, fondamentale nei processi di apprendimento",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Come si sviluppano le abilità acquatiche?",
+    "answers": [
+      {
+        "text": "L’individuo se adeguatamente stimolato, sviluppa autonomamente le abilità",
+        "correct": false
+      },
+      {
+        "text": "Casualmente",
+        "correct": false
+      },
+      {
+        "text": "L’individuo anche non stimolato sviluppa le abilità acquatiche",
+        "correct": false
+      },
+      {
+        "text": "Le abilità motorie acquatiche devono essere apprese dall’individuo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Come sono inquadrati i tecnici nella FIN?",
+    "answers": [
+      {
+        "text": "Al momento del loro tesseramento SIT",
+        "correct": true
+      },
+      {
+        "text": "Al momento del conseguimento del titolo di istruttore",
+        "correct": false
+      },
+      {
+        "text": "Al momento delle decisioni in merito del comitato regionale",
+        "correct": false
+      },
+      {
+        "text": "Al momento della richiesta",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Con la nuova cultura dell’acqua, si è passati da una fase di addestramento ad una di educazione acquatica. Quali termini si possono utilizzare per descrivere questo concetto?",
+    "answers": [
+      {
+        "text": "Automatizzazione del gesto- coordinazione-sensopercezione",
+        "correct": false
+      },
+      {
+        "text": "Rispetto delle fasi sensibili- ampliamento mappa motoria- multilateralità",
+        "correct": true
+      },
+      {
+        "text": "Avviamento-ambientamento- progressioni didattiche",
+        "correct": false
+      },
+      {
+        "text": "Addestramento al nuoto",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa s’intende per sensopercezione?",
+    "answers": [
+      {
+        "text": "Presupposto della prestazione sportiva",
+        "correct": false
+      },
+      {
+        "text": "Processo di scoperta, analisi ed elaborazione di informazioni e sensazioni attraverso l’integrazione di afferenze provenienti dagli analizzatori",
+        "correct": true
+      },
+      {
+        "text": "Varietà di stimoli proposti; deve essere massima dal punto di vista spaziale, temporale, della varietà",
+        "correct": false
+      },
+      {
+        "text": "Capacità coordinativa speciale",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa sono gli schemi motori acquatici?",
+    "answers": [
+      {
+        "text": "Dei movimenti naturali ( come gli schemi motori di base )",
+        "correct": false
+      },
+      {
+        "text": "Delle abilità motorie apprese in forma cosciente",
+        "correct": true
+      },
+      {
+        "text": "Schemi di gioco, con movimenti preordinati, utilizzati nella pallanuoto",
+        "correct": false
+      },
+      {
+        "text": "Acquisizioni acquatiche elementari apprese in forma autonoma ( senza l’intervento dell’istruttore )",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa sono le capacità motorie?",
+    "answers": [
+      {
+        "text": "Presupposti, potenzialità funzionali e motorie per l’apprendimento di abilità motorie",
+        "correct": true
+      },
+      {
+        "text": "Modelli di movimento basati sugli schemi motori",
+        "correct": false
+      },
+      {
+        "text": "Azioni motorie che realizzano una data tecnica sportiva",
+        "correct": false
+      },
+      {
+        "text": "Elementi essenziali del movimento facenti capo le abilità motorie",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa sono le diversificazioni didattiche?",
+    "answers": [
+      {
+        "text": "Continua diversificazione degli stimoli i",
+        "correct": true
+      },
+      {
+        "text": "Utilizzo di supporti (tavoletta, pull- buoy)",
+        "correct": false
+      },
+      {
+        "text": "Avvicendamento degli istruttori",
+        "correct": false
+      },
+      {
+        "text": "Variazione di registri comunicativi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa sono le fasi sensibili?",
+    "answers": [
+      {
+        "text": "Capacità di differenziazione cinestetica",
+        "correct": false
+      },
+      {
+        "text": "Periodi della vita particolarmente favorevoli allo sviluppo degli esercizi sensopercettivi",
+        "correct": false
+      },
+      {
+        "text": "Periodi nella crescita particolarmente favorevoli allo sviluppo della forza",
+        "correct": false
+      },
+      {
+        "text": "Fasi dello sviluppo psicofisico durante le quali si può lavorare con più efficacia sulle funzioni psicomotorie, sulle capacità fisiche, coordinative e cognitivo-affettive",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Da cosa dipendono le criticità del percorso motorio acquatico?",
+    "answers": [
+      {
+        "text": "Dalle peculiarità del mezzo e dal fatto che l’uomo non è un animale acquatico",
+        "correct": true
+      },
+      {
+        "text": "Dalle condizioni ambientali e da eventuali barriere alla comunicazione",
+        "correct": false
+      },
+      {
+        "text": "Dalle progressioni didattiche adottate dalla scuola nuoto federale",
+        "correct": false
+      },
+      {
+        "text": "È un percorso che non presenta alcuna criticità",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "I fattori che condizionano l’accrescimento sono",
+    "answers": [
+      {
+        "text": "Fattori endogeni ed esogeni",
+        "correct": true
+      },
+      {
+        "text": "Fattori muscolari ed energetici",
+        "correct": false
+      },
+      {
+        "text": "Fattori genetici e psicologici",
+        "correct": false
+      },
+      {
+        "text": "Fattori alimentarie psicologici",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il bagaglio motorio è",
+    "answers": [
+      {
+        "text": "Capacità di organizzare una azione motoria",
+        "correct": false
+      },
+      {
+        "text": "L’equipaggiamento dell’atleta agonista",
+        "correct": false
+      },
+      {
+        "text": "Il vissuto emotivo legato alla pratica sportiva",
+        "correct": false
+      },
+      {
+        "text": "Raccolta di tutte le esperienze motorie vissute che hanno lasciato una traccia nel sistema nervoso centrale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il procedimento euristico è",
+    "answers": [
+      {
+        "text": "Processo di scoperta, analisi ed elaborazione di informazioni e sensazioni",
+        "correct": false
+      },
+      {
+        "text": "Una strategia applicabile agli sport di situazione",
+        "correct": false
+      },
+      {
+        "text": "Rappresenta il presupposto fondamentale per il progressivo affinamento del gesto",
+        "correct": false
+      },
+      {
+        "text": "Qualsiasi procedimento non rigoroso (a carattere approssimativo, intuitivo, analogico, ecc) che consente di prevedere e rendere plausibile un risultato",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il ruolo dell’istruttore è",
+    "answers": [
+      {
+        "text": "Insegnare solo il gesto tecnico",
+        "correct": false
+      },
+      {
+        "text": "Essere una figura di riferimento in piano vasca",
+        "correct": true
+      },
+      {
+        "text": "Assistere alla sicurezza dei natanti",
+        "correct": false
+      },
+      {
+        "text": "Pleonastico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In cosa consiste un apprendimento?",
+    "answers": [
+      {
+        "text": "Nella modifica del comportamento di fronte ad un problema",
+        "correct": true
+      },
+      {
+        "text": "Esecuzione corretta di un esercizio",
+        "correct": false
+      },
+      {
+        "text": "Nella correzione di uno stile",
+        "correct": false
+      },
+      {
+        "text": "Nel conseguimento di un brevetto tecnico",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Indica l’ordine corretto delle fasi di una lezione di nuoto",
+    "answers": [
+      {
+        "text": "Riscaldamento – nucleo didattico – rinforzo nucleo didattico – rinforzo lezione precedente",
+        "correct": true
+      },
+      {
+        "text": "Riscaldamento – rinforzo lezione precedente – nucleo didattico – rinforzo nucleo didattico",
+        "correct": false
+      },
+      {
+        "text": "Rinforzo lezione precedente – riscaldamento – rinforzo nucleo didattico – nucleo didattico",
+        "correct": false
+      },
+      {
+        "text": "Presa – trazione – spinta - recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Insegnare a nuotare significa prima di tutto",
+    "answers": [
+      {
+        "text": "Trasmettere delle tecniche",
+        "correct": false
+      },
+      {
+        "text": "Educare indipendentemente dall’acqua",
+        "correct": false
+      },
+      {
+        "text": "Educare all’acqua",
+        "correct": false
+      },
+      {
+        "text": "Educare attraverso l’acqua",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’adattamento è",
+    "answers": [
+      {
+        "text": "Capacità di esercitare un controllo dinamico dell’azione motoria all’interno di una situazione, che può presentare continue variazioni",
+        "correct": true
+      },
+      {
+        "text": "Capacità di esercitare un controllo emotivo durante una prestazione sportiva",
+        "correct": false
+      },
+      {
+        "text": "Capacità di conformarsi alle aspettative dell’insegnante",
+        "correct": false
+      },
+      {
+        "text": "Capacità di adattarsi alle diverse temperature dell’acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’apprendimento deve avvenire con",
+    "answers": [
+      {
+        "text": "Elasticità e trasferibilità",
+        "correct": true
+      },
+      {
+        "text": "Rigidità e intrasferibilità",
+        "correct": false
+      },
+      {
+        "text": "Chiusura e incomunicabilità",
+        "correct": false
+      },
+      {
+        "text": "Rapidità ed efficienza",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’apprendimento",
+    "answers": [
+      {
+        "text": "È un’esercitazione",
+        "correct": false
+      },
+      {
+        "text": "È un processo psichico",
+        "correct": true
+      },
+      {
+        "text": "È un’abilità motoria",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’attività motoria svolta in situazione di apprendimento deve costituire un carico motorio conforme ai principi di",
+    "answers": [
+      {
+        "text": "Intuizione",
+        "correct": false
+      },
+      {
+        "text": "Imitazione",
+        "correct": false
+      },
+      {
+        "text": "Esaltazione",
+        "correct": false
+      },
+      {
+        "text": "Multilateralità e polivalenza",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’azione educativa al nuoto si concretizza attraverso due strade, quali?",
+    "answers": [
+      {
+        "text": "Educazione al nuoto - educazione attraverso il nuoto",
+        "correct": true
+      },
+      {
+        "text": "Educazione al nuoto - educazione sul nuoto",
+        "correct": false
+      },
+      {
+        "text": "Educazione al nuoto - educazione per il nuoto",
+        "correct": false
+      },
+      {
+        "text": "Educazione sul nuoto - educazione nel nuoto",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’esercizio fisico contribuisce a sviluppare",
+    "answers": [
+      {
+        "text": "Il corpo e la psiche del bambino",
+        "correct": true
+      },
+      {
+        "text": "La resistenza ai carichi di lavoro",
+        "correct": false
+      },
+      {
+        "text": "Il sistema endocrino",
+        "correct": false
+      },
+      {
+        "text": "Il controllo dell’ansia",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’età biologica",
+    "answers": [
+      {
+        "text": "Corrisponde all’età cronologica",
+        "correct": false
+      },
+      {
+        "text": "Valuta il tempo trascorso dalla nascita",
+        "correct": false
+      },
+      {
+        "text": "Non è conoscibile",
+        "correct": false
+      },
+      {
+        "text": "È la vera età psicofisica e rispecchia il livello di maturazione",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La cultura dell’acqua comprende",
+    "answers": [
+      {
+        "text": "Esplorazione, galleggiamento, propulsione grezza",
+        "correct": true
+      },
+      {
+        "text": "Tecnica degli stili e dei tuffi",
+        "correct": false
+      },
+      {
+        "text": "Acquisizione delle sole capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "La preparazione dell’insegnante",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La multilateralità",
+    "answers": [
+      {
+        "text": "È l’utilizzo di una vasta gamma di esercizi per le capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Consente nella pratica di più discipline sportive",
+        "correct": false
+      },
+      {
+        "text": "Può essere generale e mirata",
+        "correct": false
+      },
+      {
+        "text": "C - Può essere generale, specifica e mirata",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La parola abilità è il fulcro",
+    "answers": [
+      {
+        "text": "Della scuola di nuoto",
+        "correct": false
+      },
+      {
+        "text": "Della scuola di nuoto sincronizzato",
+        "correct": false
+      },
+      {
+        "text": "Della scuola di nuoto per salvamento",
+        "correct": false
+      },
+      {
+        "text": "Della scuola delle abilità acquatiche",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La prestazione è",
+    "answers": [
+      {
+        "text": "Esito misurabile della contrazione muscolare",
+        "correct": false
+      },
+      {
+        "text": "Esito misurabile di un’azione sportiva completa",
+        "correct": true
+      },
+      {
+        "text": "Esito misurabile della velocità di gara",
+        "correct": false
+      },
+      {
+        "text": "Esito misurabile di un test lattacidemico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La rappresentazione cognitiva di posizione ed estensione del corpo nello spazio si dice",
+    "answers": [
+      {
+        "text": "Schema motorio",
+        "correct": false
+      },
+      {
+        "text": "Schema corporeo",
+        "correct": true
+      },
+      {
+        "text": "Schema semplice",
+        "correct": false
+      },
+      {
+        "text": "Schema olistico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La sensibilità con cui si tratta l’acqua o si è in rapporto (simbiosi) con essa, determina l’efficienza e l’efficacia delle azioni(e in futuro delle prestazioni). Tutto questo è determinato da",
+    "answers": [
+      {
+        "text": "La coordinazione",
+        "correct": false
+      },
+      {
+        "text": "La sensopercezione",
+        "correct": true
+      },
+      {
+        "text": "Le abilità acquatiche",
+        "correct": false
+      },
+      {
+        "text": "La poliedricità",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La sensopercezione è",
+    "answers": [
+      {
+        "text": "Attività conoscitiva che permette di percepire gli stimoli provenienti dagli analizzatori",
+        "correct": true
+      },
+      {
+        "text": "Un esercizio per migliorare la sensibilità degli allievi",
+        "correct": false
+      },
+      {
+        "text": "Un insieme di stimoli atti a migliorare la prestazione",
+        "correct": false
+      },
+      {
+        "text": "Una capacità condizionale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La varietà di stimoli proposti, che deve essere massima dal punto di vista spaziale, temporale, della varietà, viene definita",
+    "answers": [
+      {
+        "text": "Polisportività",
+        "correct": false
+      },
+      {
+        "text": "Multidisciplinarità",
+        "correct": false
+      },
+      {
+        "text": "Multipolarità",
+        "correct": false
+      },
+      {
+        "text": "Multilateralità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le abilità motorie",
+    "answers": [
+      {
+        "text": "Sono identificabili come tecniche sportive",
+        "correct": true
+      },
+      {
+        "text": "Non sono relazionabili alle capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Sono delle abilità innate presenti in ogni individuo",
+        "correct": false
+      },
+      {
+        "text": "Sono legate esclusivamente ad aspetti condizionali",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le abilità motorie",
+    "answers": [
+      {
+        "text": "Sono dei presupposti di prestazione che con il tempo si automatizzano",
+        "correct": true
+      },
+      {
+        "text": "Non sono relazionabili alle capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Sono delle abilità innate presenti in ogni individuo",
+        "correct": false
+      },
+      {
+        "text": "Non fanno riferimento alle tecniche",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le capacità coordinative sono legate allo sviluppo del",
+    "answers": [
+      {
+        "text": "Sistema nervoso",
+        "correct": true
+      },
+      {
+        "text": "Apparato respiratorio",
+        "correct": false
+      },
+      {
+        "text": "Core business",
+        "correct": false
+      },
+      {
+        "text": "Apparato muscolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le capacità motorie educate ed orientate sono",
+    "answers": [
+      {
+        "text": "La mobilità articolare",
+        "correct": false
+      },
+      {
+        "text": "Le capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Le capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Abilità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le difficoltà che si possono incontrare nell’insegnamento delle virate generalmente sono dovute",
+    "answers": [
+      {
+        "text": "Alla correzione delle cause degli errori anziché concentrarsi sugli effetti che generano le difficoltà",
+        "correct": false
+      },
+      {
+        "text": "Al fatto che si tratta di movenze impossibili da acquisire in fase di ambientamento",
+        "correct": false
+      },
+      {
+        "text": "Al fatto che le virate devono essere apprese come abilità motorie distinte e meccanizzate adeguatamente",
+        "correct": false
+      },
+      {
+        "text": "Al fatto che le virate devono essere apprese come insieme di abilità motorie semplici integrate fra loro attraverso lo stimolo e l’adattamento consapevole",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le fasi sensibili sono",
+    "answers": [
+      {
+        "text": "Periodi dello sviluppo caratterizzati da significativi miglioramenti per determinate capacità",
+        "correct": true
+      },
+      {
+        "text": "Periodi dello sviluppo caratterizzati da significativi miglioramenti di tutte le capacità motorie",
+        "correct": false
+      },
+      {
+        "text": "Periodi di particolare fragilità emotiva",
+        "correct": false
+      },
+      {
+        "text": "Periodi dello sviluppo svantaggiosi per gli apprendimenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le società che intendono praticare gli sport acquatici nell’ambito della FIN",
+    "answers": [
+      {
+        "text": "Devono associarsi",
+        "correct": false
+      },
+      {
+        "text": "Devono presentare la piscina",
+        "correct": false
+      },
+      {
+        "text": "Devono richiedere la qualifica di Scuola nuoto federale",
+        "correct": false
+      },
+      {
+        "text": "Devono affiliarsi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le tecniche sportive (quattro stili, virate, partenze, ecc.) sono",
+    "answers": [
+      {
+        "text": "Fasi di coordinazione fine",
+        "correct": false
+      },
+      {
+        "text": "Capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Abilità motorie",
+        "correct": true
+      },
+      {
+        "text": "Schemi motori acquatici",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Lo schema corporeo è",
+    "answers": [
+      {
+        "text": "La rappresentazione mentale nell’ambiente acqua",
+        "correct": false
+      },
+      {
+        "text": "La consapevolezza della posizione del proprio corpo nella rana e nella farfalla",
+        "correct": false
+      },
+      {
+        "text": "L’insieme delle capacità motorie",
+        "correct": false
+      },
+      {
+        "text": "Rappresentazione e consapevolezza della posizione e dell’estensione del corpo nello spazio",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Lo sviluppo della competenza motoria",
+    "answers": [
+      {
+        "text": "Non è in relazione con il talento sportivo",
+        "correct": false
+      },
+      {
+        "text": "Precede il talento sportivo",
+        "correct": true
+      },
+      {
+        "text": "Coincide con il talento sportivo",
+        "correct": false
+      },
+      {
+        "text": "Segue il talento sportivo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella scuola nuoto vengono sviluppate maggiormente le capacità condizionali o quelle coordinative?",
+    "answers": [
+      {
+        "text": "Entrambe alla pari",
+        "correct": false
+      },
+      {
+        "text": "Capacità coordinative",
+        "correct": true
+      },
+      {
+        "text": "Capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle due",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Per cultura dell’acqua si intende",
+    "answers": [
+      {
+        "text": "L’insieme delle conoscenze sull’elemento acqua",
+        "correct": false
+      },
+      {
+        "text": "La conoscenza dei prodotti usati per igienizzare l’acqua della piscina",
+        "correct": false
+      },
+      {
+        "text": "Il livello scolastico medio degli allievi",
+        "correct": false
+      },
+      {
+        "text": "Un percorso acquatico dove multilateralità, senso percezione e abilità sono i punti fondamentali",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per imparare le tecniche degli stili, è più importante avere",
+    "answers": [
+      {
+        "text": "Buone capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Buone capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Buon ambientamento acquatico",
+        "correct": true
+      },
+      {
+        "text": "Struttura fisica imponente",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Per multilateralità s’intende",
+    "answers": [
+      {
+        "text": "L’apprendimento del maggior numero di processi motori differenziando le esercitazioni",
+        "correct": true
+      },
+      {
+        "text": "La proposta di molteplici esercizi",
+        "correct": false
+      },
+      {
+        "text": "La proposta di esercizi volti allo sviluppo della lateralità",
+        "correct": false
+      },
+      {
+        "text": "La variazione quantitativa della proposta in ricerca della specializzazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per quanti anni un allievo istruttore può mantenere la qualifica senza aggiornamento?",
+    "answers": [
+      {
+        "text": "2 anni",
+        "correct": false
+      },
+      {
+        "text": "3 anni",
+        "correct": true
+      },
+      {
+        "text": "4 anni",
+        "correct": false
+      },
+      {
+        "text": "5 anni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Per superare la concezione meccanicistica che costringe l’allievo in un percorso obbligato di avviamento – propulsione grezza – correzioni - progressione didattica dei 4 stili, bisogna perseguire gli obiettivi di fondo",
+    "answers": [
+      {
+        "text": "Flessibilità e trasferibilità delle abilità apprese – Strutturazione di una mappa motoria ricca ed elastica – Sviluppo di una competenza motoria",
+        "correct": true
+      },
+      {
+        "text": "Durezza ed intrasferibilità delle abilità apprese – Strutturazione di una mappa motoria rigida ed analitica – Sviluppo condizionale",
+        "correct": false
+      },
+      {
+        "text": "Progressione didattica del dorso e delfino",
+        "correct": false
+      },
+      {
+        "text": "Capacità condizionali e coordinative",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qual è il percorso formativo di un tecnico nella FIN?",
+    "answers": [
+      {
+        "text": "Corsi istituzionali, inquadramento nelle società sportive, aggiornamenti obbligatori, specializzazioni",
+        "correct": true
+      },
+      {
+        "text": "Corsi facoltativi, aggiornamenti periodici, valutazioni intermedie",
+        "correct": false
+      },
+      {
+        "text": "Non esiste un percorso specifico",
+        "correct": false
+      },
+      {
+        "text": "Inquadramento come atleti, tecnici, dirigenti sportivi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qual è la conseguenza di un approccio meccanicistico alla scuola d’acqua?",
+    "answers": [
+      {
+        "text": "Nessuna",
+        "correct": false
+      },
+      {
+        "text": "Completo fallimento didattico",
+        "correct": false
+      },
+      {
+        "text": "Specializzazione precoce",
+        "correct": false
+      },
+      {
+        "text": "Irrigidimento della mappa motoria",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qual è la premessa indispensabile per insegnare a nuotare?",
+    "answers": [
+      {
+        "text": "Conoscere bene i propri allievi",
+        "correct": false
+      },
+      {
+        "text": "Conoscere le caratteristiche psicofisiche di chi deve apprendere",
+        "correct": true
+      },
+      {
+        "text": "Conoscere bene la tecnica natatoria",
+        "correct": false
+      },
+      {
+        "text": "Conoscere sé stessi",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è errata?",
+    "answers": [
+      {
+        "text": "Il settore salvamento è un organo del SIT",
+        "correct": true
+      },
+      {
+        "text": "Il SIT si sviluppa in un’organizzazione centrale e una periferica",
+        "correct": false
+      },
+      {
+        "text": "Il SIT è un organo tecnico della FIN",
+        "correct": false
+      },
+      {
+        "text": "Gli allenatori di nuoto appartengono al SIT nazionale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale fase è assente nello sviluppo delle abilità motorie acquatiche?",
+    "answers": [
+      {
+        "text": "Maturazione",
+        "correct": true
+      },
+      {
+        "text": "Apprendimento",
+        "correct": false
+      },
+      {
+        "text": "Sviluppo",
+        "correct": false
+      },
+      {
+        "text": "Perfezionamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale termine rappresenta il fulcro della scuola di abilità acquatiche?",
+    "answers": [
+      {
+        "text": "Tecnica",
+        "correct": false
+      },
+      {
+        "text": "Azione",
+        "correct": false
+      },
+      {
+        "text": "Prestazione",
+        "correct": false
+      },
+      {
+        "text": "Abilità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale tra i seguenti è un obiettivo specifico di un corso di nuoto?",
+    "answers": [
+      {
+        "text": "Lo sviluppo di capacità sensopercettive e coordinative speciali",
+        "correct": true
+      },
+      {
+        "text": "Lo sviluppo della forza muscolare",
+        "correct": false
+      },
+      {
+        "text": "L’assumere una corretta postura",
+        "correct": false
+      },
+      {
+        "text": "La crescita staturo-ponderale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale tra le seguenti categorie non fa parte della FIN?",
+    "answers": [
+      {
+        "text": "Atleti",
+        "correct": false
+      },
+      {
+        "text": "Istruttori di nuoto",
+        "correct": false
+      },
+      {
+        "text": "Cronometristi",
+        "correct": true
+      },
+      {
+        "text": "Dirigenti sociali",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali aree compongono la personalità del soggetto?",
+    "answers": [
+      {
+        "text": "morfologico-funzionale, intellettivo- cognitiva affettivo-emotiva, sociale",
+        "correct": true
+      },
+      {
+        "text": "morfologico-funzionale, emotivo- empatica, intellettivo-cognitiva, socio-economica",
+        "correct": false
+      },
+      {
+        "text": "emotivo-empatica, intellettivo- cognitiva, comunicativa, sociale",
+        "correct": false
+      },
+      {
+        "text": "psicologica, sociale, emotiva, comunicativa",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali delle seguenti non è una competenza della FIN?",
+    "answers": [
+      {
+        "text": "Procurare i mezzi per partecipare alle competizioni natatorie e alle Olimpiadi",
+        "correct": false
+      },
+      {
+        "text": "Organizzare i campionati del mondo di nuoto",
+        "correct": true
+      },
+      {
+        "text": "Prevenzione e repressione del doping",
+        "correct": false
+      },
+      {
+        "text": "Organizzazione dei campionati italiani di nuoto",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali di questi soggetti non fanno parte della FIN?",
+    "answers": [
+      {
+        "text": "Medici sociali",
+        "correct": true
+      },
+      {
+        "text": "Giudici",
+        "correct": false
+      },
+      {
+        "text": "Atleti",
+        "correct": false
+      },
+      {
+        "text": "Cronometristi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali parametri vanno considerati per determinare le potenzialità di un allievo?",
+    "answers": [
+      {
+        "text": "Assetti e posture, livello del tono muscolare, coordinazione volontaria, organizzazione motoria",
+        "correct": true
+      },
+      {
+        "text": "Motivazione, costituzione, coordinazione",
+        "correct": false
+      },
+      {
+        "text": "Aspetti staturo-ponderali e neuro- fisiologici",
+        "correct": false
+      },
+      {
+        "text": "Età anagrafica in relazione all’età biologica",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono gli obiettivi del nucleo didattico di una lezione di scuola nuoto?",
+    "answers": [
+      {
+        "text": "Allenare in maniera efficace tutte le capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Verificare in maniera oggettiva gli obbiettivi raggiunti e consolidare le nuove abilità motorie acquisite",
+        "correct": false
+      },
+      {
+        "text": "Migliorare la comunicazione tra istruttore e allievo",
+        "correct": false
+      },
+      {
+        "text": "Stimolare le capacità coordinative con nuove esperienze motorie da trasformare in abilità motorie",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono gli organi centrali della FIN?",
+    "answers": [
+      {
+        "text": "L’assemblea nazionale, il presidente, il consiglio federale, il consiglio di presidenza, il collegio dei revisori dei conti",
+        "correct": true
+      },
+      {
+        "text": "Le assemblee regionali, i presidenti regionali, i comitati regionali, i collegi regionali dei revisori dei conti, le assemblee provinciali, i presidenti provinciali, i comitati provinciali, i delegati provinciali, i fiduciari locali",
+        "correct": false
+      },
+      {
+        "text": "Parlamento, senato, corte costituzionale",
+        "correct": false
+      },
+      {
+        "text": "Il settore istruzione tecnica, il settore sanitario, il gruppo ufficiali gara, il settore squadre nazionali, il settore nuoto per tutti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono gli organi tecnici della FIN?",
+    "answers": [
+      {
+        "text": "L’assemblea nazionale, il presidente, il consiglio federale, il consiglio di presidenza, il collegio dei revisori dei conti",
+        "correct": false
+      },
+      {
+        "text": "Le assemblee regionali, i presidenti regionali, i comitati regionali, i collegi regionali dei revisori dei conti, le assemblee provinciali, i presidenti provinciali, i comitati provinciali, i delegati provinciali, i fiduciari locali",
+        "correct": false
+      },
+      {
+        "text": "Parlamento, senato, corte costituzionale",
+        "correct": false
+      },
+      {
+        "text": "Il settore istruzione tecnica, il settore sanitario, il gruppo ufficiali gara, il settore squadre nazionali, il settore nuoto per tutti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono gli scopi che si propone la FIN?",
+    "answers": [
+      {
+        "text": "Formare gli istruttori",
+        "correct": false
+      },
+      {
+        "text": "Organizzare eventi",
+        "correct": false
+      },
+      {
+        "text": "Conquistare titoli olimpici",
+        "correct": false
+      },
+      {
+        "text": "Promuovere, organizzare, disciplinare e diffondere le discipline natatorie",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono i doveri dei tecnici?",
+    "answers": [
+      {
+        "text": "Di esercitare con lealtà sportiva le loro attività, osservando i principi, le norme e le consuetudini sportive nonché il Codice di comportamento sportivo",
+        "correct": true
+      },
+      {
+        "text": "Di competere contro le altre attività sportive per finalizzare le utenze agli sport acquatici",
+        "correct": false
+      },
+      {
+        "text": "Di perseguire la performance dei propri atleti",
+        "correct": false
+      },
+      {
+        "text": "Di modificare i regolamenti, le norme e le consuetudini sportive nel caso si dimostrassero in contraddizione con i regolamenti federali",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono i vantaggi derivanti dalla conoscenza delle fasi sensibili?",
+    "answers": [
+      {
+        "text": "Evitare interventi pericolosi, permettere il miglior risultato, sfruttare l’occasione quando si propone e accettare il futuro nelle sue complicazioni",
+        "correct": false
+      },
+      {
+        "text": "Possibilità di ottenere precocemente performance soddisfacenti",
+        "correct": false
+      },
+      {
+        "text": "Evitare interventi tardivi, permettere il miglior risultato, consentire la gratificazione del miglioramento evidente, evitare stress funzionali o emotivi derivanti da un lavoro non idoneo o dalla frustrazione di non ottenere miglioramenti",
+        "correct": true
+      },
+      {
+        "text": "Rispettare l’allievo nel suo diritto al divertimento, al differimento della fatica, all’evitamento dei problemi legati all’agonismo e alla ricerca della prestazione precoce",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali sono la figura e il ruolo dell’istruttore?",
+    "answers": [
+      {
+        "text": "Leader autoritario",
+        "correct": false
+      },
+      {
+        "text": "Tecnico federale",
+        "correct": false
+      },
+      {
+        "text": "Capo istituzionale del gruppo, motivatore",
+        "correct": true
+      },
+      {
+        "text": "Leader lassista",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali sono le discipline regolamentate dalla FIN?",
+    "answers": [
+      {
+        "text": "Nuoto – pallanuoto",
+        "correct": false
+      },
+      {
+        "text": "Nuoto – nuoto per salvamento – nuoto sincronizzato",
+        "correct": false
+      },
+      {
+        "text": "Nuoto – nuoto pinnato – pallanuoto – tuffi – nuoto sincronizzato – nuoto per salvamento",
+        "correct": false
+      },
+      {
+        "text": "Nuoto – pallanuoto – tuffi – nuoto sincronizzato – nuoto per salvamento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quante abilità motorie si possono apprendere?",
+    "answers": [
+      {
+        "text": "Più di 50",
+        "correct": false
+      },
+      {
+        "text": "Meno di 20",
+        "correct": false
+      },
+      {
+        "text": "Tra 20 e 50",
+        "correct": false
+      },
+      {
+        "text": "Infinite",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quante sono le abilità motorie del nuoto?",
+    "answers": [
+      {
+        "text": "Quattro (gli stili)",
+        "correct": false
+      },
+      {
+        "text": "Tante quante se ne apprendono",
+        "correct": true
+      },
+      {
+        "text": "Due (partenza e virata)",
+        "correct": false
+      },
+      {
+        "text": "Nessuna",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Saltare è",
+    "answers": [
+      {
+        "text": "Una particolare capacità condizionale",
+        "correct": false
+      },
+      {
+        "text": "Un’abilità motoria",
+        "correct": false
+      },
+      {
+        "text": "Uno schema motorio di base",
+        "correct": true
+      },
+      {
+        "text": "Una capacità coordinativa speciale",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Un’abilità motoria è",
+    "answers": [
+      {
+        "text": "Una predisposizione al movimento",
+        "correct": false
+      },
+      {
+        "text": "Un’abilità innata",
+        "correct": false
+      },
+      {
+        "text": "Un’abilità appresa",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle tre opzioni",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "I periodi della vita nei quali si apprende più facilmente una particolare capacità si chiamano",
+    "answers": [
+      {
+        "text": "Fasi particolari",
+        "correct": false
+      },
+      {
+        "text": "Fasi sensibili",
+        "correct": true
+      },
+      {
+        "text": "Periodi costanti",
+        "correct": false
+      },
+      {
+        "text": "Fasi olistiche",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  }
+]
