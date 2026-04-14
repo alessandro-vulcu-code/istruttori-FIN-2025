@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e5812d07fed0b26",
+        "id": "7e8acd433c8a2488",
         "type": "tabs",
         "children": [
           {
-            "id": "9fa31941a8908dc2",
+            "id": "01df76a41716e741",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Riassunto ordinato.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Riassunto ordinato"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,46 +181,47 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "9fa31941a8908dc2",
+  "active": "01df76a41716e741",
   "lastOpenFiles": [
-    "Riassunto ordinato.md.tmp.116871.1776070328742",
+    "Altro/fix_tables.py",
+    "Altro/TRASCRIZIONE_2 apr 2026, 19-12.txt",
+    "Altro/PROMPT.md",
+    "Altro/Ripasso_2_Aprile_2026.md",
+    "Riassunto finale per orale.md",
+    "Lezioni/Riassunto finale per orale.md",
+    "Altro/Domande.md",
+    "Lezioni/Corso istruttori FIN 2025 new.md",
+    "Lezioni/Corso istruttori FIN 2025.md",
+    "Altro/Corso istruttori FIN 2025.log",
+    "Altro/Corso istruttori FIN 2025.fls",
+    "Altro/Corso istruttori FIN 2025.fdb_latexmk",
+    "Altro/Corso istruttori FIN 2025.aux",
+    "Altro/Correttore.md",
+    "Altro/converti_risposte.py",
+    "Altro/converti_correttore.py",
+    "Altro/2024_11_16_Correttore.md",
+    "Altro",
+    "Pics/Pasted image 20260413104140.png",
+    "Riassunto ordinato.md.tmp.51763.1776159283553",
+    "Riassunto ordinato.md.tmp.51763.1776159278662",
+    "Riassunto 02-03 Corpo Umano.md",
+    "Senza nome.md",
+    "Riassunto 24-25.md",
+    "Riassunto 19-23.md",
     "Ripasso_2_Aprile_2026.md",
-    "Riassunto ordinato.md",
     "Pasted image 20260413104140.png",
     "Domande.md",
     "Domande/Metodologia.md",
     "Domande/Biofisiologia.md",
-    "Riassuntone.pdf",
     "Riassunto_Corso_ISTRUTTORI_FIN_2025-2026.md",
     "Correttore.md",
     "Lezioni/4.Teoria del movimento.md",
-    "Domande/Psicopedagogia.json",
-    "Domande/Metodologia.json",
-    "Domande/La scuola nuoto.json",
-    "Domande/La cultura dell’acqua.json",
-    "Domande/Fitness in acqua.json",
-    "Domande/Biofisiologia.json",
-    "Domande/Attività speciali.json",
-    "Domande/convert_to_json.py",
     "Domande/Attività speciali.md",
-    "Domande/Psicopedagogia_anki.txt",
     "2024_11_16_Correttore.md",
     "Domande/La scuola nuoto.md",
     "Domande/La cultura dell’acqua.md",
     "Domande/Fitness in acqua.md",
-    "Domande/Psicopedagogia.md",
-    "Domande/La cultura dell'acqua.md",
-    "Lezioni/10.L'uomo e l'acqua.md",
     "Pics/Gemini_Generated_Image_23u5dt23u5dt23u5.png",
-    "Lezioni/Priorità_Studio.md",
-    "Lezioni/13.Tecnica e didattica delle quattro nuotate regolamentari.md",
-    "Lezioni/11.Ambientamento e acquaticita.md",
-    "Lezioni/12.Galleggiamenti spostamenti posture propulsioni.md",
-    "Lezioni/Indice_Analitico.md",
-    "Lezioni/18.Il Nuoto per Salvamento in Corsia.md",
-    "Lezioni/1. Aspetti Amministrativi.md",
-    "Lezioni/14.La Pallanuoto in Corsia parte I.md",
-    "Corso istruttori FIN 2025 new.md",
     "Pasted image 20260309113532.png",
     "Pics/Pasted image 20260309105700.png",
     "Pics/Pasted image 20260309105909.png",
