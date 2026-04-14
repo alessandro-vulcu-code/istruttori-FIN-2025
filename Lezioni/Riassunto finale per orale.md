@@ -1,9 +1,93 @@
-> Qui ho riportato la maggior parte dei concetti che *potrebbe* chiedere all'esame orale. Buon studio
+> Qui ho riportato la maggior parte dei concetti che *potrebbe* chiedere all'esame orale, cose che Elia ha sottolineato durante le lezioni e il ripasso finale.
+> Buon studio
+
+
+# Cultura dell'acqua
+
+Scuola nuoto $\neq$ **Scuola di abilità acquatiche** $\rightarrow$ educare all'acqua attraverso l'acqua.
+
+**Perché andare in piscina?** Non per imparare a nuotare, ma per acquisire determinate abilità per imparare a stare ***bene*** in acqua.
+
+Sviluppo della personalità nelle sue diverse aree:
+
+**Morfologico-funzionale**
+- Sviluppa strutture anatomiche, fisiologiche, biochimiche
+- Previene difetti posturali e senso-motori
+- Migliora percezione e consapevolezza ambientale
+
+**Intellettivo-cognitiva**
+- Stimola SNC (cervello, cervelletto, tronco spinale)
+- Migliora senso-percezione e immagine corporea
+- Migliora prestazioni scolastiche e funzionamento quotidiano
+
+**Affettivo-emotiva**
+- Occasione di socializzazione (vita sempre più strutturata, pochi coetanei)
+- Previene squilibri affettivi e complessi
+- Sviluppa autostima, percezione di sé, desiderio di autonomia
+
+**Sociale**
+- Sviluppa senso di appartenenza
+- Insegna rispetto regole e fiducia nella loro applicazione
+- Sviluppa spirito di collaborazione ed emulazione
+- Favorisce apprendimento cooperativo
+
+## I Quattro Saperi dell'Istruttore
+
+| Sapere             | Descrizione                                                                                                                                                           |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sapere**         | Conoscenze teoriche legate al proprio ruolo: poche ma da avere ben chiare                                                                                             |
+| **Saper fare**     | Capacità pratica di riprodurre le tecniche richieste agli allievi e di intervenire in caso di necessità                                                               |
+| **Saper far fare** | Comunicazione adeguata all'età e al grado di comprensione degli allievi per metterli in condizione di ottenere i risultati prefissati                                 |
+| **Saper essere**   | Consapevolezza del proprio ruolo; essere ottimi osservatori e ascoltatori degli allievi per comprenderne le esigenze e trovare le soluzioni più adeguate per ciascuno |
+
+## Regole per la comunicazione
+
+1. **Non si può non comunicare:** comunicazione, atteggiamenti assunti, sono messaggi chiari agli allievi.
+2. **Il messaggio è sempre quello che arriva, non quello che parte**: se gli allievi non eseguono correttamente un esercizio, il problema non è che hanno capito male, ma che il linguaggio, il tono o la postura dell'istruttore non erano adeguati alle loro capacità di comprensione in quel momento.
+
+## I due concetti chiave
+
+> [!IMPORTANT] Multilateralità
+> La **multilateralità** è la necessità di diversificare al massimo le esperienze motorie. Si sviluppa in due direzioni:
+> - **Orizzontale**:  fornire agli allievi il maggior numero possibile di esperienze motorie per stimolare il sistema nervoso centrale a trovare sempre strade e soluzioni differenti a qualsiasi tipo di problema motorio.
+> - **Verticale**: varie condizioni di **velocità, ritmo e ampiezza** di movimento
+
+> [!IMPORTANT] **Sensopercezione**
+> La **senso percezione** è il processo attraverso il quale il corpo percepisce e interpreta le informazioni che l'ambiente fornisce attraverso i cinque sensi, le integra e le traduce in movimento. Equivale alla consapevolezza della posizione del proprio corpo nell'acqua e del modo in cui l'acqua reagisce al movimento.
+
+## Fase Sensibile
+
+Il periodo tra i **6 e 14 anni** circa $\rightarrow$ **fase sensibile dello sviluppo coordinativo**.
+Il sistema nervoso e l'apparato muscolo-scheletrico sono in una fase di sviluppo che permette l'acquisizione ottimale di nuove competenze motorie.
+
+- Sviluppo delle capacità coordinative attorno ai **6-12 anni**.
+- **Pre-adolescenza e pubertà in poi**: inizio del lavoro significativo sulle capacità condizionali
+
+![[Pasted image 20260414153116.png]]
+
+## Proprietà dell'acqua
+
+### Resistenza dell'acqua
+
+- **800 volte superiore** a quella dell'aria
+- Muoversi con efficacia $\rightarrow$ **ridurre le resistenze** e aumentare le propulsioni
+- Resistenza è **progressiva**: aumenta con il quadrato della velocità $\rightarrow$ posizione del corpo fondamentale
+
+## Spinta idrostatica
+
+Unico elemento utile al movimento in acqua.
+**Principio di Archimede** $\rightarrow$ un corpo immerso in un liquido riceve una spinta verso l'alto proporzionale alla quantità di liquido spostato.
+
+Conseguenze:
+- Spinta idrostatica massima $\rightarrow$ **posizione orizzontale** del corpo.
+- **Rilassare la muscolatura** per distendere il peso del corpo sulla porzione di acqua più ampia possibile
+
+---
 
 # Teoria del movimento
 
 ## Capacità motorie
-Le capacità motorie sono i presupposti delle azioni motorie — le potenzialità di un individuo. Si dividono in due categorie.
+Le capacità motorie sono i presupposti delle azioni motorie — le potenzialità di un individuo. Si dividono in **coordinative**, **condizionali** e **mobilità articolare**.
 
 ### Capacità coordinative
 Sono legate al **sistema nervoso** - lato cognitivo del movimento.
@@ -26,7 +110,7 @@ Sono tre:
 | Reazione                     | elaborazione rapida dello stimolo percettivo $\Rightarrow$ velocità di trasmissione degli organi recettori |
 | Equilibrio                   | mantenere postura utile all'azione (vestibolare)                                                           |
 | Orientamento                 | mantenere il giusto rapporto con il campo d'azione e i riferimenti spaziali                                |
-| Combinazione motoria         | -                                                                                                          |
+| Combinazione motoria         | coordinazione di più movimenti                                                                             |
 | Differenziazione cinestesica | dosare forza per massima efficacia                                                                         |
 | Anticipazione motoria        | previsione, pre-costituzione dell'azione successiva                                                        |
 | Fantasia motoria             | usare abilità apprese per risolvere un problema motorio                                                    |
@@ -55,6 +139,10 @@ La resistenza viene per ultima perché richiede sforzo prolungato, che porta a c
 
 La forza è un tema ormai sdoganato — non bisogna aspettare che "metta i baffi". In acqua la densità (**800 volte superiore all'aria**) crea già un sovraccarico naturale. Importante anche negli anziani per prevenire la **sarcopenia** (perdita di massa muscolare con l'invecchiamento).
 
+### Mobilità Articolare
+
+Capacità intermedia con forte componente ereditaria e un certo grado di allenabilità. Per le fasce di età della scuola nuoto non è necessario un lavoro specifico: gli esercizi del nuoto richiedono già una grande ampiezza di movimento e questo è sufficiente.
+
 ---
 
 ## Fattori della prestazione
@@ -65,17 +153,6 @@ La prestazione è l'esito misurabile di un'azione sportiva completa. Dipende da 
 - **Controllo**: dipende da processi emotivi, cognitivi e motivazionali
 
 
-> [!NOTE] Multilateralità
-> Varietà di stimoli positivi proposti deve essere massima dal punto di vista spaziale (ampiezza,tipo), temporale (ritmo, velocità) e della varietà (modalità di esecuzione)
-
-
-> [!NOTE] Fasi sensibili
-> Fasi della vita in cui è più efficace lavorare su alcune capacità per trasformarle poi in abilità
-> ![[Pasted image 20260413104140.png]]
-
-
-> [!NOTE] **Sensopercezione**
-> Processo di scoperta, analisi ed elaborazione di informazioni e sensazioni attraverso l’integrazione di afferenze provenienti dagli analizzatori.
 
 L'acqua sostiene il corpo (**spinta idrostatica**): il rapporto con essa dipende da come le **percezioni** vengono codificate nel movimento.
 
@@ -112,7 +189,81 @@ Esempio dalla lezione: ragazzo adulto con distonia — corpo completamente rigid
 
 ---
 
-# Il Corpo Umano — Parte I
+# Elementi di Primo Soccorso
+
+## Regole generali
+
+- Chiamare **112** sempre per primo (omissione di soccorso = reato penale, art. 593 c.p.)
+- Non mettere a rischio la propria sicurezza
+- Non spostare mai il traumatizzato (rischio paralisi) — eccezione: pericolo di vita immediato
+- Non somministrare nulla per bocca
+- Indossare **guanti in lattice** in presenza di sangue (epatite B/C, HIV non richiedono certificazione per accedere agli impianti)
+
+## Disturbi della coscienza
+
+- **Lipotemia**: malessere passeggero, si risolve da solo
+- **Sincope**: perdita di coscienza con caduta → sollevare gambe ~30 cm, slacciare indumenti stretti, non somministrare nulla. Se arresto cardiocircolatorio → BLS + DAE
+
+## Epilessia
+
+Interessa il **2% della popolazione** — anche atleti con idoneità agonistica possono essere epilettici.
+
+- Attacco di grande male dura **1-2 minuti**, poi fase di sonno profondo (il soggetto non ricorda nulla)
+- **Fare**: posizione laterale di sicurezza, materiale morbido sotto la testa, slacciare indumenti, annotare il tempo, non lasciarlo solo, verificare polso e respiro
+- **Non fare**: non bloccare le scosse, non aprire la bocca con la forza, non usare il cuneo apribocca (responsabilità civile)
+
+## Emorragie
+
+| Tipo | Caratteristiche |
+|--|--|
+| Arteriosa | Rosso vivo, schizzi pulsanti — molto grave |
+| Venosa | Rosso scuro, flusso continuo — più frequente |
+| Capillare | Stilla, si arresta da sola — lieve |
+| Interna esteriorizzata | Da orifizi naturali — **non tamponare** |
+
+**Esterne**: compressione con garze + non rimuovere tampone + bendaggio compressivo + ghiaccio + inviare in ospedale.
+**Interne gravi** (trauma addominale, frattura bacino): chiamare 112 subito.
+
+## Lesioni muscolari — RICE (prime 48h)
+
+| R | Rest — riposo immediato |
+|--|--|
+| I | Ice — ghiaccio |
+| C | Compression — bendaggio compressivo |
+| E | Elevation — arto sollevato |
+
+Ghiaccio: 20 min ogni 2-4h per 3-4 giorni. Massaggi solo dopo **una settimana**. Farmaci = competenza medica.
+
+## Lussazione
+
+Perdita permanente del contatto articolare. **Non rimettere a posto** (competenza ortopedica; responsabilità civile). Immobilizzare, ghiaccio, controllare circolo a valle, ospedale.
+
+## Fratture
+
+Non spostare il soggetto. Non rimuovere oggetti conficcati (fanno da tappo). Fratture esposte: telino sterile + soluzione fisiologica.
+
+## BLS — Basic Life Support
+
+**Diagnosi**: soggetto non cosciente + assenza di respiro. Ricerca del polso **abolita dal 2005**.
+
+Catena della sopravvivenza:
+1. Prevenzione
+2. Accesso precoce al 112
+3. RCP precoce (compressioni + ventilazioni)
+4. Defibrillazione precoce (DAE)
+5. Soccorso avanzato con farmaci (solo personale sanitario)
+
+**DAE**: la macchina decide se scaricare. Il soccorritore garantisce solo la sicurezza. Formula: **"via io, via tu, via tutti"** prima dell'analisi. Obbligatorio per legge in tutti gli impianti sportivi.
+
+## Ostruzione vie aeree — Manovra di Heimlich
+
+- **Parziale** (tossisce ancora): incoraggiare a tossire, non intervenire
+- **Totale cosciente**: 5 pacche sulla schiena → se non basta: manovra di Heimlich (spinte dal basso verso l'alto sotto l'arcata costale)
+- **Non cosciente**: BLS standard; dopo ogni 30 compressioni verificare se il corpo estraneo è visibile in bocca
+
+---
+
+# Il Corpo Umano
 
 ## Cellula: strutture chiave
 
@@ -167,6 +318,7 @@ Esempio dalla lezione: ragazzo adulto con distonia — corpo completamente rigid
 **Apprendimento motorio**: un gesto nuovo deve passare per la coscienza. Una volta memorizzato diventa **semi-automatico** — la coscienza interviene solo per le decisioni non ripetitive (es. quando virare). Il nuoto non è un gesto naturale: va imparato.
 
 ## Apparato respiratorio
+![[Drawing 2026-04-14 15.48.28.excalidraw.png|500]]
 
 Percorso dell'aria: **naso/bocca → faringe → laringe** (corde vocali) **→ trachea** (sempre aperta, anelli cartilaginei) **→ bronchi → bronchioli → alveoli**.
 
@@ -186,9 +338,6 @@ Negli **alveoli**: O2 passa all'aria → sangue; CO2 passa dal sangue → aria.
 
 **Debito di ossigeno**: lavoro anaerobico produce prodotti che richiedono O2 per essere smaltiti → l'affanno dopo lo sforzo dura più a lungo. Per il tecnico: **la durata dell'affanno = indicatore di quanto è stato intenso il lavoro anaerobico**.
 
----
-
-# Il Corpo Umano — Parte II
 
 ## Apparato cardiocircolatorio
 
@@ -208,11 +357,13 @@ Sistema **chiuso a doppio circuito**. Cuore = 4 cavità:
 
 ## Quattro valvole cardiache
 
-| Valvola | Posizione |
-|--|--|
-| **Mitrale** (bicuspide) | Atrio sx → ventricolo sx |
-| **Tricuspide** | Atrio dx → ventricolo dx |
-| **Semilunare aortica** | Ventricolo sx → aorta |
+![[Drawing 2026-04-14 15.43.14.excalidraw.png|500]]
+
+| Valvola                  | Posizione                         |
+| ------------------------ | --------------------------------- |
+| **Mitrale** (bicuspide)  | Atrio sx → ventricolo sx          |
+| **Tricuspide**           | Atrio dx → ventricolo dx          |
+| **Semilunare aortica**   | Ventricolo sx → aorta             |
 | **Semilunare polmonare** | Ventricolo dx → arteria polmonare |
 
 Una valvola lesionata = sangue refluisce = **cuore lavora doppio**.
@@ -294,6 +445,7 @@ Il **nuoto si avvicina all'isocinetico** perché la resistenza dell'acqua smorza
 # Psicopedagogia
 
 ## Comunicazione
+![[Pasted image 20260309105803.png]]
 
 La comunicazione è **bidirezionale**: istruttore e allievo sono al tempo stesso emittenti e riceventi. Principio chiave: **conta ciò che arriva, non ciò che parte**. Il codice **non verbale** (come si dice) pesa più di quello verbale (cosa si dice): postura, tono di voce, sguardo, gestualità.
 
@@ -319,6 +471,7 @@ Negli istruttori è fondamentale il punto 4 — capire umore, temperamento e mot
 L'esperienza è la condizione imprescindibile per l'apprendimento.
 
 ## Autostima
+![[Pasted image 20260309105909.png|500]]
 
 Interazione tra **sé reale** (ciò che si è) e **sé ideale** (ciò che si vorrebbe essere). Maggiore la discrepanza → minore l'autostima.
 
