@@ -1,0 +1,530 @@
+[
+  {
+    "question": "A quale attività corrisponde la seguente definizione: lezione che prevede l’utilizzo di movimenti base dell’atletica leggera e di altri lavori di preparazione generale, alternati con movimenti specifici o del nuoto o di bonificazione generale, al fine di conseguire un reale effetto allenante?",
+    "answers": [
+      {
+        "text": "Aquathletic",
+        "correct": true
+      },
+      {
+        "text": "Aquaswimtraining",
+        "correct": false
+      },
+      {
+        "text": "Aqua interval training",
+        "correct": false
+      },
+      {
+        "text": "Aqua soft",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "A quale tipo di utente è più adatta l’aquafitness?",
+    "answers": [
+      {
+        "text": "All’amatore",
+        "correct": true
+      },
+      {
+        "text": "A chi cerca l’allenamento e la performance",
+        "correct": false
+      },
+      {
+        "text": "A chi vuole imparare a nuotare",
+        "correct": false
+      },
+      {
+        "text": "A chi deve conseguire il brevetto di assistente bagnanti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "A quale tipo di utente è più adatto l’aquaswimtraining?",
+    "answers": [
+      {
+        "text": "A chi cerca l’allenamento e la performance",
+        "correct": true
+      },
+      {
+        "text": "All’amatore",
+        "correct": false
+      },
+      {
+        "text": "Al pallanuotista",
+        "correct": false
+      },
+      {
+        "text": "All’assistente bagnanti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa deve conoscere un istruttore di aquagym?",
+    "answers": [
+      {
+        "text": "La profondità dell’acqua",
+        "correct": false
+      },
+      {
+        "text": "I tempi minimi e massimi di esecuzione del gesto",
+        "correct": true
+      },
+      {
+        "text": "I nomi degli allievi",
+        "correct": false
+      },
+      {
+        "text": "I codici di comunicazione del nuoto agonistico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli attrezzi utilizzati in aquafitness si suddividono in",
+    "answers": [
+      {
+        "text": "Cinture, cavigliere, manubri e tubi",
+        "correct": false
+      },
+      {
+        "text": "Attrezzi galleggianti, di resistenza, e per il galleggiamento",
+        "correct": true
+      },
+      {
+        "text": "Piccoli, medi e grandi",
+        "correct": false
+      },
+      {
+        "text": "Utili e palliativi",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il fitness in acqua si suddivide in due grandi categorie",
+    "answers": [
+      {
+        "text": "Aquarelax e aquagym",
+        "correct": false
+      },
+      {
+        "text": "Aquafitness e aquatraining",
+        "correct": true
+      },
+      {
+        "text": "Acqua alta e acqua bassa",
+        "correct": false
+      },
+      {
+        "text": "Ginnastica in acqua e aquagym",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In cosa si differenziano le lezioni di ginnastica in acqua svolte in acqua bassa rispetto a quelle in acqua alta?",
+    "answers": [
+      {
+        "text": "Assenza degli ausili didattici",
+        "correct": false
+      },
+      {
+        "text": "Tipologia delle esercitazioni proposte",
+        "correct": true
+      },
+      {
+        "text": "Presenza dell’accompagnamento di una base musicale",
+        "correct": false
+      },
+      {
+        "text": "Utilizzo di attrezzi",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’aquatic gym è caratterizzata da",
+    "answers": [
+      {
+        "text": "L’utilizzo della musica come elemento determinante la velocità di esecuzione della coreografia",
+        "correct": false
+      },
+      {
+        "text": "L’utilizzo della musica come elemento determinante la velocità di esecuzione degli esercizi",
+        "correct": true
+      },
+      {
+        "text": "L’utilizzo della musica come elemento determinante la velocità di esecuzione dei movimenti",
+        "correct": false
+      },
+      {
+        "text": "L’utilizzo della musica come sottofondo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’aquatraining è un’attività",
+    "answers": [
+      {
+        "text": "Di intensità medio-alta, rivolta a chi ricerca l’allenamento e la performance",
+        "correct": true
+      },
+      {
+        "text": "Elementare, introduttiva al mondo del fitness acquatico",
+        "correct": false
+      },
+      {
+        "text": "Che mira principalmente al mantenimento dell’efficienza fisica",
+        "correct": false
+      },
+      {
+        "text": "Rivolta ad un pubblico amatoriale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La ginnastica in acqua si può fare in",
+    "answers": [
+      {
+        "text": "Acqua bassa",
+        "correct": false
+      },
+      {
+        "text": "Acqua bassa- alta",
+        "correct": false
+      },
+      {
+        "text": "Acqua bassa-media",
+        "correct": false
+      },
+      {
+        "text": "Acqua bassa-media-alta",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le cinture sono uno strumento basilare per il lavoro di fitness in acqua alta",
+    "answers": [
+      {
+        "text": "Sì",
+        "correct": true
+      },
+      {
+        "text": "No",
+        "correct": false
+      },
+      {
+        "text": "A volte",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nel fitness in acqua il lavoro degli arti superiori",
+    "answers": [
+      {
+        "text": "Rappresenta il contenuto principale della lezione",
+        "correct": false
+      },
+      {
+        "text": "Non ha alcuna finalità",
+        "correct": false
+      },
+      {
+        "text": "Viene utilizzato soltanto per esercizi specifici",
+        "correct": false
+      },
+      {
+        "text": "È di notevole importanza nel mantenimento della postura e dell’equilibrio",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nell’aquagym come si differenzia il concetto di resistenza in un lavoro a terra e in un lavoro in acqua?",
+    "answers": [
+      {
+        "text": "A terra si spinge verso l’alto contro la forza di gravità, in acqua verso il basso contro la spinta idrostatica",
+        "correct": true
+      },
+      {
+        "text": "È indifferente",
+        "correct": false
+      },
+      {
+        "text": "A terra si spinge verso il basso in sintonia con la forza di gravità, in acqua verso l’alto in sintonia con la spinta idrostatica",
+        "correct": false
+      },
+      {
+        "text": "A terra si sfrutta la spinta idrostatica, in acqua si sfrutta la gravità",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nell’aquaswimtraining la difficoltà dell’esercizio aumenta o diminuisce in funzione di",
+    "answers": [
+      {
+        "text": "Posizione del corpo",
+        "correct": false
+      },
+      {
+        "text": "Posizione del capo",
+        "correct": false
+      },
+      {
+        "text": "Posizione degli arti superiori",
+        "correct": true
+      },
+      {
+        "text": "Posizione degli arti inferiori",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella fase centrale di una lezione di ginnastica in acqua, bisogna",
+    "answers": [
+      {
+        "text": "Proporre esercizi opportunamente programmati in relazione all’obiettivo",
+        "correct": false
+      },
+      {
+        "text": "Evitare esercizi con intensità troppo blanda o sottosoglia",
+        "correct": false
+      },
+      {
+        "text": "Preoccuparsi che gli esercizi vengano eseguiti biomeccanicamente in modo corretto",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti sono corrette",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella ginnastica in acqua, per fare resistenza occorre lavorare",
+    "answers": [
+      {
+        "text": "Spingendo verso l’alto",
+        "correct": false
+      },
+      {
+        "text": "Spingendo verso il basso",
+        "correct": false
+      },
+      {
+        "text": "In modo circolare",
+        "correct": false
+      },
+      {
+        "text": "Spingendo in alto e in basso in alternanza",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Parametri e variabili che possono influire su una lezione di ginnastica in acqua",
+    "answers": [
+      {
+        "text": "L’istruttore, la musica, tipo di vasca",
+        "correct": false
+      },
+      {
+        "text": "L’inquadramento professionale dell’istruttore",
+        "correct": false
+      },
+      {
+        "text": "La musica, il bordo, la strumentazione",
+        "correct": false
+      },
+      {
+        "text": "La profondità, la tipologia di allievi, la temperatura dell’acqua",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Parlando di ginnastica in acqua o a terra",
+    "answers": [
+      {
+        "text": "La massa corporea non condiziona l’esecuzione di un esercizio a terra",
+        "correct": false
+      },
+      {
+        "text": "La massa corporea non condiziona l’esecuzione di un esercizio in acqua",
+        "correct": true
+      },
+      {
+        "text": "La massa corporea non condiziona l’esecuzione di un esercizio a terra",
+        "correct": false
+      },
+      {
+        "text": "Non vi è alcuna differenza",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Per un istruttore di ginnastica in acqua, quale tra queste caratteristiche è più importante?",
+    "answers": [
+      {
+        "text": "Capacità di mostrare un gesto tecnico",
+        "correct": true
+      },
+      {
+        "text": "Saper utilizzare la musica",
+        "correct": false
+      },
+      {
+        "text": "Conoscere gli attrezzi",
+        "correct": false
+      },
+      {
+        "text": "Capacità condizionali",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale tipo di lezione viene strutturata in ripetizioni di blocchi uniti ed è definita precoreografata?",
+    "answers": [
+      {
+        "text": "L’aquatic gym style",
+        "correct": false
+      },
+      {
+        "text": "L’aquatic gym",
+        "correct": false
+      },
+      {
+        "text": "L’aquaswimtraining",
+        "correct": false
+      },
+      {
+        "text": "L’aerobica in acqua",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Suddivisione di una lezione di aquafitness.",
+    "answers": [
+      {
+        "text": "Riscaldamento, ripetizione di esercizi conosciuti, defaticamento",
+        "correct": false
+      },
+      {
+        "text": "Riscaldamento, esercizi specifici, defaticamento.",
+        "correct": false
+      },
+      {
+        "text": "Presa, trazione, spinta, recupero",
+        "correct": false
+      },
+      {
+        "text": "Riscaldamento, fase centrale, defaticamento e/o stretching",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Tutti quei movimenti di assestamento che servono a fermare i flussi d’acqua, a riprendere l’equilibrio ed a consentire di poter terminare un movimento e/o predisporre quello successivo, vengono definiti come",
+    "answers": [
+      {
+        "text": "Movimenti di transizione",
+        "correct": true
+      },
+      {
+        "text": "Movimenti di traslazione",
+        "correct": false
+      },
+      {
+        "text": "Movimenti di trasformazione",
+        "correct": false
+      },
+      {
+        "text": "Movimenti di torsione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Un lavoro di aquagym in acqua bassa si svolge",
+    "answers": [
+      {
+        "text": "Con acqua ad altezza ginocchia",
+        "correct": false
+      },
+      {
+        "text": "Con acqua profonda max 0,80 cm",
+        "correct": false
+      },
+      {
+        "text": "Con l’acqua ad un’altezza tra l’ombelico e il petto",
+        "correct": true
+      },
+      {
+        "text": "Con acqua ad altezza cosce",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Una coreografia deve essere sviluppata in forma",
+    "answers": [
+      {
+        "text": "Graduale e crescente",
+        "correct": true
+      },
+      {
+        "text": "Graduale e decrescente",
+        "correct": false
+      },
+      {
+        "text": "Non graduale e alternata",
+        "correct": false
+      },
+      {
+        "text": "Estemporanea e libertaria",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  }
+]

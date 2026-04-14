@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
   "baseFontSize": 19,
   "baseFontSizeAction": true,
   "theme": "moonstone"
+=======
+  "baseFontSize": 23,
+  "baseFontSizeAction": true
+>>>>>>> FETCH_HEAD
 }

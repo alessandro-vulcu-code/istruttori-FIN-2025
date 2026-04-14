@@ -1,0 +1,2510 @@
+[
+  {
+    "question": "Nella contrazione isotonica",
+    "answers": [
+      {
+        "text": "Non viene effettuato il movimento delle leve ossee",
+        "correct": false
+      },
+      {
+        "text": "Rimane costante la velocità di movimento",
+        "correct": false
+      },
+      {
+        "text": "Il carico è superiore alla forza sviluppata dal muscolo",
+        "correct": false
+      },
+      {
+        "text": "Rimane costante il carico",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "All’atrio destro il sangue arriva",
+    "answers": [
+      {
+        "text": "Dal ventricolo destro",
+        "correct": false
+      },
+      {
+        "text": "Dalle vene cave",
+        "correct": true
+      },
+      {
+        "text": "Dalle vene polmonari",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle risposte è corretta",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Caratteristiche delle ossa corte",
+    "answers": [
+      {
+        "text": "Lunghezza domina sulle altre due dimensioni",
+        "correct": false
+      },
+      {
+        "text": "Le tre dimensioni sono nello stesso ordine di grandezza",
+        "correct": true
+      },
+      {
+        "text": "Nessuna caratteristica particolare",
+        "correct": false
+      },
+      {
+        "text": "Lunghezza e larghezza sono assai prevalenti rispetto allo spessore",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Caratteristiche delle ossa lunghe",
+    "answers": [
+      {
+        "text": "Lunghezza domina sulle altre due dimensioni",
+        "correct": true
+      },
+      {
+        "text": "Le tre dimensioni sono nello stesso ordine di grandezza",
+        "correct": false
+      },
+      {
+        "text": "Nessuna caratteristica particolare",
+        "correct": false
+      },
+      {
+        "text": "Lunghezza e larghezza sono assai prevalenti rispetto allo spessore",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Caratteristiche delle ossa piatte",
+    "answers": [
+      {
+        "text": "Lunghezza domina sulle altre due dimensioni",
+        "correct": false
+      },
+      {
+        "text": "Le tre dimensioni sono nello stesso ordine di grandezza",
+        "correct": false
+      },
+      {
+        "text": "Nessuna caratteristica particolare",
+        "correct": false
+      },
+      {
+        "text": "Lunghezza e larghezza sono assai prevalenti rispetto allo spessore",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Che cosa sono gli alveoli?",
+    "answers": [
+      {
+        "text": "Cavità del naso preposte alla funzione di umidificare l’aria entrante",
+        "correct": false
+      },
+      {
+        "text": "Minuscoli organi che secernano il liquido alveolare",
+        "correct": false
+      },
+      {
+        "text": "Organelli monociliati dell’apparato digerente",
+        "correct": false
+      },
+      {
+        "text": "Parti terminali dell’apparato respiratorio attraverso i quali avvengono gli scambi gassosi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Che funzioni ha la cassa toracica?",
+    "answers": [
+      {
+        "text": "Di permettere la respirazione",
+        "correct": false
+      },
+      {
+        "text": "Di permettere la funzione del cuore",
+        "correct": false
+      },
+      {
+        "text": "Di galleggiamento",
+        "correct": false
+      },
+      {
+        "text": "Di proteggere cuore e polmoni e permettere la respirazione",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Componenti delle articolazioni mobili",
+    "answers": [
+      {
+        "text": "Cartilagine articolare, liquido sinoviale, legamenti, capsula articolare",
+        "correct": true
+      },
+      {
+        "text": "Cartilagine articolare, legamenti e disco cartilagineo",
+        "correct": false
+      },
+      {
+        "text": "Nessuna dinamica articolare",
+        "correct": false
+      },
+      {
+        "text": "Osso, muscolo scheletrico, tendine",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Componenti delle articolazioni semimobili",
+    "answers": [
+      {
+        "text": "Cartilagine articolare, liquido sinoviale, legamenti, capsula articolare",
+        "correct": false
+      },
+      {
+        "text": "Osso, muscolo scheletrico, tendine",
+        "correct": false
+      },
+      {
+        "text": "Cartilagine articolare, legamenti e disco cartilagineo",
+        "correct": true
+      },
+      {
+        "text": "Nessuna dinamica articolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Cos’è la frequenza cardiaca?",
+    "answers": [
+      {
+        "text": "Il numero di contrazioni ventricolari nell’unità di tempo (minuto)",
+        "correct": true
+      },
+      {
+        "text": "La quantità di sangue emessa dal cuore nell’unità di tempo (minuto)",
+        "correct": false
+      },
+      {
+        "text": "La pressione arteriosa misurata nel tempo (minuto)",
+        "correct": false
+      },
+      {
+        "text": "Il numero di morti causate da patologie cardiache nell’unità di tempo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cos’è la frequenza respiratoria?",
+    "answers": [
+      {
+        "text": "Il numero degli atti respiratori che si eseguono in una giornata",
+        "correct": false
+      },
+      {
+        "text": "Il numero degli atti respiratori che si eseguono in un minuto",
+        "correct": true
+      },
+      {
+        "text": "La capacità dell’individuo di respirare",
+        "correct": false
+      },
+      {
+        "text": "La durata temporale di un singolo atto respiratorio",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa non è trasportato dall’apparato circolatorio?",
+    "answers": [
+      {
+        "text": "Impulsi nervosi",
+        "correct": true
+      },
+      {
+        "text": "Sostanze nutritive",
+        "correct": false
+      },
+      {
+        "text": "Anticorpi",
+        "correct": false
+      },
+      {
+        "text": "Prodotti di rifiuto",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa sono gli alveoli?",
+    "answers": [
+      {
+        "text": "Cavità del naso preposte ad umidificare l’aria in entrata",
+        "correct": false
+      },
+      {
+        "text": "Minuscoli organi che secernono il liquidi alveolare",
+        "correct": false
+      },
+      {
+        "text": "Organelli monociliati dell’apparato digerente",
+        "correct": false
+      },
+      {
+        "text": "Parti terminali dell’apparato respiratorio attraverso le quali avvengono gli scambi gassosi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cosa sono l’actina e la miosina?",
+    "answers": [
+      {
+        "text": "Due tipi di articolazioni",
+        "correct": false
+      },
+      {
+        "text": "Due diversi tipi di fibre muscolari",
+        "correct": false
+      },
+      {
+        "text": "Dei principi alimentari",
+        "correct": false
+      },
+      {
+        "text": "Dei miofilamenti che costituiscono le miofibrille muscolari",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Definizione di articolazione",
+    "answers": [
+      {
+        "text": "Punti di collegamento tra due ossa",
+        "correct": true
+      },
+      {
+        "text": "Organi che compongono il sistema scheletrico",
+        "correct": false
+      },
+      {
+        "text": "Parte del muscolo costituita da tessuto connettivo che lo collega all’osso",
+        "correct": false
+      },
+      {
+        "text": "Distribuzione topografica dei vasi sanguigni",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Definizione di cellula",
+    "answers": [
+      {
+        "text": "L’unità fondamentale del vivente",
+        "correct": true
+      },
+      {
+        "text": "L’unione funzionale di cellule simili",
+        "correct": false
+      },
+      {
+        "text": "La struttura di tessuti organizzati per svolgere una funzione",
+        "correct": false
+      },
+      {
+        "text": "Costituente base della materia",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Definizione di legamenti",
+    "answers": [
+      {
+        "text": "Punti di collegamento tra due ossa",
+        "correct": false
+      },
+      {
+        "text": "Tessuti particolarmente densi",
+        "correct": false
+      },
+      {
+        "text": "Parte del muscolo costituita da tessuto connettivo che lo collega all’osso",
+        "correct": false
+      },
+      {
+        "text": "Struttura connettiva che mantiene in contatto due capi ossei",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Definizione di organo",
+    "answers": [
+      {
+        "text": "L’unione funzionale di cellule simili",
+        "correct": false
+      },
+      {
+        "text": "Costituente base della materia",
+        "correct": false
+      },
+      {
+        "text": "La struttura di tessuti organizzati per svolgere una funzione",
+        "correct": true
+      },
+      {
+        "text": "La struttura complessa composta da organi diversi per soddisfare una funzione superiore",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Definizione di ossa",
+    "answers": [
+      {
+        "text": "Punti di collegamento tra due ossa",
+        "correct": false
+      },
+      {
+        "text": "Parti che compongono il sistema scheletrico",
+        "correct": true
+      },
+      {
+        "text": "Sistema di organi che ha la funzione di sostegno del corpo e protezione degli organi interni",
+        "correct": false
+      },
+      {
+        "text": "Tessuti particolarmente densi",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Definizione di scheletro",
+    "answers": [
+      {
+        "text": "Organi che compongono il sistema scheletrico",
+        "correct": false
+      },
+      {
+        "text": "Sistema di organi che ha la funzione di sostegno del corpo e protezione degli organi interni",
+        "correct": true
+      },
+      {
+        "text": "Parte del muscolo costituita da tessuto connettivo che lo collega all’osso",
+        "correct": false
+      },
+      {
+        "text": "Struttura polimorfica complessa",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Definizione di sistema di organi",
+    "answers": [
+      {
+        "text": "L’unione funzionale di cellule simili",
+        "correct": false
+      },
+      {
+        "text": "La struttura di tessuti organizzati per svolgere una funzione",
+        "correct": false
+      },
+      {
+        "text": "Costituente base della materia",
+        "correct": false
+      },
+      {
+        "text": "La struttura complessa composta da organi diversi per soddisfare una funzione superiore",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Definizione di tendini",
+    "answers": [
+      {
+        "text": "Punti di collegamento tra due ossa",
+        "correct": false
+      },
+      {
+        "text": "Tessuti particolarmente densi",
+        "correct": false
+      },
+      {
+        "text": "Parti che compongono il sistema scheletrico",
+        "correct": false
+      },
+      {
+        "text": "Tessuto connettivo che collega il muscolo all’osso",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Definizione di tessuto",
+    "answers": [
+      {
+        "text": "L’unità fondamentale del vivente",
+        "correct": false
+      },
+      {
+        "text": "L’unione funzionale di cellule simili",
+        "correct": true
+      },
+      {
+        "text": "La struttura di tessuti organizzati per svolgere una funzione",
+        "correct": false
+      },
+      {
+        "text": "Costituente base della materia",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Definizione di tono muscolare",
+    "answers": [
+      {
+        "text": "Sezione trasversa del muscolo",
+        "correct": false
+      },
+      {
+        "text": "Lunghezza del muscolo a riposo",
+        "correct": false
+      },
+      {
+        "text": "Attività muscolare riflessa e costante che mantiene l'assetto posturale del corpo opponendosi alla forza di gravità",
+        "correct": true
+      },
+      {
+        "text": "Percentuale di fibre rosse presenti nel muscolo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Dopo la perdita di quanta acqua l’organismo inizia ad accusare sintomi di disidratazione? #####",
+    "answers": [
+      {
+        "text": "0,2-0,3% #####",
+        "correct": false
+      },
+      {
+        "text": "2 - 3% #####",
+        "correct": true
+      },
+      {
+        "text": "20 - 30%",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Dove si trova il sistema vestibolare e a cosa serve?",
+    "answers": [
+      {
+        "text": "Nel naso e serve per sentire gli odori",
+        "correct": false
+      },
+      {
+        "text": "Nelle orecchie e serve per raccogliere i suoni",
+        "correct": false
+      },
+      {
+        "text": "Nelle orecchie e serve ad informare sulla posizione della testa",
+        "correct": true
+      },
+      {
+        "text": "Sulla cute e determina la sensopercezione",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Durante la fase di inspirazione",
+    "answers": [
+      {
+        "text": "Il diaframma si abbassa",
+        "correct": true
+      },
+      {
+        "text": "Il diaframma si alza",
+        "correct": false
+      },
+      {
+        "text": "Il cuore aumenta i battiti",
+        "correct": false
+      },
+      {
+        "text": "Il cuore diminuisce i battiti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Elementi che compongono la cellula",
+    "answers": [
+      {
+        "text": "Membrana cellulare, citoplasma, organuli cellulari",
+        "correct": true
+      },
+      {
+        "text": "Membrana e nucleo",
+        "correct": false
+      },
+      {
+        "text": "Membrana cellulare e nucleo",
+        "correct": false
+      },
+      {
+        "text": "Citoplasma e nucleo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gli scambi gassosi a livello polmonare avvengono tra",
+    "answers": [
+      {
+        "text": "Bronchioli e capillari",
+        "correct": false
+      },
+      {
+        "text": "Capillari e alveoli",
+        "correct": true
+      },
+      {
+        "text": "Alveoli e vene",
+        "correct": false
+      },
+      {
+        "text": "Arterie e vene",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli scambi respiratori avvengono",
+    "answers": [
+      {
+        "text": "A livello delle cavità nasali",
+        "correct": false
+      },
+      {
+        "text": "Nei bronchi",
+        "correct": false
+      },
+      {
+        "text": "Negli alveoli",
+        "correct": true
+      },
+      {
+        "text": "Nell’esofago",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "I fattori che condizionano l’accrescimento sono",
+    "answers": [
+      {
+        "text": "Endogeni ed esogeni",
+        "correct": true
+      },
+      {
+        "text": "Muscolari ed energetici",
+        "correct": false
+      },
+      {
+        "text": "Genetici e psicologici",
+        "correct": false
+      },
+      {
+        "text": "Antropologici e sociali",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "I muscoli abduttori",
+    "answers": [
+      {
+        "text": "Permettono il movimento di allontanamento dalla linea mediana",
+        "correct": true
+      },
+      {
+        "text": "Permettono il movimento di avvicinamento alla line mediana",
+        "correct": false
+      },
+      {
+        "text": "Permettono il movimento di rotazione verso la linea mediana",
+        "correct": false
+      },
+      {
+        "text": "Sono deputati alla mimica facciale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "I muscoli fasici",
+    "answers": [
+      {
+        "text": "Hanno la funzione di sostegno, quindi governano la postura, hanno fibre corte oblique e contengono più fibre rosse e quindi lente",
+        "correct": false
+      },
+      {
+        "text": "Hanno la funzione dinamica di movimento e contengono più fibre bianche per cui più rapide",
+        "correct": true
+      },
+      {
+        "text": "Comprendono tutti i muscoli che concorrono al medesimo movimento",
+        "correct": false
+      },
+      {
+        "text": "Sono muscoli involontari",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "I muscoli si inseriscono sulle ossa tramite",
+    "answers": [
+      {
+        "text": "Incastri",
+        "correct": false
+      },
+      {
+        "text": "Le cartilagini",
+        "correct": false
+      },
+      {
+        "text": "I legamenti",
+        "correct": false
+      },
+      {
+        "text": "I tendini",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "I muscoli volontari",
+    "answers": [
+      {
+        "text": "Sono quelli cardiaci",
+        "correct": false
+      },
+      {
+        "text": "Sono quelli scheletrici",
+        "correct": true
+      },
+      {
+        "text": "Sono quelli lisci",
+        "correct": false
+      },
+      {
+        "text": "Non esistono",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "I segnali che arrivano dalla periferia al sistema nervoso centrale sono detti",
+    "answers": [
+      {
+        "text": "Efferenti",
+        "correct": false
+      },
+      {
+        "text": "Afferenti",
+        "correct": true
+      },
+      {
+        "text": "Dipende dalle situazioni",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "I valori normali di pressione arteriosa in un adulto sono",
+    "answers": [
+      {
+        "text": "Inferiori a 170/",
+        "correct": false
+      },
+      {
+        "text": "Inferiori a 160/",
+        "correct": false
+      },
+      {
+        "text": "Inferiori a 150/",
+        "correct": false
+      },
+      {
+        "text": "Inferiori a 140/",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il cuore è un muscolo cavo formato da",
+    "answers": [
+      {
+        "text": "Quattro cavità separate tra loro (atri e ventricoli)",
+        "correct": true
+      },
+      {
+        "text": "Quattro cavità comunicanti tra loro",
+        "correct": false
+      },
+      {
+        "text": "Due cavità separate in senso longitudinale",
+        "correct": false
+      },
+      {
+        "text": "Due cavità comunicanti tra loro",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il cuore è",
+    "answers": [
+      {
+        "text": "Un muscolo striato involontario",
+        "correct": true
+      },
+      {
+        "text": "Un organo volontario",
+        "correct": false
+      },
+      {
+        "text": "Una metafora",
+        "correct": false
+      },
+      {
+        "text": "Un muscolo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il cuore è",
+    "answers": [
+      {
+        "text": "Un organo muscolare, incavo, contrattile",
+        "correct": false
+      },
+      {
+        "text": "Un apparato complesso",
+        "correct": false
+      },
+      {
+        "text": "Un organo muscolare, cavo, contrattile",
+        "correct": true
+      },
+      {
+        "text": "Un organo muscolare, incavo, retrattile",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Il diaframma è",
+    "answers": [
+      {
+        "text": "Un muscolo respiratorio",
+        "correct": true
+      },
+      {
+        "text": "Un muscolo scheletrico",
+        "correct": false
+      },
+      {
+        "text": "Un muscolo addominale",
+        "correct": false
+      },
+      {
+        "text": "Un muscolo facciale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il glicogeno è",
+    "answers": [
+      {
+        "text": "Uno zucchero semplice",
+        "correct": false
+      },
+      {
+        "text": "Uno zucchero grezzo",
+        "correct": false
+      },
+      {
+        "text": "La fonte energetica direttamente utilizzabile dall’organismo",
+        "correct": false
+      },
+      {
+        "text": "Un glucide complesso immagazzinato nel fegato",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il metabolismo è",
+    "answers": [
+      {
+        "text": "L’assorbimento dei principi alimentari",
+        "correct": false
+      },
+      {
+        "text": "Il trasporto dei principi alimentari",
+        "correct": false
+      },
+      {
+        "text": "Il complesso di reazioni chimiche vitali dell’organismo umano",
+        "correct": true
+      },
+      {
+        "text": "L’utilizzo dei grassi da parte dell’organismo umano",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Il muscolo scheletrico è organizzato",
+    "answers": [
+      {
+        "text": "In fasci, fascicoli, e miofibrille",
+        "correct": false
+      },
+      {
+        "text": "In grosse strutture contrattili",
+        "correct": false
+      },
+      {
+        "text": "In aggregati omogenei",
+        "correct": false
+      },
+      {
+        "text": "In fasci, fascicoli, fibre e miofibrille",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il sistema nervoso autonomo (SNA) è composto di",
+    "answers": [
+      {
+        "text": "Encefalo e midollo spinale",
+        "correct": false
+      },
+      {
+        "text": "Due parti, il parasimpatico e l’ortosimpatico",
+        "correct": true
+      },
+      {
+        "text": "Nervi e muscoli",
+        "correct": false
+      },
+      {
+        "text": "Coni e bastoncelli",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il sistema nervoso centrale è costituito da",
+    "answers": [
+      {
+        "text": "Nervi spinali e midollo spinale",
+        "correct": false
+      },
+      {
+        "text": "Miosina e actina",
+        "correct": false
+      },
+      {
+        "text": "Unità spinali",
+        "correct": false
+      },
+      {
+        "text": "Encefalo e midollo spinale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il sistema nervoso centrale rappresenta",
+    "answers": [
+      {
+        "text": "Il protoplasma",
+        "correct": false
+      },
+      {
+        "text": "L’insieme delle terminazioni nervose collegate agli analizzatori",
+        "correct": false
+      },
+      {
+        "text": "Il più importante sistema di regolazione e coordinazione: è la sede di tutte le funzioni mentali compresi il pensiero",
+        "correct": true
+      },
+      {
+        "text": "Il principale organo del corpo umano",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Il sistema nervoso si divide in",
+    "answers": [
+      {
+        "text": "Generale e speciale",
+        "correct": false
+      },
+      {
+        "text": "Centrale e periferico",
+        "correct": true
+      },
+      {
+        "text": "Muscolare e scheletrico",
+        "correct": false
+      },
+      {
+        "text": "Condizionale e coordinativo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il sistema scheletrico svolge funzioni di",
+    "answers": [
+      {
+        "text": "Protezione",
+        "correct": false
+      },
+      {
+        "text": "Protezione e movimento",
+        "correct": false
+      },
+      {
+        "text": "Sostegno e movimento",
+        "correct": false
+      },
+      {
+        "text": "Protezione, sostegno e movimento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il sistema termoregolatore è composto da",
+    "answers": [
+      {
+        "text": "Recettori, centro termoregolatore, organi effettori",
+        "correct": true
+      },
+      {
+        "text": "Analizzatori, centro effettore, organi termoregolatori",
+        "correct": false
+      },
+      {
+        "text": "Effettori, centro termoregolatore, organi analizzatori",
+        "correct": false
+      },
+      {
+        "text": "Centro analizzatore, effettori, organi recettori",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il trasporto dell’ossigeno dai polmoni al muscolo avviene tramite",
+    "answers": [
+      {
+        "text": "Il plasma",
+        "correct": false
+      },
+      {
+        "text": "Gli eritrociti (globuli rossi)",
+        "correct": true
+      },
+      {
+        "text": "I leucociti (globuli bianchi)",
+        "correct": false
+      },
+      {
+        "text": "Le piastrine",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In ambienti eccessivamente caldi e umidi, in assenza di opportuna ventilazione, si può rimanere vittime di",
+    "answers": [
+      {
+        "text": "Colpo di sole",
+        "correct": false
+      },
+      {
+        "text": "Ustione",
+        "correct": false
+      },
+      {
+        "text": "Colpo di calore",
+        "correct": true
+      },
+      {
+        "text": "Idrocuzione",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In un adulto, a riposo, il cuore pulsa alla frequenza di",
+    "answers": [
+      {
+        "text": "70 - 80 battiti al minuto",
+        "correct": true
+      },
+      {
+        "text": "140 - 160 battiti al minuto",
+        "correct": false
+      },
+      {
+        "text": "30 - 40 battiti al minuto",
+        "correct": false
+      },
+      {
+        "text": "Oltre 160 battiti al minuto",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In un’inspirazione la gabbia toracica si espande, ed il diaframma",
+    "answers": [
+      {
+        "text": "Si alza",
+        "correct": false
+      },
+      {
+        "text": "Si riempie",
+        "correct": false
+      },
+      {
+        "text": "Si abbassa",
+        "correct": true
+      },
+      {
+        "text": "Si svuota",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In una contrazione isometrica il muscolo",
+    "answers": [
+      {
+        "text": "Si contrae mantenendo la stessa lunghezza",
+        "correct": true
+      },
+      {
+        "text": "Si contrae accorciandosi",
+        "correct": false
+      },
+      {
+        "text": "Si contrae allungandosi",
+        "correct": false
+      },
+      {
+        "text": "Si allunga contraendosi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In una contrazione muscolare isocinetica rimane costante",
+    "answers": [
+      {
+        "text": "La tensione",
+        "correct": false
+      },
+      {
+        "text": "La velocità angolare",
+        "correct": true
+      },
+      {
+        "text": "Il consumo energetico",
+        "correct": false
+      },
+      {
+        "text": "La direzione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In una respirazione a riposo si immettono in ogni inspirazione circa",
+    "answers": [
+      {
+        "text": "150 ml di aria",
+        "correct": false
+      },
+      {
+        "text": "500 ml di aria",
+        "correct": true
+      },
+      {
+        "text": "5000 ml di aria",
+        "correct": false
+      },
+      {
+        "text": "Oltre 5000 ml di aria",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’alimentazione soddisfa necessità",
+    "answers": [
+      {
+        "text": "Affettive",
+        "correct": false
+      },
+      {
+        "text": "Energetiche",
+        "correct": true
+      },
+      {
+        "text": "Cognitive",
+        "correct": false
+      },
+      {
+        "text": "Sociali",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’apparato circolatorio ha funzione di",
+    "answers": [
+      {
+        "text": "Sostegno",
+        "correct": false
+      },
+      {
+        "text": "Protezione",
+        "correct": false
+      },
+      {
+        "text": "Trasporto",
+        "correct": true
+      },
+      {
+        "text": "Coordinazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "L’apparato locomotore è costituito da",
+    "answers": [
+      {
+        "text": "Ossa, articolazioni e muscoli scheletrici",
+        "correct": true
+      },
+      {
+        "text": "Ossa e articolazioni",
+        "correct": false
+      },
+      {
+        "text": "Ossa, articolazioni, muscoli scheletrici e muscolo cardiaco",
+        "correct": false
+      },
+      {
+        "text": "Ossa, articolazioni, organi interni",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’apparato respiratorio",
+    "answers": [
+      {
+        "text": "Ha la funzione di permettere l’ingresso di ossigeno nell’organismo e l’espulsione dell’anidride carbonica, al fine di fornire ossigeno da utilizzare nel processo di respirazione cellulare.",
+        "correct": true
+      },
+      {
+        "text": "Ha la funzione di produrre energia",
+        "correct": false
+      },
+      {
+        "text": "Ha funzione di sostentamento",
+        "correct": false
+      },
+      {
+        "text": "Ha funzione anabolica",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’apparto cardiocircolatorio",
+    "answers": [
+      {
+        "text": "È costituito da cuore, vasi sanguigni e polmoni",
+        "correct": false
+      },
+      {
+        "text": "È costituito da cuore, vasi sanguigni, in cui scorre il sangue",
+        "correct": true
+      },
+      {
+        "text": "Include quattro tipi di vasi: arterie, capillari, vene ed assoni",
+        "correct": false
+      },
+      {
+        "text": "Assolve funzioni endocrine",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’auxologia è",
+    "answers": [
+      {
+        "text": "La scienza che studia l’accrescimento e la maturazione somatica",
+        "correct": true
+      },
+      {
+        "text": "La scienza che studia il movimento",
+        "correct": false
+      },
+      {
+        "text": "Un approccio speculativo alla tecnica",
+        "correct": false
+      },
+      {
+        "text": "Un tipo di lavoro muscolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’energia per la contrazione muscolare è fornita",
+    "answers": [
+      {
+        "text": "Dalla demolizione delle proteine dei glucidi",
+        "correct": false
+      },
+      {
+        "text": "Dalla risintesi dell’adenosintrifosfato",
+        "correct": false
+      },
+      {
+        "text": "Dalla scissione dell’emoglobina",
+        "correct": false
+      },
+      {
+        "text": "Dalla scissione dell’adenosintrifosfato",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’idrocuzione, comunemente chiamata colpo d’acqua, è una sincope acquatica dovuta a quali fattori?",
+    "answers": [
+      {
+        "text": "Termico e digestivo",
+        "correct": false
+      },
+      {
+        "text": "Termico, traumatico, allergico e digestivo",
+        "correct": true
+      },
+      {
+        "text": "Dovuti all’età avanzata",
+        "correct": false
+      },
+      {
+        "text": "Psicologico e fisiologico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La capacità vitale è",
+    "answers": [
+      {
+        "text": "La quantità di sangue pompata dal cuore ogni minuto",
+        "correct": false
+      },
+      {
+        "text": "La misura del torace in massima inspirazione",
+        "correct": false
+      },
+      {
+        "text": "Il massimo volume di aria che viene inspirato ed espirato durante un atto respiratorio forzato",
+        "correct": true
+      },
+      {
+        "text": "Il tempo massimo di resistenza in apnea",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La caratteristica di base dell’apparato muscolare è",
+    "answers": [
+      {
+        "text": "L’elasticità",
+        "correct": false
+      },
+      {
+        "text": "La flessibilità",
+        "correct": false
+      },
+      {
+        "text": "La solidità",
+        "correct": false
+      },
+      {
+        "text": "La contrattilità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La contrazione del muscolo scheletrico avviene grazie",
+    "answers": [
+      {
+        "text": "All’allontanamento reciproco dei filamenti di actina e miosina",
+        "correct": false
+      },
+      {
+        "text": "All’avvicinamento e sovrapposizione reciproca dei filamenti di actina e miosina",
+        "correct": true
+      },
+      {
+        "text": "All’avvicinamento delle miofibrille l’una all’altra",
+        "correct": false
+      },
+      {
+        "text": "All’avvicinamento delle fibre bianche alle fibre rosse",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La fosfocreatina",
+    "answers": [
+      {
+        "text": "È utilizzata negli ultimi istanti di un lavoro muscolare",
+        "correct": false
+      },
+      {
+        "text": "È rigenerata durante il riposo",
+        "correct": true
+      },
+      {
+        "text": "Produce acido lattico",
+        "correct": false
+      },
+      {
+        "text": "Necessita della presenza di ossigeno",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La frequenza respiratoria è",
+    "answers": [
+      {
+        "text": "La quantità di aria inspirata al minuto",
+        "correct": false
+      },
+      {
+        "text": "Il numero di atti respiratori al minuto",
+        "correct": true
+      },
+      {
+        "text": "Il massimo volume di aria che viene inspirato ed espirato durante un atto respiratorio forzato",
+        "correct": false
+      },
+      {
+        "text": "Il tempo massimo di resistenza in apnea",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La funzione del sangue è quella di",
+    "answers": [
+      {
+        "text": "Trasportare l’ossigeno",
+        "correct": false
+      },
+      {
+        "text": "Trasportare l’ossigeno e l’anidride carbonica",
+        "correct": false
+      },
+      {
+        "text": "Trasportare sostanze nutritive",
+        "correct": true
+      },
+      {
+        "text": "Fluidificare la muscolatura",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La maggior parte delle leve ossee è di",
+    "answers": [
+      {
+        "text": "Prima specie",
+        "correct": false
+      },
+      {
+        "text": "Seconda specie",
+        "correct": false
+      },
+      {
+        "text": "Terza specie",
+        "correct": true
+      },
+      {
+        "text": "Quarta specie",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La normale frequenza cardiaca in un adulto a riposo è: #####",
+    "answers": [
+      {
+        "text": "40 - 55 #####",
+        "correct": false
+      },
+      {
+        "text": "60 - 80 #####",
+        "correct": true
+      },
+      {
+        "text": "80 - 120 #####",
+        "correct": false
+      },
+      {
+        "text": "100 - 140",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La percentuale di grasso corporeo negli uomini, rispetto al peso totale, è del: #####",
+    "answers": [
+      {
+        "text": "10 - 12% #####",
+        "correct": true
+      },
+      {
+        "text": "13 - 15% #####",
+        "correct": false
+      },
+      {
+        "text": "15 - 18% #####",
+        "correct": false
+      },
+      {
+        "text": "19 - 22%",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La percentuale di grasso corporeo nelle donne, rispetto al peso totale, è del: #####",
+    "answers": [
+      {
+        "text": "0 - 15% #####",
+        "correct": false
+      },
+      {
+        "text": "15 - 20% #####",
+        "correct": true
+      },
+      {
+        "text": "20 - 22% #####",
+        "correct": false
+      },
+      {
+        "text": "23 - 25 %",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La piccola circolazione è il percorso sanguigno che collega",
+    "answers": [
+      {
+        "text": "Cuore e polmoni",
+        "correct": true
+      },
+      {
+        "text": "I capillari",
+        "correct": false
+      },
+      {
+        "text": "Cuore e capillari",
+        "correct": false
+      },
+      {
+        "text": "Capillari e arteriole",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La quantità di sangue nel corpo umano, rispetto al peso totale, ammonta a: #####",
+    "answers": [
+      {
+        "text": "8% #####",
+        "correct": true
+      },
+      {
+        "text": "10% #####",
+        "correct": false
+      },
+      {
+        "text": "12% #####",
+        "correct": false
+      },
+      {
+        "text": "15%",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La ventilazione polmonare avviene per",
+    "answers": [
+      {
+        "text": "La contrazione del muscolo diaframma",
+        "correct": false
+      },
+      {
+        "text": "La contrazione del diaframma e dei muscoli intercostali",
+        "correct": true
+      },
+      {
+        "text": "La contrazione della muscolatura addominale",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le arterie sono",
+    "answers": [
+      {
+        "text": "Vasi sanguigni che vanno dai capillari al cuore",
+        "correct": false
+      },
+      {
+        "text": "Vasi che trasportano sangue ricco di ossigeno",
+        "correct": false
+      },
+      {
+        "text": "Vasi che trasportano sangue povero di ossigeno",
+        "correct": false
+      },
+      {
+        "text": "Vasi sanguigni che vanno dal cuore ai capillari",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le emorragie esterne possono interessare",
+    "answers": [
+      {
+        "text": "Le braccia e le gambe",
+        "correct": false
+      },
+      {
+        "text": "Gli arti, il torace e l’addome",
+        "correct": true
+      },
+      {
+        "text": "Gli organi interni",
+        "correct": false
+      },
+      {
+        "text": "Il midollo osseo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le fibre muscolari che esprimono forza e velocità sono",
+    "answers": [
+      {
+        "text": "Quelle rosse",
+        "correct": false
+      },
+      {
+        "text": "Quelle intermedie",
+        "correct": false
+      },
+      {
+        "text": "Quelle violacee",
+        "correct": false
+      },
+      {
+        "text": "Quelle bianche",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le fibre muscolari rosse",
+    "answers": [
+      {
+        "text": "Sono più lente e più resistenti",
+        "correct": true
+      },
+      {
+        "text": "Sono lente e poco resistenti",
+        "correct": false
+      },
+      {
+        "text": "Sono poco resistenti e molto veloci",
+        "correct": false
+      },
+      {
+        "text": "Sono più veloci e più resistenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le fibre muscolari sono",
+    "answers": [
+      {
+        "text": "In alcuni muscoli solo bianche",
+        "correct": false
+      },
+      {
+        "text": "In alcuni muscoli solo rosse",
+        "correct": false
+      },
+      {
+        "text": "In alcuni muscoli violacee",
+        "correct": false
+      },
+      {
+        "text": "Bianche e rosse in ogni muscolo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le informazioni tattili appartengono alla sensibilità",
+    "answers": [
+      {
+        "text": "Esterocettiva",
+        "correct": true
+      },
+      {
+        "text": "Propriocettiva",
+        "correct": false
+      },
+      {
+        "text": "Interocettiva",
+        "correct": false
+      },
+      {
+        "text": "Intuitiva",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le proteine sono formate da",
+    "answers": [
+      {
+        "text": "Fospolipidi",
+        "correct": false
+      },
+      {
+        "text": "Acido deossiribonucleico",
+        "correct": false
+      },
+      {
+        "text": "Aminoacidi",
+        "correct": true
+      },
+      {
+        "text": "Polisaccaridi",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Le vie respiratorie sono costituite da",
+    "answers": [
+      {
+        "text": "Naso, bocca, faringe, laringe, trachea, bronchi",
+        "correct": true
+      },
+      {
+        "text": "Bocca, gola, polmoni",
+        "correct": false
+      },
+      {
+        "text": "Bronchi, bronchioli, alveoli",
+        "correct": false
+      },
+      {
+        "text": "Naso, bocca",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Negli alveoli polmonari avviene",
+    "answers": [
+      {
+        "text": "Il contatto tra vie aeree superiori e inferiori",
+        "correct": false
+      },
+      {
+        "text": "Scambio gassoso con i capillari polmonari",
+        "correct": true
+      },
+      {
+        "text": "Il passaggio dei neuroni",
+        "correct": false
+      },
+      {
+        "text": "La reazione immunitaria",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nell’attività di resistenza",
+    "answers": [
+      {
+        "text": "Si devono reintegrare carboidrati e proteine",
+        "correct": false
+      },
+      {
+        "text": "Si devono reintegrare liquidi e carboidrati",
+        "correct": true
+      },
+      {
+        "text": "Si devono reintegrare proteine e sali minerali",
+        "correct": false
+      },
+      {
+        "text": "Si devono reintegrare vitamine e proteine",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella contrazione concentrica il muscolo",
+    "answers": [
+      {
+        "text": "Rimane della stessa lunghezza",
+        "correct": false
+      },
+      {
+        "text": "Si accorcia",
+        "correct": true
+      },
+      {
+        "text": "Si allunga",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle risposte precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella fase espiratoria",
+    "answers": [
+      {
+        "text": "La trachea si irrigidisce",
+        "correct": false
+      },
+      {
+        "text": "I muscoli intercostali e il diaframma si rilasciano",
+        "correct": true
+      },
+      {
+        "text": "I muscoli intercostali e il diaframma si contraggono",
+        "correct": false
+      },
+      {
+        "text": "Svolge un ruolo fondamentale l’esofago",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nelle vene scorre sangue generalmente",
+    "answers": [
+      {
+        "text": "Ricco di ossigeno",
+        "correct": false
+      },
+      {
+        "text": "Da distribuire a tutto l’organismo nel grande circolo",
+        "correct": false
+      },
+      {
+        "text": "Nel quale sono presenti ossigeno e anidride carbonica in egual misura",
+        "correct": false
+      },
+      {
+        "text": "Povero di ossigeno",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per gittata cardiaca si intende",
+    "answers": [
+      {
+        "text": "La forza che il sangue esercita sulla parete dei vasi",
+        "correct": false
+      },
+      {
+        "text": "La quantità di sangue che passa nei tessuti al minuto",
+        "correct": false
+      },
+      {
+        "text": "La quantità di sangue pompato al ventricolo al minuto",
+        "correct": true
+      },
+      {
+        "text": "Il numero dei battiti al minuto",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qual è il corretto ordine, dalla più semplice alla più complessa, delle seguenti strutture?",
+    "answers": [
+      {
+        "text": "Cellula, tessuto, organo, sistema",
+        "correct": true
+      },
+      {
+        "text": "Sistema, cellula, organo, tessuto",
+        "correct": false
+      },
+      {
+        "text": "Cellula, organo, sistema, tessuto",
+        "correct": false
+      },
+      {
+        "text": "Tessuto, cellula,, sistema, organo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qual è l’unità di misura del metabolismo?",
+    "answers": [
+      {
+        "text": "La caloria",
+        "correct": true
+      },
+      {
+        "text": "Il picco di lattato",
+        "correct": false
+      },
+      {
+        "text": "La sommatoria tra il consumo di ossigeno e le pulsazioni cardiache",
+        "correct": false
+      },
+      {
+        "text": "Il Newton",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qual è la parte del cuore da cui prende avvio il grande circolo sanguigno?",
+    "answers": [
+      {
+        "text": "Il ventricolo sinistro",
+        "correct": true
+      },
+      {
+        "text": "L’atrio sinistro",
+        "correct": false
+      },
+      {
+        "text": "Il ventricolo destro",
+        "correct": false
+      },
+      {
+        "text": "L’atrio destro",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qual è la sede degli scambi respiratori?",
+    "answers": [
+      {
+        "text": "Bronchioli",
+        "correct": false
+      },
+      {
+        "text": "Bronchi",
+        "correct": false
+      },
+      {
+        "text": "Alveoli",
+        "correct": true
+      },
+      {
+        "text": "Trachea",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale di queste affermazioni è corretta?",
+    "answers": [
+      {
+        "text": "Le fibre rosse sono meno forti ma più resistenti delle bianche",
+        "correct": true
+      },
+      {
+        "text": "Le fibre bianche hanno principalmente metabolismo aerobico",
+        "correct": false
+      },
+      {
+        "text": "Le fibre rosse sono meno irrorate dal sangue delle bianche",
+        "correct": false
+      },
+      {
+        "text": "Le fibre bianche hanno principalmente funzione di sostegno",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale di questi sistemi fa innalzare la frequenza cardiaca?",
+    "answers": [
+      {
+        "text": "Sistema nervoso simpatico",
+        "correct": true
+      },
+      {
+        "text": "Sistema nervoso parasimpatico",
+        "correct": false
+      },
+      {
+        "text": "Sistema nervoso volontario",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle precedenti risposte",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale muscolo interviene principalmente nella meccanica respiratoria?",
+    "answers": [
+      {
+        "text": "Bicipite",
+        "correct": false
+      },
+      {
+        "text": "Diaframma",
+        "correct": true
+      },
+      {
+        "text": "Tricipite",
+        "correct": false
+      },
+      {
+        "text": "Quadricipite",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale tra le seguenti funzioni non è svolta dall’apparato osteoarticolare?",
+    "answers": [
+      {
+        "text": "Produzione di globuli rossi",
+        "correct": false
+      },
+      {
+        "text": "Trasmissione di impulsi",
+        "correct": true
+      },
+      {
+        "text": "Sostegno",
+        "correct": false
+      },
+      {
+        "text": "Protezione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale, tra i seguenti, è un tipo di muscolo?",
+    "answers": [
+      {
+        "text": "Striato",
+        "correct": true
+      },
+      {
+        "text": "Grasso",
+        "correct": false
+      },
+      {
+        "text": "Rosso",
+        "correct": false
+      },
+      {
+        "text": "Allungato",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali di questi principi alimentari è calorico?",
+    "answers": [
+      {
+        "text": "Acqua",
+        "correct": false
+      },
+      {
+        "text": "Vitamine",
+        "correct": false
+      },
+      {
+        "text": "Sali minerali",
+        "correct": false
+      },
+      {
+        "text": "Proteine",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono i fattori che influenzano la forza massimale di un muscolo?",
+    "answers": [
+      {
+        "text": "La lunghezza e la sezione trasversa delle fibre che lo compongono",
+        "correct": false
+      },
+      {
+        "text": "La capacità di reclutamento di unità motorie da parte del sistema nervoso",
+        "correct": false
+      },
+      {
+        "text": "Il numero delle fibre che lo compongono",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono i principi alimentari?",
+    "answers": [
+      {
+        "text": "Proteine - grassi o lipidi - glucidi o carboidrati - sali minerali - vitamine - acqua",
+        "correct": true
+      },
+      {
+        "text": "Mangiare sano – Svolgere regolare attività fisica – Riposare",
+        "correct": false
+      },
+      {
+        "text": "Vitamina A – Vitamina B – Vitamina C",
+        "correct": false
+      },
+      {
+        "text": "Stomaco – intestino tenue – intestino crasso",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali tipi di ossa sono contenute nello scheletro?",
+    "answers": [
+      {
+        "text": "Lunghe",
+        "correct": false
+      },
+      {
+        "text": "Piatte e corte",
+        "correct": false
+      },
+      {
+        "text": "Lunghe, piatte e corte",
+        "correct": true
+      },
+      {
+        "text": "Lunghe, piatte, corte e sferiche",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Sono muscoli del corpo umano",
+    "answers": [
+      {
+        "text": "Omero, ulna, radio, sterno",
+        "correct": false
+      },
+      {
+        "text": "Fegato cuore, intestino, stomaco",
+        "correct": false
+      },
+      {
+        "text": "Tricipite, gastrocnemio, gran dorsale",
+        "correct": true
+      },
+      {
+        "text": "Dura madre, perineo, scroto",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Sono organi interni del corpo umano",
+    "answers": [
+      {
+        "text": "Omero, ulna, radio, sterno",
+        "correct": false
+      },
+      {
+        "text": "Fegato cuore, intestino, stomaco",
+        "correct": true
+      },
+      {
+        "text": "Tricipite, gastrocnemio, gran dorsale",
+        "correct": false
+      },
+      {
+        "text": "Dura madre, perineo, scroto",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Sono ossa del corpo umano",
+    "answers": [
+      {
+        "text": "Omero, ulna, radio, sterno",
+        "correct": true
+      },
+      {
+        "text": "Fegato cuore, intestino, stomaco",
+        "correct": false
+      },
+      {
+        "text": "Tricipite, gastrocnemio, gran dorsale",
+        "correct": false
+      },
+      {
+        "text": "Dura madre, perineo, scroto",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Un adulto a riposo consuma in un minuto la seguente quantità di ossigeno",
+    "answers": [
+      {
+        "text": "0,03 litri",
+        "correct": false
+      },
+      {
+        "text": "0,30 litri",
+        "correct": true
+      },
+      {
+        "text": "3 litri",
+        "correct": false
+      },
+      {
+        "text": "30 litri",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Un atto respiratorio è composto",
+    "answers": [
+      {
+        "text": "Dalla fase d’inspirazione, d’espirazione e dalla breve pausa frapposta",
+        "correct": true
+      },
+      {
+        "text": "Dalla fase d’inspirazione, d’espirazione e dalla lunga pausa frapposta",
+        "correct": false
+      },
+      {
+        "text": "Dalla fase d’espirazione e dalla breve pausa frapposta",
+        "correct": false
+      },
+      {
+        "text": "Da presa, trazione, spinta, recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Una caloria equivale a",
+    "answers": [
+      {
+        "text": "1 Joule",
+        "correct": false
+      },
+      {
+        "text": "2,4 Joule",
+        "correct": false
+      },
+      {
+        "text": "4,2 Joule",
+        "correct": true
+      },
+      {
+        "text": "10 Joule",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Una contrazione muscolare pliometrica è",
+    "answers": [
+      {
+        "text": "Concentrica esplosiva",
+        "correct": true
+      },
+      {
+        "text": "Concentrica progressiva",
+        "correct": false
+      },
+      {
+        "text": "Eccentrica progressiva",
+        "correct": false
+      },
+      {
+        "text": "Eccentrica esplosiva",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Una contrazione si definisce isometrica quando",
+    "answers": [
+      {
+        "text": "Il muscolo non consuma energia",
+        "correct": false
+      },
+      {
+        "text": "Il muscolo si contrae ma non si accorcia",
+        "correct": true
+      },
+      {
+        "text": "Il muscolo non si contrae",
+        "correct": false
+      },
+      {
+        "text": "Il muscolo ha un crampo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Una modalità contrattile nella quale il muscolo si contrae ma non produce movimento è detta",
+    "answers": [
+      {
+        "text": "Eccentrica",
+        "correct": false
+      },
+      {
+        "text": "Concentrica",
+        "correct": false
+      },
+      {
+        "text": "Isometrica",
+        "correct": true
+      },
+      {
+        "text": "Isotonica",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  }
+]

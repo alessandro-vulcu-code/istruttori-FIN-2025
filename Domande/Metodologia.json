@@ -1,0 +1,6250 @@
+[
+  {
+    "question": "A quale età avviene lo sviluppo prevalente delle capacità coordinative?",
+    "answers": [
+      {
+        "text": "Prima dei 5 anni",
+        "correct": false
+      },
+      {
+        "text": "Dai 14 ai 18 anni",
+        "correct": false
+      },
+      {
+        "text": "Dopo i 18 anni",
+        "correct": false
+      },
+      {
+        "text": "Dai 5 ai 12 anni",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Apprendiamo movimenti consapevolmente quando",
+    "answers": [
+      {
+        "text": "Copiamo le soluzioni di un altro",
+        "correct": false
+      },
+      {
+        "text": "Intuiamo un movimento nuovo mentre siamo in azione",
+        "correct": false
+      },
+      {
+        "text": "L’istruttore guida un nostro movimento",
+        "correct": false
+      },
+      {
+        "text": "Ci rappresentiamo un movimento e lo riproduciamo individuando come punti di riferimento elementi percettivi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Apprendiamo movimenti per condizionamento quando",
+    "answers": [
+      {
+        "text": "Copiamo le soluzioni di un altro",
+        "correct": false
+      },
+      {
+        "text": "Intuiamo un movimento nuovo mentre siamo in azione",
+        "correct": false
+      },
+      {
+        "text": "L’istruttore guida un nostro movimento",
+        "correct": false
+      },
+      {
+        "text": "Ripetiamo soluzioni che precedentemente avevano recato un beneficio",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Apprendiamo movimenti per imitazione quando",
+    "answers": [
+      {
+        "text": "Copiamo le soluzioni di un altro",
+        "correct": true
+      },
+      {
+        "text": "Intuiamo un movimento nuovo mentre siamo in azione",
+        "correct": false
+      },
+      {
+        "text": "L’istruttore guida il nostro movimento",
+        "correct": false
+      },
+      {
+        "text": "Ci rappresentiamo un movimento e lo riproduciamo individuando come punti di riferimento elementi percettivi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Apprendiamo movimenti per prove ed errori quando",
+    "answers": [
+      {
+        "text": "Copiamo le soluzioni di un altro",
+        "correct": false
+      },
+      {
+        "text": "Intuiamo un movimento nuovo mentre siamo in azione",
+        "correct": true
+      },
+      {
+        "text": "L’istruttore guida un nostro movimento",
+        "correct": false
+      },
+      {
+        "text": "Ci rappresentiamo un movimento e lo riproduciamo individuando come punti di riferimento elementi percettivi",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Caratteristiche essenziali delle quattro nuotate (crawl, dorso, farfalla, rana)",
+    "answers": [
+      {
+        "text": "Ampiezza, continuità e ritmo.",
+        "correct": false
+      },
+      {
+        "text": "Stabilità nella struttura e variabilità nei dettagli.",
+        "correct": true
+      },
+      {
+        "text": "Stabilità nei dettagli e variabilità nella struttura",
+        "correct": false
+      },
+      {
+        "text": "Non esistono caratteristiche comuni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Che cos’è la capacità di resistenza?",
+    "answers": [
+      {
+        "text": "La capacità di resistere alla fatica nell’eseguire molte volte un medesimo gesto",
+        "correct": false
+      },
+      {
+        "text": "La capacità di resistere alla fatica in esercitazioni di lunga durata",
+        "correct": true
+      },
+      {
+        "text": "La capacità di resistere alla fatica nell’eseguire molte volte un breve sforzo",
+        "correct": false
+      },
+      {
+        "text": "La capacita di resistere alla fatica mantenendo a lungo una buona coordinazione del gesto",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Che cosa è la supercompensazione?",
+    "answers": [
+      {
+        "text": "Una tabella valutativa per stabilire l’incremento delle capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Una tecnica basata sulla respirazione per compensare il consumo di ossigeno dopo una seduta di allenamento",
+        "correct": false
+      },
+      {
+        "text": "Una capacità condizionale",
+        "correct": false
+      },
+      {
+        "text": "Un principio dell’allenamento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Che cosa è più efficace per la correzione di un errore?",
+    "answers": [
+      {
+        "text": "Ipercorrezione",
+        "correct": false
+      },
+      {
+        "text": "Esercizi volti a migliorare la sensibilità dell’allievo",
+        "correct": true
+      },
+      {
+        "text": "Dimostrazioni corrette del movimento",
+        "correct": false
+      },
+      {
+        "text": "Spiegazioni tecniche dettagliate",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Che cosa s’intende per analizzatore vestibolare?",
+    "answers": [
+      {
+        "text": "Una struttura che ci informa sulle accelerazioni del corpo",
+        "correct": true
+      },
+      {
+        "text": "Una struttura dalla quale riceviamo informazioni sulle tensione dei muscoli",
+        "correct": false
+      },
+      {
+        "text": "Un sinonimo di feedback",
+        "correct": false
+      },
+      {
+        "text": "Una struttura che fornisce l’informazione relativa alle pressioni esercitate sulle varie parti del corpo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Che errore non va commesso nell’allenamento giovanile?",
+    "answers": [
+      {
+        "text": "Proporre i programmi degli atleti adulti in forma ridotta",
+        "correct": false
+      },
+      {
+        "text": "Preconizzare alcune fasi dello sviluppo motorio",
+        "correct": false
+      },
+      {
+        "text": "Automatizzare rigidamente il gesto tecnico",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Che tipo di scambi termici avvengono in acqua?",
+    "answers": [
+      {
+        "text": "Per conduzione e per convezione",
+        "correct": true
+      },
+      {
+        "text": "Per irraggiamento e conduzione",
+        "correct": false
+      },
+      {
+        "text": "Per convezione e per irraggiamento",
+        "correct": false
+      },
+      {
+        "text": "Per regolazione e rifinitura",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Chi governa e gestisce gli analizzatori?",
+    "answers": [
+      {
+        "text": "Il cervello",
+        "correct": true
+      },
+      {
+        "text": "L’apparato osteo-articolare",
+        "correct": false
+      },
+      {
+        "text": "Il cuore",
+        "correct": false
+      },
+      {
+        "text": "L’apparato del Golgi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Classificazione della forza",
+    "answers": [
+      {
+        "text": "Forza massimale, forza rapida, resistenza alla forza",
+        "correct": true
+      },
+      {
+        "text": "Forza massimale, resistenza rapida, resistenza veloce",
+        "correct": false
+      },
+      {
+        "text": "La forza non può essere classificata",
+        "correct": false
+      },
+      {
+        "text": "Nel nuoto abbiamo una forza massima e una forza veloce",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Com’è classificabile una virata nel nuoto?",
+    "answers": [
+      {
+        "text": "Schema motorio di base",
+        "correct": false
+      },
+      {
+        "text": "Capacità coordinativa generale",
+        "correct": false
+      },
+      {
+        "text": "Capacità coordinativa speciale",
+        "correct": false
+      },
+      {
+        "text": "Abilità motoria",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Come può essere sviluppata la resistenza di breve durata?",
+    "answers": [
+      {
+        "text": "Con la preacrobatica intensiva",
+        "correct": false
+      },
+      {
+        "text": "Con il metodo continuo",
+        "correct": false
+      },
+      {
+        "text": "Con il metodo delle ripetizioni in serie",
+        "correct": true
+      },
+      {
+        "text": "Con diverse serie di tuffi di partenza",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Come si può definire il carico fisico?",
+    "answers": [
+      {
+        "text": "L’insieme degli stimoli allenanti",
+        "correct": true
+      },
+      {
+        "text": "La durata delle esercitazioni",
+        "correct": false
+      },
+      {
+        "text": "Il rapporto tra esercitazioni e recupero",
+        "correct": false
+      },
+      {
+        "text": "La specificità delle esercitazioni",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Come si può definire il nuoto?",
+    "answers": [
+      {
+        "text": "Sport acquatico ad alta valenza educativa e coordinativa",
+        "correct": false
+      },
+      {
+        "text": "Sport educativo con spiccate capacità condizionali e coordinative",
+        "correct": false
+      },
+      {
+        "text": "Sport preventivo ai paramorfismi, di resistenza alla forza e alla velocità",
+        "correct": false
+      },
+      {
+        "text": "Sport ciclico di resistenza alla forza ad elevata valenza coordinativa",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Come si rendono coscienti le informazioni?",
+    "answers": [
+      {
+        "text": "Con un lavoro molto ripetitivo",
+        "correct": false
+      },
+      {
+        "text": "Con allenamenti mirati alla percezione",
+        "correct": true
+      },
+      {
+        "text": "Con un esecuzione perfetta",
+        "correct": false
+      },
+      {
+        "text": "Con una dialettica raffinata",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Come viene classificata la forza?",
+    "answers": [
+      {
+        "text": "Forza massimale, forza rapida, forza veloce, forza minima e resistenza alla forza",
+        "correct": false
+      },
+      {
+        "text": "Forza massimale, forza rapida, forza veloce e forza minima",
+        "correct": false
+      },
+      {
+        "text": "Forza massimale, forza rapida o veloce e resistenza alla forza",
+        "correct": true
+      },
+      {
+        "text": "Forza massimale, forza minima, forza rapida e resistenza alla forza",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Con quale attività si realizza lo sviluppo delle capacità coordinative?",
+    "answers": [
+      {
+        "text": "Multilaterale",
+        "correct": true
+      },
+      {
+        "text": "Multimediale",
+        "correct": false
+      },
+      {
+        "text": "Multidisciplinare",
+        "correct": false
+      },
+      {
+        "text": "Multitecnica",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Correre è",
+    "answers": [
+      {
+        "text": "Una predisposizione al movimento",
+        "correct": false
+      },
+      {
+        "text": "Uno schema motorio di base",
+        "correct": true
+      },
+      {
+        "text": "Uno schema motorio evoluto",
+        "correct": false
+      },
+      {
+        "text": "Nessuna delle tre opzioni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Correre è",
+    "answers": [
+      {
+        "text": "Una predisposizione al movimento",
+        "correct": false
+      },
+      {
+        "text": "Uno stato mentale",
+        "correct": false
+      },
+      {
+        "text": "Uno schema motorio di base",
+        "correct": true
+      },
+      {
+        "text": "Uno schema motorio evoluto",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Corretta procedura di correzione dell’errore",
+    "answers": [
+      {
+        "text": "Individuazione – destrutturazione del gesto – programma motorio e prima esecuzione – feedback e nuovo programma motorio – esecuzioni successive e nuovi feedback – output di migliore qualità",
+        "correct": true
+      },
+      {
+        "text": "Individuazione – programma motorio e prima esecuzione – destrutturazione del gesto – feedback e nuovo programma motorio – esecuzioni successive e nuovi feedback – output di migliore qualità",
+        "correct": false
+      },
+      {
+        "text": "Programma motorio e prima esecuzione – individuazione – destrutturazione del gesto – feedback e nuovo programma motorio – esecuzioni successive e nuovi feedback – output di migliore qualità",
+        "correct": false
+      },
+      {
+        "text": "Programma motorio e prima esecuzione – individuazione – feedback e nuovo programma motorio – esecuzioni successive e nuovi feedback – destrutturazione del gesto - output di migliore qualità",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cos’è il controllo, inteso come fattore della prestazione?",
+    "answers": [
+      {
+        "text": "La capacità di controllare e monitorare il proprio corpo e l’ambiente circostante",
+        "correct": false
+      },
+      {
+        "text": "L’insieme dei processi emotivi, cognitivi e motivazionali",
+        "correct": true
+      },
+      {
+        "text": "L’insieme dei processi emotivi e cognitivi",
+        "correct": false
+      },
+      {
+        "text": "La capacità di saper controllare la fatica durante ripetuti impegni di forza",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cos’è il tono muscolare?",
+    "answers": [
+      {
+        "text": "La forza di un muscolo",
+        "correct": false
+      },
+      {
+        "text": "L’angolazione reciproca dei muscoli scheletrici",
+        "correct": false
+      },
+      {
+        "text": "La sezione trasversale di un muscolo",
+        "correct": false
+      },
+      {
+        "text": "Il grado di tensione a riposo di un muscolo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cos’è la resistenza aerobica?",
+    "answers": [
+      {
+        "text": "La capacità condizionale che garantisce di effettuare sforzi di lunga durata nella massima economia delle funzioni",
+        "correct": true
+      },
+      {
+        "text": "La capacità coordinativa grazie alla quale possiamo aumentare la frequenza dei nostri movimenti",
+        "correct": false
+      },
+      {
+        "text": "La capacità motoria che assicura di tollerare a lungo la fatica resistendo all’accumulo dell’acido lattico prodotto",
+        "correct": false
+      },
+      {
+        "text": "La capacità tipica del velocista",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cos’è la supercompensazione?",
+    "answers": [
+      {
+        "text": "Un sistema gratificante per gli allievi",
+        "correct": false
+      },
+      {
+        "text": "Una limitazione all’adattamento dei carichi positivi",
+        "correct": false
+      },
+      {
+        "text": "Un principio che regola l’adattamento coordinativo",
+        "correct": false
+      },
+      {
+        "text": "Un processo di adattamento dell’organismo ad uno stimolo allenante",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cos’è un movimento di transizione?",
+    "answers": [
+      {
+        "text": "Un movimento accessorio inserito dopo l’insegnamento di un gesto delle gambe",
+        "correct": true
+      },
+      {
+        "text": "Un movimento per predisporsi a quello successivo",
+        "correct": false
+      },
+      {
+        "text": "Un movimento concluso, inserito in una sequenza programmata",
+        "correct": false
+      },
+      {
+        "text": "Un movimento irrilevante ai fini della propulsione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cos’è una fase sensibile?",
+    "answers": [
+      {
+        "text": "Un periodo di malessere generalizzato",
+        "correct": false
+      },
+      {
+        "text": "Un periodo particolarmente adatto per lo sviluppo di determinate capacità",
+        "correct": true
+      },
+      {
+        "text": "Un momento di stasi della crescita",
+        "correct": false
+      },
+      {
+        "text": "Un periodo poco favorevole per lo sviluppo di determinate capacità",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa s’intende per capacità di reazione?",
+    "answers": [
+      {
+        "text": "La capacità ad eseguire rapidamente azioni motorie adeguate in risposta ad un segnale",
+        "correct": true
+      },
+      {
+        "text": "La capacità di variare i movimenti del corpo nello spazio e nel tempo in risposta ad un segnale",
+        "correct": false
+      },
+      {
+        "text": "La capacità di regolare la propria concentrazione",
+        "correct": false
+      },
+      {
+        "text": "La capacità di coordinare tra loro i movimenti parziali del corpo reagendo ad un segnale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa s’intende per densità?",
+    "answers": [
+      {
+        "text": "La quantità di materia presente in un volume",
+        "correct": true
+      },
+      {
+        "text": "la forza esercitata da un fluido in quiete su ogni superficie a contatto con esso",
+        "correct": false
+      },
+      {
+        "text": "La viscosità dell’acqua",
+        "correct": false
+      },
+      {
+        "text": "È quella forza che si oppone al movimento di un corpo in un fluido",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa s’intende per equilibrio?",
+    "answers": [
+      {
+        "text": "La funzione che consente di stare in una posizione",
+        "correct": true
+      },
+      {
+        "text": "I movimenti che consentono la stabilità",
+        "correct": false
+      },
+      {
+        "text": "La postura che si assume",
+        "correct": false
+      },
+      {
+        "text": "La stabilità emotiva",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa s’intende per età funzionale?",
+    "answers": [
+      {
+        "text": "L’espressione dell’interazione tra età biologica e quella psicologica",
+        "correct": true
+      },
+      {
+        "text": "La capacità di adattamento individuale",
+        "correct": false
+      },
+      {
+        "text": "La mera età dettata dal calendario",
+        "correct": false
+      },
+      {
+        "text": "L’età di acquisizione degli schemi motori di base",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa s’intende per forza rapida?",
+    "answers": [
+      {
+        "text": "Capacità di resistere alla fatica con la maggior rapidità possibile",
+        "correct": false
+      },
+      {
+        "text": "Capacità di resistere alla rapidità con la maggior forza possibile",
+        "correct": false
+      },
+      {
+        "text": "Capacità di produrre una forza da elevata a massima nel più breve tempo possibile",
+        "correct": true
+      },
+      {
+        "text": "Si sviluppa nei bambini di massimo 6 anni",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Cosa s’intende per indipendenza segmentarla?",
+    "answers": [
+      {
+        "text": "La capacità di eseguire movimenti inconsci",
+        "correct": false
+      },
+      {
+        "text": "La capacità di percepire e controllare i segmenti corporei impegnati nel movimento in maniera indipendente",
+        "correct": true
+      },
+      {
+        "text": "La capacità dell’allievo di percepire il proprio movimento in maniera globale ed indifferenziata",
+        "correct": false
+      },
+      {
+        "text": "La capacità di frazionare l’esercizio nelle sue componenti fondamentali",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa s’intende per pressione idrostatica?",
+    "answers": [
+      {
+        "text": "La quantità di materia presente in un volume",
+        "correct": false
+      },
+      {
+        "text": "La forza esercitata da un fluido in quiete su ogni superficie a contatto con esso",
+        "correct": true
+      },
+      {
+        "text": "La viscosità dell’acqua",
+        "correct": false
+      },
+      {
+        "text": "È quella forza che si oppone al movimento di un corpo in un fluido",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cosa s’intende per resistenza in acqua?",
+    "answers": [
+      {
+        "text": "La quantità di materia presente in un volume",
+        "correct": false
+      },
+      {
+        "text": "La forza esercitata da un fluido in quiete su ogni superficie a contatto con esso",
+        "correct": false
+      },
+      {
+        "text": "La viscosità dell’acqua",
+        "correct": false
+      },
+      {
+        "text": "È quella forza che si oppone al movimento di un corpo in un fluido",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Cosa si intende per resistenza alla forza?",
+    "answers": [
+      {
+        "text": "La forza più elevata che il sistema neuromuscolare può esprimere",
+        "correct": false
+      },
+      {
+        "text": "La forza quanto più vicina possibile alla più elevata che il sistema neuromuscolare può esprimere",
+        "correct": false
+      },
+      {
+        "text": "La capacità dell’organismo di opporsi alla fatica durante prestazioni di forza",
+        "correct": true
+      },
+      {
+        "text": "La capacità dell’organismo di opporsi alla resistenza durante prestazioni di forza rimanendo in regime aerobico",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Cosa sono i fondamentali tecnici?",
+    "answers": [
+      {
+        "text": "Tecniche di nuoto formatesi con numerose ripetizioni automatiche",
+        "correct": false
+      },
+      {
+        "text": "Fattori che determinano la capacità di apprendimento",
+        "correct": false
+      },
+      {
+        "text": "Azioni motorie automatizzate mediante ripetizioni consapevoli",
+        "correct": true
+      },
+      {
+        "text": "Tecniche natatorie di atleti evoluti",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Cosa sono le abilità motorie?",
+    "answers": [
+      {
+        "text": "Competenze relative a gesti motori specifici (azioni), si costruiscono sulle capacità coordinative e sono tante quante se ne possono apprendere",
+        "correct": true
+      },
+      {
+        "text": "Il presupposto per l’organizzazione e la regolazione del movimento: si dividono in generali e speciali e sono tante quante se ne possono apprendere",
+        "correct": false
+      },
+      {
+        "text": "Le competenze raggiunte in una specifica sequenza di movimenti (azioni), si costruiscono sulle capacità condizionali e sono tante quante se ne possono apprendere",
+        "correct": false
+      },
+      {
+        "text": "Movimenti mediamente finalizzati",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Cosa sono le capacità motorie?",
+    "answers": [
+      {
+        "text": "Abilità specifiche del singolo sport",
+        "correct": false
+      },
+      {
+        "text": "Abilità trasferibili a diverse discipline sportive",
+        "correct": false
+      },
+      {
+        "text": "Presupposti motori fondamentali dell’essere umano",
+        "correct": true
+      },
+      {
+        "text": "Indici ottimali riferiti alla costituzione somatica dell’individuo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Da cosa è composto un analizzatore?",
+    "answers": [
+      {
+        "text": "Dagli organi recettori",
+        "correct": false
+      },
+      {
+        "text": "Dalle strutture muscolo-tendinee",
+        "correct": false
+      },
+      {
+        "text": "Da due o più recettori e un sistema di trasmissione",
+        "correct": false
+      },
+      {
+        "text": "Da due o più recettori, vie di comunicazione del segnale, centri del sistema nervoso deputati alla decodificazione di segnali",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Definizione di resistenza aerobica",
+    "answers": [
+      {
+        "text": "La capacità di protrarre nel tempo la prestazione sportiva",
+        "correct": true
+      },
+      {
+        "text": "La capacità di ricostituire l’ATP",
+        "correct": false
+      },
+      {
+        "text": "La capacità di superare la soglia aerobica",
+        "correct": false
+      },
+      {
+        "text": "La capacità di raggiungere un alto livello di prestazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Degli stimoli fisici troppo distanti tra loro comportano",
+    "answers": [
+      {
+        "text": "Adattamenti momentanei e non permanenti",
+        "correct": false
+      },
+      {
+        "text": "Adattamenti condizionati",
+        "correct": false
+      },
+      {
+        "text": "Nessun adattamento",
+        "correct": true
+      },
+      {
+        "text": "Ottimizzazione degli effetti della supercompensazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Dopo il cambio di direzione nella virata a stile libero, come deve avvenire la spinta del corpo?",
+    "answers": [
+      {
+        "text": "Già in posizione prona, ruotando prima della spinta dal bordo",
+        "correct": false
+      },
+      {
+        "text": "Già in posizione prona, ruotando durante la spinta dal bordo",
+        "correct": false
+      },
+      {
+        "text": "Con il piede dominante",
+        "correct": false
+      },
+      {
+        "text": "Su un fianco, effettuando la rotazione durante lo scivolamento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Dove si inseriscono le correzioni e i nuovi apprendimenti?",
+    "answers": [
+      {
+        "text": "Nella zona di sforzo fisico bassissimo",
+        "correct": true
+      },
+      {
+        "text": "Nella zona di sforzo fisico altissimo",
+        "correct": false
+      },
+      {
+        "text": "A secco",
+        "correct": false
+      },
+      {
+        "text": "Nella zona di sforzo fisico medio alto",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Durante la fase di apprendimento motorio della coordinazione grezza, quali aspetti degli elementi fondamentali del movimento bisogna tenere in considerazione?",
+    "answers": [
+      {
+        "text": "Ampiezza e continuità",
+        "correct": true
+      },
+      {
+        "text": "Forza e velocità",
+        "correct": false
+      },
+      {
+        "text": "Precisione e perfezione",
+        "correct": false
+      },
+      {
+        "text": "Motivazione e condizione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "È giusto richiedere sin dall’inizio l’esecuzione ad alta velocità di nuotate grezze?",
+    "answers": [
+      {
+        "text": "Sì, perché così viene arricchito il patrimonio genetico di fibre bianche",
+        "correct": false
+      },
+      {
+        "text": "Sì, sempre",
+        "correct": false
+      },
+      {
+        "text": "Sì, ma solo con allievi molto coordinati",
+        "correct": false
+      },
+      {
+        "text": "No, perché non è ancora stata raggiunta la piena indipendenza segmentaria",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Fra i modelli di allenamento che cosa indica la sigla C2?",
+    "answers": [
+      {
+        "text": "Tolleranza al lattato",
+        "correct": false
+      },
+      {
+        "text": "Esercizi di velocità",
+        "correct": false
+      },
+      {
+        "text": "Picco di lattato",
+        "correct": true
+      },
+      {
+        "text": "Intensità intorno alla soglia anaerobica",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Gli adattamenti generati dall’allenamento",
+    "answers": [
+      {
+        "text": "Dipendono dalle caratteristiche dell’allenamento svolto",
+        "correct": false
+      },
+      {
+        "text": "Sono transitori per quanto riguardano le capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Rispettano eterocronismi differenti",
+        "correct": false
+      },
+      {
+        "text": "Tutte le precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Gli analizzatori si classificano in",
+    "answers": [
+      {
+        "text": "Primari e secondari",
+        "correct": false
+      },
+      {
+        "text": "Ottico, acustico, tattile, cinestesico, labirintico",
+        "correct": true
+      },
+      {
+        "text": "Ottico e acustico",
+        "correct": false
+      },
+      {
+        "text": "Volontari e involontari",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gli analizzatori sono",
+    "answers": [
+      {
+        "text": "Strutture deputate alla selezione di stimoli",
+        "correct": true
+      },
+      {
+        "text": "Schemi che analizzano i movimenti",
+        "correct": false
+      },
+      {
+        "text": "Strutture di informazioni per correggere gli errori",
+        "correct": false
+      },
+      {
+        "text": "Abilità acquatiche apprese in forma cosciente",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gli analizzatori",
+    "answers": [
+      {
+        "text": "Trasmettono informazioni al SNC",
+        "correct": true
+      },
+      {
+        "text": "Segnalano la stanchezza muscolare",
+        "correct": false
+      },
+      {
+        "text": "Sono presenti solo in età adulta",
+        "correct": false
+      },
+      {
+        "text": "Sono presenti solo durante l’infanzia",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gli effetti del carico sono",
+    "answers": [
+      {
+        "text": "Immediati, permanenti, cumulativi",
+        "correct": true
+      },
+      {
+        "text": "Immediati e cumulativi ma non permanenti",
+        "correct": false
+      },
+      {
+        "text": "Permanenti e immediati ma non cumulativi",
+        "correct": false
+      },
+      {
+        "text": "Immediati e permanenti ma non cumulativi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gli errori possono essere generati da",
+    "answers": [
+      {
+        "text": "Scarso livello di attenzione",
+        "correct": false
+      },
+      {
+        "text": "Inadeguata rappresentazione mentale del gesto",
+        "correct": false
+      },
+      {
+        "text": "Scarsa propriocezione",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Gli esercizi di coordinazione devono essere rapportati",
+    "answers": [
+      {
+        "text": "Al grado di istruzione tecnica dell’allievo",
+        "correct": true
+      },
+      {
+        "text": "Al grado di istruzione tecnica dell’istruttore",
+        "correct": false
+      },
+      {
+        "text": "Al livello di interesse manifestato dall’allievo",
+        "correct": false
+      },
+      {
+        "text": "Al livello tecnico del corso",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gli obiettivi fondamentali nella didattica della bracciata a crawl sono",
+    "answers": [
+      {
+        "text": "Ampiezza e frequenza della bracciata",
+        "correct": false
+      },
+      {
+        "text": "Cura dei giusti angoli e traiettorie",
+        "correct": false
+      },
+      {
+        "text": "Recupero rilassato e giusta posizione del capo",
+        "correct": false
+      },
+      {
+        "text": "Cura della continuità delle azioni, corretto ritmo ed ampiezza",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Gli schemi motori acquatici sono",
+    "answers": [
+      {
+        "text": "Schemi che subiscono variazioni in base al sesso e all’età degli allievi",
+        "correct": false
+      },
+      {
+        "text": "Fondamentali ai fini dello star bene in acqua e tra questi ricordiamo la capacità di immergersi, rilassarsi, spostarsi, galleggiare ecc.",
+        "correct": true
+      },
+      {
+        "text": "Fondamentali ai fini dello star bene in acqua e tra questi ricordiamo la capacità di immergersi, saltare, strisciare, camminare, chiudere gli occhi ecc.",
+        "correct": false
+      },
+      {
+        "text": "Schemi non sempre determinanti per lo stare bene in acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "I fattori della prestazione sono",
+    "answers": [
+      {
+        "text": "Forza, resistenza, velocità",
+        "correct": false
+      },
+      {
+        "text": "Centrati sulla mobilità articolare e la forza",
+        "correct": false
+      },
+      {
+        "text": "Coordinazione, Condizione, Costituzione, Capacità",
+        "correct": false
+      },
+      {
+        "text": "Coordinazione, Costituzione, Condizione, Controllo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "I meccanismi preposti alla risintesi dell’ATP sono",
+    "answers": [
+      {
+        "text": "Infiniti",
+        "correct": false
+      },
+      {
+        "text": "Relazionabili all’età dell’atleta",
+        "correct": false
+      },
+      {
+        "text": "Due",
+        "correct": false
+      },
+      {
+        "text": "Tre",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "I parametri del carico sono",
+    "answers": [
+      {
+        "text": "Ampiezza, continuità e ritmo",
+        "correct": false
+      },
+      {
+        "text": "Intensità, densità, durata, volume: anche se il volume è il parametro prioritario di importanza",
+        "correct": false
+      },
+      {
+        "text": "Intensità, densità, durata, volume: con priorità uguali di importanza",
+        "correct": true
+      },
+      {
+        "text": "Nella scuola nuoto non ci si deve porre il problema",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "I preadolescenti, dal punto di vista del sistema cardio-circolatorio, sono caratterizzati da",
+    "answers": [
+      {
+        "text": "Una scarsa capacità di adattamento",
+        "correct": false
+      },
+      {
+        "text": "Nessuna capacità di adattamento",
+        "correct": false
+      },
+      {
+        "text": "Buone capacità di adattamento",
+        "correct": true
+      },
+      {
+        "text": "Buone capacità di adattamento ma solo nei maschi",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Il beccheggio è",
+    "answers": [
+      {
+        "text": "Il movimento attorno all’asse sagittale",
+        "correct": false
+      },
+      {
+        "text": "Il movimento attorno all’asse trasversale",
+        "correct": true
+      },
+      {
+        "text": "Il movimento attorno all’asse longitudinale",
+        "correct": false
+      },
+      {
+        "text": "L’ondulazione del corpo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il carico esterno è misurabile con",
+    "answers": [
+      {
+        "text": "Metri percorsi",
+        "correct": true
+      },
+      {
+        "text": "Frequenza cardiaca",
+        "correct": false
+      },
+      {
+        "text": "Intensità dello sforzo",
+        "correct": false
+      },
+      {
+        "text": "Intertempi di percorrenza",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il carico fisico è",
+    "answers": [
+      {
+        "text": "L’insieme degli stimoli di allenamento che non provocano la risposta adattativa dell’organismo",
+        "correct": false
+      },
+      {
+        "text": "L’insieme degli stimoli di allenamento",
+        "correct": true
+      },
+      {
+        "text": "stimoli di allenamento che non fanno riferimento all’intervallo di recupero",
+        "correct": false
+      },
+      {
+        "text": "L’insieme degli stimoli di allenamento che non fanno riferimento alla frequenza settimanale",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il galleggiamento del corpo avviene quando",
+    "answers": [
+      {
+        "text": "Il suo peso specifico è minore del peso specifico dell’acqua",
+        "correct": true
+      },
+      {
+        "text": "Il suo peso specifico è maggiore del peso specifico dell’acqua",
+        "correct": false
+      },
+      {
+        "text": "Si esercita una pressione verso il basso utilizzando movimenti di remata",
+        "correct": false
+      },
+      {
+        "text": "Vengono applicati sostegni al baricentro",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il massimo livello di coordinazione è",
+    "answers": [
+      {
+        "text": "Quello che ci permette di nuotare lunghe distanze",
+        "correct": false
+      },
+      {
+        "text": "Quello stabilito dal regolamento tecnico",
+        "correct": false
+      },
+      {
+        "text": "Quello che consente nuovi e più fini movimenti",
+        "correct": true
+      },
+      {
+        "text": "Quello che si riscontra nella fase della coordinazione grezza",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Il meccanismo anaerobico alattacido",
+    "answers": [
+      {
+        "text": "Interessa i substrati ATP+CP",
+        "correct": true
+      },
+      {
+        "text": "Ha durata di 20 secondi",
+        "correct": false
+      },
+      {
+        "text": "Riguarda la minima potenza energetica",
+        "correct": false
+      },
+      {
+        "text": "Se interessa la scissione del glicogeno dura circa 20-30 minuti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il meccanismo energetico aerobico interviene prevalentemente",
+    "answers": [
+      {
+        "text": "Nei lavori di lunga durata e intensità moderata",
+        "correct": true
+      },
+      {
+        "text": "Nei lavori di breve durata e intensità elevata",
+        "correct": false
+      },
+      {
+        "text": "Nei tuffi",
+        "correct": false
+      },
+      {
+        "text": "Nelle apnee",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il metabolismo aerobico",
+    "answers": [
+      {
+        "text": "Utilizza la fosfocreatina",
+        "correct": false
+      },
+      {
+        "text": "Necessita della presenza di ossigeno",
+        "correct": true
+      },
+      {
+        "text": "Produce acido lattico",
+        "correct": false
+      },
+      {
+        "text": "È tipico degli sport di brevissima e breve durata",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il movimento volontario in acqua",
+    "answers": [
+      {
+        "text": "Non è soggetto alla forza di gravità, è generato da agonisti e antagonisti, è frenato dalla resistenza in acqua",
+        "correct": true
+      },
+      {
+        "text": "È soggetto alla forza di gravità, è generato dai muscoli agonisti, non è frenato dalla resistenza in acqua",
+        "correct": false
+      },
+      {
+        "text": "Ha le stesse caratteristiche di quello sulla terraferma",
+        "correct": false
+      },
+      {
+        "text": "È soggetto alla forza di gravità, è controllato dal muscolo controgravitario, la contrazione è maggiore all’inizio del movimento",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il perfezionamento della tecnica si propone di",
+    "answers": [
+      {
+        "text": "Rendere più armonico il gesto natatorio",
+        "correct": false
+      },
+      {
+        "text": "Aumentare l’efficacia della propulsione",
+        "correct": true
+      },
+      {
+        "text": "Rendere lo stile più adeguato al regolamento federale",
+        "correct": false
+      },
+      {
+        "text": "Rendere la nuotata esteticamente gradevole",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il principio di Archimede dice che",
+    "answers": [
+      {
+        "text": "Ad ogni azione corrisponde una reazione uguale e contraria",
+        "correct": false
+      },
+      {
+        "text": "E=mc 2",
+        "correct": false
+      },
+      {
+        "text": "Quando avviene un aumento nella pressione in un punto di un fluido confinato, tale aumento viene trasmesso anche ad ogni punto del contenitore",
+        "correct": false
+      },
+      {
+        "text": "Un corpo immerso in un fluido riceve una spinta verticale, dal basso verso l’alto, pari al peso del fluido da esso spostato",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il progressivo incremento del carico, in generale, come deve avvenire?",
+    "answers": [
+      {
+        "text": "Prima aumenta l’intensità, poi il volume",
+        "correct": false
+      },
+      {
+        "text": "Prima aumenta il volume, poi l’intensità",
+        "correct": true
+      },
+      {
+        "text": "Prima aumenta la densità, poi il volume",
+        "correct": false
+      },
+      {
+        "text": "Intensità e volume aumentano contemporaneamente e in uguale misura",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Il rendimento meccanico di un notatore evoluto è circa: #####",
+    "answers": [
+      {
+        "text": "1,0-1.2% #####",
+        "correct": false
+      },
+      {
+        "text": "2,0-2,4% #####",
+        "correct": false
+      },
+      {
+        "text": "10,0-12,0% #####",
+        "correct": true
+      },
+      {
+        "text": "20,0-24,0%",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Il rollio è",
+    "answers": [
+      {
+        "text": "L’ondulazione del corpo",
+        "correct": false
+      },
+      {
+        "text": "Il movimento attorno all’asse sagittale",
+        "correct": false
+      },
+      {
+        "text": "Il movimento attorno all’asse trasversale",
+        "correct": false
+      },
+      {
+        "text": "Il movimento attorno all’asse longitudinale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il rollio nello stile libero",
+    "answers": [
+      {
+        "text": "Si effettua sempre",
+        "correct": true
+      },
+      {
+        "text": "Si effettua solo nelle distanze lunghe",
+        "correct": false
+      },
+      {
+        "text": "Si effettua solo nelle distanze brevi",
+        "correct": false
+      },
+      {
+        "text": "Si effettua solo se la coordinazione è due colpi di gambe per un ciclo di bracciata",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Il talento sportivo dipende da",
+    "answers": [
+      {
+        "text": "Incremento delle capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Nurturing neonatale",
+        "correct": false
+      },
+      {
+        "text": "Esclusivamente dall’affinamento della tecnica delle nuotate",
+        "correct": false
+      },
+      {
+        "text": "Sviluppo di senso percezione, coordinazione e tecnica",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "In che modo è possibile definire il carico interno determinato da un’esercitazione?",
+    "answers": [
+      {
+        "text": "Attraverso il numero delle ripetizioni del singolo esercizio",
+        "correct": false
+      },
+      {
+        "text": "Attraverso una RMF",
+        "correct": false
+      },
+      {
+        "text": "Attraverso il calcolo delle frequenze di bracciata",
+        "correct": false
+      },
+      {
+        "text": "Attraverso il calcolo della frequenza cardiaca",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "In che relazione devono essere quantità ed intensità in un buon allenamento?",
+    "answers": [
+      {
+        "text": "Elevata Intensità ed elevata quantità",
+        "correct": false
+      },
+      {
+        "text": "Ridotta Intensità ed elevata quantità",
+        "correct": true
+      },
+      {
+        "text": "Ridotta Intensità e ridotta quantità",
+        "correct": false
+      },
+      {
+        "text": "Non hanno alcuna relazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In cosa consiste lo schema corporeo?",
+    "answers": [
+      {
+        "text": "La percezione del proprio corpo nello spazio e nel tempo",
+        "correct": false
+      },
+      {
+        "text": "Un’immagine di sé, vera rappresentazione topologica del corpo nello spazio",
+        "correct": false
+      },
+      {
+        "text": "In una rappresentazione anatomicamente dettagliata del corpo dell’allievo",
+        "correct": false
+      },
+      {
+        "text": "Una rappresentazione cognitiva della posizione e dell’estensione del corpo nello spazio, dell’organizzazione gerarchica dei singoli segmenti corporei, in relazione ai dati provenienti dal mondo interno ed esterno, finalizzata all’organizzazione dell’azione nello spazio",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "In quale dei seguenti allenamenti si utilizza il sistema energetico anaerobico alattacido? #####",
+    "answers": [
+      {
+        "text": "C3 #####",
+        "correct": true
+      },
+      {
+        "text": "B1 #####",
+        "correct": false
+      },
+      {
+        "text": "A2 #####",
+        "correct": false
+      },
+      {
+        "text": "C2",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In quale fascia d’età si sviluppa la forza rapida?",
+    "answers": [
+      {
+        "text": "Tra i 5 e gli 8 anni",
+        "correct": false
+      },
+      {
+        "text": "Tra gli 8 e i 12 anni",
+        "correct": true
+      },
+      {
+        "text": "Tra i 12 e i 16 anni",
+        "correct": false
+      },
+      {
+        "text": "Oltre i 16 anni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In quale fascia di età è consigliabile sviluppare le capacità coordinative?",
+    "answers": [
+      {
+        "text": "Dai 16 anni in poi",
+        "correct": false
+      },
+      {
+        "text": "Dai 6 agli 11 anni",
+        "correct": true
+      },
+      {
+        "text": "Dagli 0 ai 5 anni",
+        "correct": false
+      },
+      {
+        "text": "Non c’è un periodo particolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "In regime di C1 si lavora su",
+    "answers": [
+      {
+        "text": "Intensità intorno alla soglia anaerobica",
+        "correct": false
+      },
+      {
+        "text": "Picco di lattato",
+        "correct": false
+      },
+      {
+        "text": "Tolleranza al lattato",
+        "correct": true
+      },
+      {
+        "text": "Intensità intorno al massimo consumo di ossigeno",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In una gara a farfalla è possibile nuotare sul fianco?",
+    "answers": [
+      {
+        "text": "Sì",
+        "correct": false
+      },
+      {
+        "text": "No",
+        "correct": false
+      },
+      {
+        "text": "Solo nella vasca di ritorno",
+        "correct": false
+      },
+      {
+        "text": "Solo nella fase subacquea",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Individuare a quale concetto corrisponde la seguente definizione: sono le capacità di dosare, ottimizzare ed adattare il comportamento dell’uomo nello svolgere diversi compiti motori, mediante l’opportuna distribuzione temporale e spaziale degli impegni muscolari, in accordo alle sue capacità condizionali",
+    "answers": [
+      {
+        "text": "Le capacità cinestesiche",
+        "correct": false
+      },
+      {
+        "text": "Gli analizzatori",
+        "correct": false
+      },
+      {
+        "text": "Le fasi sensibili",
+        "correct": false
+      },
+      {
+        "text": "Le capacità coordinative",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Inspirazione ed espirazione hanno gli stessi tempi esecutivi in acqua?",
+    "answers": [
+      {
+        "text": "Sì, sempre",
+        "correct": false
+      },
+      {
+        "text": "Dipende dagli stili",
+        "correct": false
+      },
+      {
+        "text": "No, l’inspirazione ha un tempo minore",
+        "correct": true
+      },
+      {
+        "text": "No, l’espirazione ha un tempo minore",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "L’allenamento giovanile, in particolare per gli Esordienti B, è finalizzato",
+    "answers": [
+      {
+        "text": "Al raggiungimento della performance",
+        "correct": false
+      },
+      {
+        "text": "All’incremento delle capacità coordinative",
+        "correct": true
+      },
+      {
+        "text": "Al perfezionamento della tecnica",
+        "correct": false
+      },
+      {
+        "text": "Alla convocazione nelle rappresentative regionali",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’allenamento specifico della forza può iniziare",
+    "answers": [
+      {
+        "text": "Mai",
+        "correct": false
+      },
+      {
+        "text": "A 8 – 10 anni",
+        "correct": false
+      },
+      {
+        "text": "A 11 – 12 anni",
+        "correct": false
+      },
+      {
+        "text": "A 13 – 15 anni",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’apprendimento della tecnica è influenzato da fattori",
+    "answers": [
+      {
+        "text": "Coordinativi e condizionali",
+        "correct": true
+      },
+      {
+        "text": "Interni ed esterni",
+        "correct": false
+      },
+      {
+        "text": "Muscolari ed organici",
+        "correct": false
+      },
+      {
+        "text": "Alimentari e psicologici",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’apprendimento motorio passa attraverso tre fasi",
+    "answers": [
+      {
+        "text": "Fase della coordinazione grezza, coordinazione globale e coordinazione disponibile",
+        "correct": false
+      },
+      {
+        "text": "Fase della coordinazione grezza, coordinazione fine e disponibilità variabile",
+        "correct": true
+      },
+      {
+        "text": "Fase della coordinazione grezza, coordinazione globale e coordinazione analitica",
+        "correct": false
+      },
+      {
+        "text": "Fase della costituzione – condizione – coordinazione - controllo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’attivazione di un sistema energetico piuttosto che un altro dipende",
+    "answers": [
+      {
+        "text": "Dal livello di allenamento",
+        "correct": false
+      },
+      {
+        "text": "Dalla produzione di adrenalina",
+        "correct": false
+      },
+      {
+        "text": "Dal momento della giornata",
+        "correct": false
+      },
+      {
+        "text": "Dalle caratteristiche dell’esercizio fisico e dallo stato nutrizionale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’attività sportiva per l’adolescente può",
+    "answers": [
+      {
+        "text": "Essere considerata uno svago",
+        "correct": false
+      },
+      {
+        "text": "Avere influenza sul piano fisico ma non su quello cognitivo",
+        "correct": false
+      },
+      {
+        "text": "Migliorare l’immagine corporea",
+        "correct": true
+      },
+      {
+        "text": "(Solo negli sport di squadra) Sviluppare l’ambito socio-affettivo e relazionale",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "L’equilibrio in acqua si ottiene",
+    "answers": [
+      {
+        "text": "Mantenendo una posizione consona e reagendo allo squilibrio con una contrazione contro laterale",
+        "correct": false
+      },
+      {
+        "text": "Con la frequenza di un corso intensivo",
+        "correct": false
+      },
+      {
+        "text": "In posizione verticale in rilassamento generale in altre posizioni opportune mantenendo una posizione consona",
+        "correct": true
+      },
+      {
+        "text": "Solo in galleggiamento prono e supino",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "L’equilibrio",
+    "answers": [
+      {
+        "text": "È la capacità di eseguire un compito motorio mantenendo il corpo in equilibrio statico",
+        "correct": false
+      },
+      {
+        "text": "È la capacità di eseguire un compito motorio mantenendo il corpo in equilibrio dinamico",
+        "correct": false
+      },
+      {
+        "text": "È regolato prevalentemente dalle informazioni dell’analizzatore cinestesico e tattile",
+        "correct": false
+      },
+      {
+        "text": "È regolato prevalentemente dalle informazioni dell’analizzatore ottico e vestibolare",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’errore sportivo è",
+    "answers": [
+      {
+        "text": "L’esecuzione involontariamente diversa dalla richiesta tecnica avuta",
+        "correct": false
+      },
+      {
+        "text": "Il risultato di una distrazione",
+        "correct": false
+      },
+      {
+        "text": "L’allontanamento dal modello prestativo",
+        "correct": true
+      },
+      {
+        "text": "L’interpretazione non corretta della richiesta tecnica",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "L’espressione motoria tipica dei bambini e dei preadolescenti è",
+    "answers": [
+      {
+        "text": "La rapidità",
+        "correct": true
+      },
+      {
+        "text": "La forza",
+        "correct": false
+      },
+      {
+        "text": "La tenacia",
+        "correct": false
+      },
+      {
+        "text": "La resistenza",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’insieme delle strutture cerebrali deputate al controllo del movimento si chiama",
+    "answers": [
+      {
+        "text": "Sistema di raccolta, progettazione e regolazione del movimento",
+        "correct": false
+      },
+      {
+        "text": "Sistema sensibile",
+        "correct": false
+      },
+      {
+        "text": "Sistema olistico",
+        "correct": false
+      },
+      {
+        "text": "Sistema sensomotorio",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’interruzione della battuta di gambe a crawl è solitamente imputabile a",
+    "answers": [
+      {
+        "text": "Limitata rotazione spalle durante la respirazione che provoca la rotazione dell’anca con conseguente incrocio delle gambe",
+        "correct": false
+      },
+      {
+        "text": "Pigrizia mentale del nuotatore",
+        "correct": false
+      },
+      {
+        "text": "Mancanza di coordinazione braccia/gambe",
+        "correct": true
+      },
+      {
+        "text": "Minore propulsione della bracciata",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "L’ontogenesi della motricità si compone di due fasi, quali?",
+    "answers": [
+      {
+        "text": "Maturazione anatomica – maturazione funzionale",
+        "correct": true
+      },
+      {
+        "text": "Maturazione organica – maturazione psichica",
+        "correct": false
+      },
+      {
+        "text": "Maturazione biologica – maturazione chimico-fisica",
+        "correct": false
+      },
+      {
+        "text": "Maturazione endogena – maturazione esogena",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’organizzazione delle sensazioni relative al proprio corpo in rapporto con i dati del mondo esterno definisce",
+    "answers": [
+      {
+        "text": "Lo schema corporeo",
+        "correct": true
+      },
+      {
+        "text": "Le capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Lo schema motorio",
+        "correct": false
+      },
+      {
+        "text": "L’età biologica",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La coordinazione è la capacità di",
+    "answers": [
+      {
+        "text": "Mantenere o riacquistare con il corpo una posizione stabile in differenti situazioni statiche o dinamiche",
+        "correct": false
+      },
+      {
+        "text": "Compiere atti motori utilizzando la massima escursione articolare",
+        "correct": false
+      },
+      {
+        "text": "Regolare e dosare il complesso degli impegni muscolari onde ottenere l’azione con rapidità, precisione e armonia",
+        "correct": true
+      },
+      {
+        "text": "Ottimizzare il rapporto peso/potenza",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La differenziazione cinestesica è",
+    "answers": [
+      {
+        "text": "Un particolare analizzatore",
+        "correct": false
+      },
+      {
+        "text": "Una capacità condizionale non sempre allenabile",
+        "correct": false
+      },
+      {
+        "text": "Una capacità coordinativa speciale",
+        "correct": true
+      },
+      {
+        "text": "Una capacità coordinativa generale",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La diminuzione della frequenza cardiaca a riposo è sinonimo di",
+    "answers": [
+      {
+        "text": "Uno stato di affaticamento",
+        "correct": false
+      },
+      {
+        "text": "Un incombente collasso cardiocircolatorio",
+        "correct": false
+      },
+      {
+        "text": "Una migliore efficienza funzionale",
+        "correct": true
+      },
+      {
+        "text": "Una aumentata diffusione periferica del plasma",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La fase della coordinazione fine",
+    "answers": [
+      {
+        "text": "Consente un movimento più fluido, armonico e compiuto",
+        "correct": true
+      },
+      {
+        "text": "Non conosce momenti di stasi",
+        "correct": false
+      },
+      {
+        "text": "Non è influenzata da fattori di disturbo",
+        "correct": false
+      },
+      {
+        "text": "È l’ultimo stadio del processo di apprendimento",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La fase della coordinazione grezza",
+    "answers": [
+      {
+        "text": "È caratterizzata dall’attività di comprensione del compito motorio",
+        "correct": true
+      },
+      {
+        "text": "Non è subordinata alla dimostrazione pratica",
+        "correct": false
+      },
+      {
+        "text": "Migliora se non si effettuano ripetizioni riuscite e corrette",
+        "correct": false
+      },
+      {
+        "text": "È secondo una capacità coordinativa speciale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La fase della disponibilità variabile è",
+    "answers": [
+      {
+        "text": "La fase in cui la rappresentazione del movimento diventa più completa",
+        "correct": false
+      },
+      {
+        "text": "L’ultimo stadio del processo di apprendimento",
+        "correct": true
+      },
+      {
+        "text": "Lo stadio intermedio in cui è importante variare la disponibilità delle proprie abilità",
+        "correct": false
+      },
+      {
+        "text": "La fase in cui viene, erroneamente, automatizzato l’errore",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La formazione di abilità motorie contribuisce a sviluppare le capacità coordinative?",
+    "answers": [
+      {
+        "text": "Solo nell’apprendimento delle tecniche",
+        "correct": false
+      },
+      {
+        "text": "Sì, in base alle fasi sensibili",
+        "correct": false
+      },
+      {
+        "text": "Sempre, in ogni caso",
+        "correct": true
+      },
+      {
+        "text": "No, le capacità coordinative si sviluppano in modo autonomo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La forza è",
+    "answers": [
+      {
+        "text": "Una capacità condizionale",
+        "correct": true
+      },
+      {
+        "text": "Una capacità coordinativa",
+        "correct": false
+      },
+      {
+        "text": "Una caratteristica genetica",
+        "correct": false
+      },
+      {
+        "text": "Una capacità mista",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La forza può essere",
+    "answers": [
+      {
+        "text": "Coordinata, psicologica, breve",
+        "correct": false
+      },
+      {
+        "text": "Intensa, lieve, media",
+        "correct": false
+      },
+      {
+        "text": "Condizionale, motoria, tenue",
+        "correct": false
+      },
+      {
+        "text": "Massimale, resistente, veloce",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La frequenza cardiaca",
+    "answers": [
+      {
+        "text": "Va controllata perché aiuta a valutare il diverso grado di affaticamento degli allievi",
+        "correct": true
+      },
+      {
+        "text": "Deve rimanere ai livelli elevati durante tutta la lezione",
+        "correct": false
+      },
+      {
+        "text": "Deve rimanere a livelli simili a quelli che di hanno durante il riposo",
+        "correct": false
+      },
+      {
+        "text": "È uguale per tutti i soggetti che effettuano gli stessi esercizi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La lentezza della nuotata a rana è prevalentemente dovuta a",
+    "answers": [
+      {
+        "text": "Extrarotazione dei piedi durante il colpo di gambe",
+        "correct": false
+      },
+      {
+        "text": "Mancanza della fase di spinta degli arti inferiori",
+        "correct": false
+      },
+      {
+        "text": "Recupero subacqueo degli arti inferiori",
+        "correct": false
+      },
+      {
+        "text": "Alternanza delle azioni propulsive su un assetto di galleggiamento non ideale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La mobilità articolare è",
+    "answers": [
+      {
+        "text": "L’esecuzione veloce di movimenti ampi",
+        "correct": false
+      },
+      {
+        "text": "La capacità di eseguire movimenti con la massima ampiezza",
+        "correct": true
+      },
+      {
+        "text": "La capacità di eseguire movimenti con la massima velocità",
+        "correct": false
+      },
+      {
+        "text": "Una circostanza che aumenta l’economia del gesto e facilita l’affaticamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La mobilità articolare è",
+    "answers": [
+      {
+        "text": "La capacità di compiere azioni rapidamente",
+        "correct": false
+      },
+      {
+        "text": "La capacità di compiere gesti con la massima escursione",
+        "correct": true
+      },
+      {
+        "text": "La capacità di muovere gli arti singolarmente",
+        "correct": false
+      },
+      {
+        "text": "La capacità d vincere una resistenza in un tempo breve",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La motivazione",
+    "answers": [
+      {
+        "text": "È alla base dell’apprendimento",
+        "correct": true
+      },
+      {
+        "text": "È legata all’età dell’individuo",
+        "correct": false
+      },
+      {
+        "text": "Non conosce fattori inibenti",
+        "correct": false
+      },
+      {
+        "text": "Può essere trascurata relativamente all’apprendimento tecnico",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La motricità si basa",
+    "answers": [
+      {
+        "text": "Sulle funzioni del SNC e degli organi di senso",
+        "correct": true
+      },
+      {
+        "text": "Sull’attività della muscolatura",
+        "correct": false
+      },
+      {
+        "text": "Sull’intelligenza speculativa",
+        "correct": false
+      },
+      {
+        "text": "Sulle funzioni organiche e muscolari",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La multilateralità può essere di tipo",
+    "answers": [
+      {
+        "text": "Simbolico",
+        "correct": false
+      },
+      {
+        "text": "Motorio e propedeutico",
+        "correct": false
+      },
+      {
+        "text": "Proteico",
+        "correct": false
+      },
+      {
+        "text": "Generale e mirato",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La multilateralità può essere salvaguardata, durante l’allenamento",
+    "answers": [
+      {
+        "text": "Attraverso esercizi che prevedano il nuoto in tutti gli stili",
+        "correct": false
+      },
+      {
+        "text": "Attraverso la sintesi di due principi : ricchezza di mezzi e alternanza di esercizi",
+        "correct": true
+      },
+      {
+        "text": "Facendo nuotare ai giovani tutte le distanze a stile libero",
+        "correct": false
+      },
+      {
+        "text": "Attraverso l’utilizzo di serie di allenamento molto frazionate",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La percezione è",
+    "answers": [
+      {
+        "text": "La funzione che ci permette di raccogliere informazioni relative a ciò che succede dentro il nostro corpo e a quello che succede all’esterno",
+        "correct": true
+      },
+      {
+        "text": "La stimolazione sensoriale che non raggiunge i livelli della coscienza",
+        "correct": false
+      },
+      {
+        "text": "La funzione che indica il livello di tensione di un muscolo scheletrico",
+        "correct": false
+      },
+      {
+        "text": "Una capacità coordinativa speciale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La prestazione motoria dipende da",
+    "answers": [
+      {
+        "text": "Costituzione, condizione, coordinazione e valutazione",
+        "correct": false
+      },
+      {
+        "text": "Costituzione, condizione, sperequazione e controllo",
+        "correct": false
+      },
+      {
+        "text": "Costituzione, valutazione, sperequazione e coordinazione",
+        "correct": false
+      },
+      {
+        "text": "Costituzione, condizione, coordinazione e controllo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La programmazione consente di",
+    "answers": [
+      {
+        "text": "Definire procedure e mezzi per favorire l’apprendimento",
+        "correct": true
+      },
+      {
+        "text": "Definire la crescita della personalità dell’allievo",
+        "correct": false
+      },
+      {
+        "text": "Abbreviare la progressione didattica",
+        "correct": false
+      },
+      {
+        "text": "Programmare un ruolo più attivo dell’allievo più dotato",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La resistenza d’onda è dovuta",
+    "answers": [
+      {
+        "text": "Alla particolare resistenza della superficie dell’acqua.",
+        "correct": false
+      },
+      {
+        "text": "Ai movimenti circolari dell’acqua che risucchiano il corpo.",
+        "correct": false
+      },
+      {
+        "text": "Ai movimenti superficiali dell’acqua che condizionano l’avanzata. del corpo",
+        "correct": true
+      },
+      {
+        "text": "Alla percentuale di massa grassa del nuotatore",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La resistenza di attrito è dovuta",
+    "answers": [
+      {
+        "text": "Alla superficie del piano perpendicolare all’asse di avanzamento",
+        "correct": false
+      },
+      {
+        "text": "Allo sfregamento del corpo con le molecole d’acqua",
+        "correct": true
+      },
+      {
+        "text": "Ai movimenti superficiali dell’acqua che condizionano l’avanzata. del corpo",
+        "correct": false
+      },
+      {
+        "text": "Alla percentuale di massa grassa del nuotatore",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La resistenza di superficie o tensione superficiale è dovuta",
+    "answers": [
+      {
+        "text": "Alla particolare resistenza della superficie dell’acqua",
+        "correct": true
+      },
+      {
+        "text": "Ai movimenti circolari dell’acqua che risucchiano il corpo",
+        "correct": false
+      },
+      {
+        "text": "Allo sfregamento del corpo con le molecole d’acqua",
+        "correct": false
+      },
+      {
+        "text": "Alla percentuale di massa grassa del nuotatore",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La resistenza di vortice, o turbolenza, è dovuta",
+    "answers": [
+      {
+        "text": "Alla superficie del piano perpendicolare all’asse di avanzamento",
+        "correct": false
+      },
+      {
+        "text": "Ai movimenti circolari dell’acqua che risucchiano il corpo",
+        "correct": true
+      },
+      {
+        "text": "Ai movimenti superficiali dell’acqua che condizionano l’avanzata del corpo",
+        "correct": false
+      },
+      {
+        "text": "Alla percentuale di massa grassa del nuotatore",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La resistenza è",
+    "answers": [
+      {
+        "text": "Una capacità coordinativa",
+        "correct": false
+      },
+      {
+        "text": "Una capacità condizionale",
+        "correct": true
+      },
+      {
+        "text": "Una condizione psicomotoria",
+        "correct": false
+      },
+      {
+        "text": "Una tecnica psicologica",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La resistenza frontale all’avanzamento in acqua è dovuta",
+    "answers": [
+      {
+        "text": "Alla superficie del piano perpendicolare all’asse di avanzamento",
+        "correct": true
+      },
+      {
+        "text": "Alla particolare resistenza della superficie dell’acqua",
+        "correct": false
+      },
+      {
+        "text": "Ai movimenti circolari dell’acqua che risucchiano il corpo",
+        "correct": false
+      },
+      {
+        "text": "Alla tipologia di prodotti usati per la clorazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La resistenza frontale, raddoppiando la velocità di avanzamento, aumenta di",
+    "answers": [
+      {
+        "text": "2 volte",
+        "correct": false
+      },
+      {
+        "text": "3 volte",
+        "correct": false
+      },
+      {
+        "text": "4 volte",
+        "correct": true
+      },
+      {
+        "text": "8volte",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La sensazione è",
+    "answers": [
+      {
+        "text": "La è la funzione che ci permette di raccogliere informazioni relative a ciò che succede dentro il nostro corpo e a quello che succede all’esterno",
+        "correct": false
+      },
+      {
+        "text": "Una componente della prestazione",
+        "correct": false
+      },
+      {
+        "text": "La stimolazione sensoriale che non raggiunge i livelli della coscienza",
+        "correct": true
+      },
+      {
+        "text": "La premonizione di eventi futuri",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La sensopercezione è",
+    "answers": [
+      {
+        "text": "Un’attività conoscitiva che permette di percepire gli stimoli provenienti dagli analizzatori",
+        "correct": true
+      },
+      {
+        "text": "Un esercizio per migliorare la sensibilità degli allievi",
+        "correct": false
+      },
+      {
+        "text": "Una capacità condizionale",
+        "correct": false
+      },
+      {
+        "text": "Un insieme di stimoli atti a migliorare la prestazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La spinta di galleggiamento è",
+    "answers": [
+      {
+        "text": "La forza applicata al baricentro",
+        "correct": false
+      },
+      {
+        "text": "La forza applicata al centro di galleggiamento",
+        "correct": true
+      },
+      {
+        "text": "La combinazione tra forza di gravità e peso corporeo",
+        "correct": false
+      },
+      {
+        "text": "La forza espressa dalla gambata",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La supercompensazione è",
+    "answers": [
+      {
+        "text": "Un processo mediante il quale il disagio provoca una situazione di fatica , cui segue una reazione ricostruttiva che supera la fatica precedente",
+        "correct": false
+      },
+      {
+        "text": "Un processo in relazione al quale tutte le fatiche vengono superate attraverso stimolazioni muscolari",
+        "correct": false
+      },
+      {
+        "text": "Un processo di ricostruzione dello stimolo a seguito di carichi di lavoro di tipo C2",
+        "correct": false
+      },
+      {
+        "text": "Il processo mediante il quale lo stimolo provoca una condizione di disagio (la fatica), cui segue una reazione ricostruttiva che supera il livello precedente alla stimolazione",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La tecnica della nuotata a dorso prevede che",
+    "answers": [
+      {
+        "text": "Le braccia siano perfettamente opposte",
+        "correct": false
+      },
+      {
+        "text": "Un braccio entri in acqua prima dell’inizio della parte finale di spinta dell’altro",
+        "correct": true
+      },
+      {
+        "text": "La velocità condizioni le fasi della bracciata",
+        "correct": false
+      },
+      {
+        "text": "Siano deliberamente escluse esercitazioni sulla respirazione (il capo è emerso)",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La tecnica di partenza denominata track start permette",
+    "answers": [
+      {
+        "text": "Di aggrappare entrambi i piedi al blocco",
+        "correct": false
+      },
+      {
+        "text": "Un movimento più spettacolare",
+        "correct": false
+      },
+      {
+        "text": "Di avere più equilibrio sul blocco",
+        "correct": true
+      },
+      {
+        "text": "Di applicare la spinta per un tempo più lungo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La tecnica natatoria ottimale è",
+    "answers": [
+      {
+        "text": "Stabile nella struttura e variabile nei dettagli",
+        "correct": true
+      },
+      {
+        "text": "Stabile nei dettagli e variabile nella struttura",
+        "correct": false
+      },
+      {
+        "text": "Stabile nella struttura e nei dettagli",
+        "correct": false
+      },
+      {
+        "text": "Variabile nella struttura e nei dettagli",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La track start è",
+    "answers": [
+      {
+        "text": "Un movimento che nella pallanuoto serve a smarcarsi",
+        "correct": false
+      },
+      {
+        "text": "Il passaggio di posizione da gambe allungate a gambe fuori nel nuoto sincronizzato",
+        "correct": false
+      },
+      {
+        "text": "La partenza dal blocco dove i piedi non sono allineati",
+        "correct": true
+      },
+      {
+        "text": "Una presa per il trasporto del manichino nel salvamento sportivo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La variazione di un esercizio in una progressione didattica stimola maggiormente le capacità",
+    "answers": [
+      {
+        "text": "Vestibolari",
+        "correct": false
+      },
+      {
+        "text": "Coordinative",
+        "correct": true
+      },
+      {
+        "text": "Visive",
+        "correct": false
+      },
+      {
+        "text": "Condizionali",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "La velocità di una bracciata a crawl è",
+    "answers": [
+      {
+        "text": "Non misurabile",
+        "correct": false
+      },
+      {
+        "text": "La stessa in ogni fase",
+        "correct": false
+      },
+      {
+        "text": "Progressivamente accelerata",
+        "correct": true
+      },
+      {
+        "text": "Progressivamente decelerata",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "La velocità è",
+    "answers": [
+      {
+        "text": "La capacità di eseguire un gesto nel minor tempo possibile",
+        "correct": true
+      },
+      {
+        "text": "La capacità che ci permette di essere rapidi",
+        "correct": false
+      },
+      {
+        "text": "La capacità che ci permette di coordinare i movimenti",
+        "correct": false
+      },
+      {
+        "text": "Una capacità coordinativi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le capacità condizionali dipendono principalmente",
+    "answers": [
+      {
+        "text": "Da aspetti di tipo fisiologico, energetico, biochimico",
+        "correct": false
+      },
+      {
+        "text": "Da aspetti neuronali dettati dal sistema nervoso centrale",
+        "correct": false
+      },
+      {
+        "text": "Da aspetti socio-educativi",
+        "correct": false
+      },
+      {
+        "text": "Da aspetti energetici, biologici, fisiologici e coordinativi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le capacità condizionali si sviluppano",
+    "answers": [
+      {
+        "text": "Da appena nati",
+        "correct": false
+      },
+      {
+        "text": "Dai 10 anni",
+        "correct": true
+      },
+      {
+        "text": "Dai 4 ai 10 anni",
+        "correct": false
+      },
+      {
+        "text": "Esclusivamente in età adulta",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le capacità condizionali sono capacità fisiche determinate da",
+    "answers": [
+      {
+        "text": "Fattori energetici",
+        "correct": true
+      },
+      {
+        "text": "Fattori psicologici",
+        "correct": false
+      },
+      {
+        "text": "Fattori antropologici",
+        "correct": false
+      },
+      {
+        "text": "Fattori neurologici",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le capacità coordinative devono essere esercitate a partire da",
+    "answers": [
+      {
+        "text": "8 anni",
+        "correct": false
+      },
+      {
+        "text": "5/6 anni",
+        "correct": true
+      },
+      {
+        "text": "12 anni",
+        "correct": false
+      },
+      {
+        "text": "10 anni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le capacità coordinative dipendono",
+    "answers": [
+      {
+        "text": "Dalla sensibilità muscolare",
+        "correct": false
+      },
+      {
+        "text": "Dalla funzionalità del sistema nervoso",
+        "correct": true
+      },
+      {
+        "text": "Dall’apparato cardiocorcolatorio",
+        "correct": false
+      },
+      {
+        "text": "Dall’età biologica",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le capacità coordinative generali riguardano",
+    "answers": [
+      {
+        "text": "Forza, resistenza, velocità",
+        "correct": false
+      },
+      {
+        "text": "Orientamento, ritmo, mobilità articolare",
+        "correct": false
+      },
+      {
+        "text": "Destrezza, equilibrio, elasticità dei movimenti",
+        "correct": false
+      },
+      {
+        "text": "Apprendimento, controllo, trasformazione dei movimenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le capacità coordinative",
+    "answers": [
+      {
+        "text": "Controllano, regolano ed organizzano il movimento",
+        "correct": true
+      },
+      {
+        "text": "Sono legate ad aspetti antropometrici ed energetici",
+        "correct": false
+      },
+      {
+        "text": "Sono legate al sistema nervoso centrale ma non periferico",
+        "correct": false
+      },
+      {
+        "text": "Controllano primariamente il movimento di arti inferiori e superiori",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Le capacità motorie sono classificate in",
+    "answers": [
+      {
+        "text": "Coordinative, compensative, condizionali",
+        "correct": false
+      },
+      {
+        "text": "Coordinative e condizionali",
+        "correct": false
+      },
+      {
+        "text": "Coordinative, condizionali ed intermedie",
+        "correct": true
+      },
+      {
+        "text": "Capacità di compiere o inibire movimenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Le capacità motorie sono",
+    "answers": [
+      {
+        "text": "Apprendimento motorio",
+        "correct": false
+      },
+      {
+        "text": "Mobilità articolare, coordinazione, condizione",
+        "correct": true
+      },
+      {
+        "text": "Forza, resistenza, velocità",
+        "correct": false
+      },
+      {
+        "text": "Costituzione, condizione, coordinazione, controllo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le capacità sensopercettive dipendono da",
+    "answers": [
+      {
+        "text": "L’istruttore",
+        "correct": false
+      },
+      {
+        "text": "L’ambiente",
+        "correct": false
+      },
+      {
+        "text": "L’individuo",
+        "correct": true
+      },
+      {
+        "text": "Le capacità coordinative",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Le capacità sensopercettive sono la base per la costruzione della",
+    "answers": [
+      {
+        "text": "Abilità",
+        "correct": false
+      },
+      {
+        "text": "Tecnica",
+        "correct": true
+      },
+      {
+        "text": "Tattica",
+        "correct": false
+      },
+      {
+        "text": "Affettività",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le esercitazioni sulla multilateralità incrementano",
+    "answers": [
+      {
+        "text": "Lo sviluppo condizionale",
+        "correct": false
+      },
+      {
+        "text": "Lo sviluppo coordinativo",
+        "correct": true
+      },
+      {
+        "text": "I fattori allenanti",
+        "correct": false
+      },
+      {
+        "text": "La mobilità articolare dei distretti coinvolti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le fasi dello sviluppo della coordinazione sono",
+    "answers": [
+      {
+        "text": "Controllo, adattamento e trasformazione",
+        "correct": false
+      },
+      {
+        "text": "Coordinazione grezza, coordinazione fine e disponibilità variabile",
+        "correct": true
+      },
+      {
+        "text": "Iniziale, intermedia e finale",
+        "correct": false
+      },
+      {
+        "text": "Intensità, densità, volume",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le fasi sensibili",
+    "answers": [
+      {
+        "text": "Sono legate all’attività degli analizzatori",
+        "correct": false
+      },
+      {
+        "text": "Servono per migliorare la sensibilità all’acqua",
+        "correct": false
+      },
+      {
+        "text": "Sono solo ipotizzate",
+        "correct": false
+      },
+      {
+        "text": "Sono periodi dello sviluppo in cui alcuni stimoli provocano miglioramenti significativi",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Le resistenze all’avanzamento, nel nuoto, sono in numero di: #####",
+    "answers": [
+      {
+        "text": "2 #####",
+        "correct": false
+      },
+      {
+        "text": "3 #####",
+        "correct": true
+      },
+      {
+        "text": "4 #####",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Le strutture incaricate alla selezione di stimoli si chiamano",
+    "answers": [
+      {
+        "text": "Selezionatori",
+        "correct": false
+      },
+      {
+        "text": "Analizzatori",
+        "correct": true
+      },
+      {
+        "text": "Elaboratori",
+        "correct": false
+      },
+      {
+        "text": "Commutatori",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Lo schema corporeo è",
+    "answers": [
+      {
+        "text": "Lo schema del sistema osteo- articolare",
+        "correct": false
+      },
+      {
+        "text": "Lo schema logico per organizzare la proposta di esercizi in acqua o in palestra",
+        "correct": false
+      },
+      {
+        "text": "L’immagine che ognuno ha del proprio corpo in relazione con il mondo esterno",
+        "correct": true
+      },
+      {
+        "text": "L’immagine esterna del nostro corpo che non può essere percepita",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Lo sviluppo delle capacità coordinative è importante nel nuoto",
+    "answers": [
+      {
+        "text": "Perché aiuta ad elaborare meglio la sensopercezione acquatica",
+        "correct": true
+      },
+      {
+        "text": "Perché incrementa le capacità di adattamento all’acqua",
+        "correct": false
+      },
+      {
+        "text": "Perché favorisce l’incremento della resistenza",
+        "correct": false
+      },
+      {
+        "text": "Perché favorisce l’accrescimento staturo-ponderale (legge di Stratz)",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nel crawl dopo il recupero aereo la mano che entra in acqua rispetto alla linea mediana del corpo è",
+    "answers": [
+      {
+        "text": "Inclinata con il palmo rivolto verso l’esterno",
+        "correct": true
+      },
+      {
+        "text": "Piatta e scivola verso avanti con il palmo rivolto verso il basso",
+        "correct": false
+      },
+      {
+        "text": "Inclinata con il palmo rivolto verso l’interno",
+        "correct": false
+      },
+      {
+        "text": "Tesa e piatta",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nel crawl la fase finale di spinta subacquea degli arti superiori avviene",
+    "answers": [
+      {
+        "text": "Verso il basso per maggiore stabilità",
+        "correct": false
+      },
+      {
+        "text": "In modo costante per senso ritmico",
+        "correct": false
+      },
+      {
+        "text": "In accelerazione",
+        "correct": true
+      },
+      {
+        "text": "Dal basso verso l’alto",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nel dorso, il rollio si esegue per ottenere",
+    "answers": [
+      {
+        "text": "Rispetto dei regolamenti tecnici",
+        "correct": false
+      },
+      {
+        "text": "Bracciata più potente in quanto i muscoli lavorano in condizioni biomeccaniche più vantaggiose",
+        "correct": true
+      },
+      {
+        "text": "Coordinazione 2/6",
+        "correct": false
+      },
+      {
+        "text": "Facilitazione nel posizionamento della testa, in questo modo si riesce a tenerla più bassa appoggiata all’acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel nuoto la tecnica ha come obiettivo",
+    "answers": [
+      {
+        "text": "Efficacia ed economicità del gesto",
+        "correct": true
+      },
+      {
+        "text": "Rapidità del gesto",
+        "correct": false
+      },
+      {
+        "text": "Massima forza massimale applicabile",
+        "correct": false
+      },
+      {
+        "text": "La distribuzione razionale dei carichi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nel nuoto quali sono le articolazioni più stimolate?",
+    "answers": [
+      {
+        "text": "Polso, gomito, ginocchio e tibio- tarsica",
+        "correct": false
+      },
+      {
+        "text": "Falangi, gomito, coxo-femorale",
+        "correct": false
+      },
+      {
+        "text": "SNC",
+        "correct": false
+      },
+      {
+        "text": "Scapolo-omerale, colonna vertebrale, coxo-femorale e tibio-tarsica",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nel rapporto tra capacità e abilità motorie",
+    "answers": [
+      {
+        "text": "L’apprendimento delle abilità motorie precede quello delle capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Le abilità motorie si basano esclusivamente sulle capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Le abilità motorie si costruiscono sulle capacità motorie ma il loro esercizio aiuta lo sviluppo di queste ultime",
+        "correct": true
+      },
+      {
+        "text": "Non esistono rapporti strutturali tra capacità ed abilità motorie",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nell’allenamento giovanile quale tipo di forza è corretto sviluppare?",
+    "answers": [
+      {
+        "text": "Forza massimale",
+        "correct": false
+      },
+      {
+        "text": "Forza rapida e veloce",
+        "correct": true
+      },
+      {
+        "text": "Resistenza alla forza",
+        "correct": false
+      },
+      {
+        "text": "Forza multilaterale",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nell’esercizio di lunga durata",
+    "answers": [
+      {
+        "text": "L’energia è fornita dal meccanismo aerobico",
+        "correct": true
+      },
+      {
+        "text": "Si accumula acido lattico che impedisce di proseguire il lavoro",
+        "correct": false
+      },
+      {
+        "text": "Si utilizzano acidi grassi e proteine",
+        "correct": false
+      },
+      {
+        "text": "Si utilizza prevalentemente la fosfocreatina disponibile a livello muscolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella battuta di gambe prona e supina, la propulsione è",
+    "answers": [
+      {
+        "text": "Nulla, la gambata ha solo funzione di equilibrio",
+        "correct": false
+      },
+      {
+        "text": "Fornita dalla pianta del piede che schiaccia l’acqua",
+        "correct": false
+      },
+      {
+        "text": "Massimale",
+        "correct": false
+      },
+      {
+        "text": "Fornita dal dorso del piede",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella correzione di un errore nella bracciata a stile libero, bisogna concedere priorità a",
+    "answers": [
+      {
+        "text": "Continuità - ritmo",
+        "correct": true
+      },
+      {
+        "text": "Angoli - traiettorie",
+        "correct": false
+      },
+      {
+        "text": "Presa - appoggio",
+        "correct": false
+      },
+      {
+        "text": "Fase aerea (recupero)",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella farfalla la gambata propulsiva avviene",
+    "answers": [
+      {
+        "text": "All’inizio della fase inspiratoria",
+        "correct": false
+      },
+      {
+        "text": "All’entrata in acqua delle mani",
+        "correct": true
+      },
+      {
+        "text": "Nella fase finale della trazione",
+        "correct": false
+      },
+      {
+        "text": "Durante la fase di trazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella farfalla le mani appena entrano in acqua",
+    "answers": [
+      {
+        "text": "Spingono verso il basso (downsweep)",
+        "correct": false
+      },
+      {
+        "text": "Tirano verso fuori (outsweep)",
+        "correct": true
+      },
+      {
+        "text": "Tirano fino alle spalle",
+        "correct": false
+      },
+      {
+        "text": "Affondano repentinamente",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella fase di coordinazione grezza cosa è bene correggere?",
+    "answers": [
+      {
+        "text": "I dettagli",
+        "correct": false
+      },
+      {
+        "text": "Gli errori grossolani e i dettagli",
+        "correct": false
+      },
+      {
+        "text": "Tutto il possibile",
+        "correct": false
+      },
+      {
+        "text": "Gli errori grossolani",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella fase di spinta nel dorso, il palmo della mano è rivolto",
+    "answers": [
+      {
+        "text": "Verso i piedi",
+        "correct": true
+      },
+      {
+        "text": "Verso il fianco",
+        "correct": false
+      },
+      {
+        "text": "Verso l’alto",
+        "correct": false
+      },
+      {
+        "text": "Verso il basso",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella fase subacquea a rana dopo la virata la corretta sequenza dei movimenti è",
+    "answers": [
+      {
+        "text": "Presa, trazione, spinta, recupero",
+        "correct": false
+      },
+      {
+        "text": "Spinta dal bordo, azione di braccia gambata rana recupero delle braccia",
+        "correct": false
+      },
+      {
+        "text": "Spinta dal bordo, gambata a delfino, azione delle braccia, recupero, gambata rana",
+        "correct": false
+      },
+      {
+        "text": "Spinta dal bordo, bracciata, colpo di gambe a delfino recupero delle braccia, gambata rana",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella nuotata a crawl cosa è importante?",
+    "answers": [
+      {
+        "text": "Consentire alla mano, durante il recupero, di sfiorare l’acqua per non perdere il contatto con la stessa",
+        "correct": false
+      },
+      {
+        "text": "Effettuare l’ultima parte della passata subacquea con un azione accelerata",
+        "correct": true
+      },
+      {
+        "text": "Consentire al braccio di guidare il recupero",
+        "correct": false
+      },
+      {
+        "text": "Consentire alla mano, durante il recupero, di sfiorare l’acqua per prepararsi alla fase di presa",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a crawl quando deve iniziare la rotazione del capo?",
+    "answers": [
+      {
+        "text": "Prima che l’arto opposto sia entrato in acqua",
+        "correct": false
+      },
+      {
+        "text": "Quando l’arto opposto inizia la fase di spinta",
+        "correct": false
+      },
+      {
+        "text": "Quando l’arto opposto è in fase di recupero",
+        "correct": false
+      },
+      {
+        "text": "Dopo che l’arto opposto è entrato in acqua",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella nuotata a dorso l’esercizio definito opposizione di fase è un",
+    "answers": [
+      {
+        "text": "Esercizio di esclusione",
+        "correct": false
+      },
+      {
+        "text": "Esercizio di perfezionamento",
+        "correct": true
+      },
+      {
+        "text": "Esercizio di specializzazione",
+        "correct": false
+      },
+      {
+        "text": "Esercizio inutile",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a rana il recupero degli arti inferiori avviene",
+    "answers": [
+      {
+        "text": "Quando le braccia sono in fase di trazione",
+        "correct": false
+      },
+      {
+        "text": "Quando le braccia sono nella fase del recupero",
+        "correct": true
+      },
+      {
+        "text": "Quando le braccia sono in fase di spinta",
+        "correct": false
+      },
+      {
+        "text": "Quando le braccia sono in fase di presa/appoggio",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a rana si può considerare errore",
+    "answers": [
+      {
+        "text": "Inserire una pausa dopo il recupero di ogni bracciata",
+        "correct": false
+      },
+      {
+        "text": "Sovrapporre l’azione propulsiva delle braccia a quella delle gambe",
+        "correct": true
+      },
+      {
+        "text": "Effettuare uno scivolamento dopo ogni gambata",
+        "correct": false
+      },
+      {
+        "text": "Respirare frontalmente",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella nuotata a stile libero, un concorrente può rimanere in completa immersione",
+    "answers": [
+      {
+        "text": "Per tutta la distanza che deve coprire",
+        "correct": false
+      },
+      {
+        "text": "Mai",
+        "correct": false
+      },
+      {
+        "text": "Per i primi 12,5 metri (mezza vasca)",
+        "correct": false
+      },
+      {
+        "text": "Alla partenza ed alle virate, per un massimo di 15 metri",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nella preparazione infantile e giovanile, la formazione condizionale deve mirare allo sviluppo di",
+    "answers": [
+      {
+        "text": "Forza veloce, resistenza anaerobica e resistenza alla forza",
+        "correct": false
+      },
+      {
+        "text": "Forza rapida, resistenza aerobica e resistenza alla forza",
+        "correct": true
+      },
+      {
+        "text": "Forza rapida, resistenza anaerobica e resistenza alla forza",
+        "correct": false
+      },
+      {
+        "text": "Forza rapida, resistenza aerobica e resistenza alla fatica",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella rana effettuare un forte sollevamento del busto consente al nuotatore",
+    "answers": [
+      {
+        "text": "Il recupero degli avambracci fuori dall’acqua",
+        "correct": true
+      },
+      {
+        "text": "Il recupero delle braccia fuori dall’acqua",
+        "correct": false
+      },
+      {
+        "text": "Di facilitare la fase di inspirazione durante il ciclo di bracciata",
+        "correct": false
+      },
+      {
+        "text": "Di controllare meglio gli avversari",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella realizzazione del progetto d’azione, all’interno della programmazione dello schema motorio, possiamo affermare che",
+    "answers": [
+      {
+        "text": "La riformulazione del progetto d’azione si verifica spontaneamente",
+        "correct": false
+      },
+      {
+        "text": "Una volta formato lo schema motorio esso è immodificabile per tutta la vita del soggetto.",
+        "correct": false
+      },
+      {
+        "text": "È possibile una riformulazione del progetto d’azione e quindi dello schema motorio attraverso un confronto tra risultato atteso e risultato reale dell’azione",
+        "correct": true
+      },
+      {
+        "text": "È possibile una riformulazione del progetto d’azione senza alcuna verifica del risultato",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nella resistenza aerobica l’intensità dell’andatura è",
+    "answers": [
+      {
+        "text": "Molto blanda",
+        "correct": true
+      },
+      {
+        "text": "Intorno al massimo consumo di ossigeno",
+        "correct": false
+      },
+      {
+        "text": "Tolleranza al lattato",
+        "correct": false
+      },
+      {
+        "text": "Velocità submassimale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella scuola nuoto è corretto far eseguire esercizi di",
+    "answers": [
+      {
+        "text": "Forza rapida",
+        "correct": true
+      },
+      {
+        "text": "Resistenza alla forza",
+        "correct": false
+      },
+      {
+        "text": "Resistenza rapida",
+        "correct": false
+      },
+      {
+        "text": "Resistenza alla velocità",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nella tecnica del dorso la fase di spinta della bracciata termina",
+    "answers": [
+      {
+        "text": "Verso il basso",
+        "correct": true
+      },
+      {
+        "text": "Verso l’alto",
+        "correct": false
+      },
+      {
+        "text": "Verso l’esterno",
+        "correct": false
+      },
+      {
+        "text": "Contro il corpo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nelle esercitazioni definite di potenza aerobica la frequenza cardiaca è",
+    "answers": [
+      {
+        "text": "130 - 150 Battiti per minuto",
+        "correct": false
+      },
+      {
+        "text": "170 - 190 Battiti per minuto",
+        "correct": true
+      },
+      {
+        "text": "150 - 170 Battiti per minuto",
+        "correct": false
+      },
+      {
+        "text": "Oltre 190 battiti per minuto",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nello stile libero la fase di spinta dell’arto superiore avviene",
+    "answers": [
+      {
+        "text": "Dopo la fase aerea",
+        "correct": false
+      },
+      {
+        "text": "Dopo l’appoggio-presa",
+        "correct": false
+      },
+      {
+        "text": "Prima della trazione",
+        "correct": false
+      },
+      {
+        "text": "Dopo la trazione",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nuotare con gli occhi chiusi è un esercizio coordinativo di che tipo?",
+    "answers": [
+      {
+        "text": "Di esclusione",
+        "correct": true
+      },
+      {
+        "text": "Di accoppiamento",
+        "correct": false
+      },
+      {
+        "text": "Di differenziazione",
+        "correct": false
+      },
+      {
+        "text": "Di pronazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nuotare per brevi tratti molto veloci alternati a tratti lenti è un’attività di tipo",
+    "answers": [
+      {
+        "text": "Aerobico",
+        "correct": false
+      },
+      {
+        "text": "Anaerobico alattacido",
+        "correct": true
+      },
+      {
+        "text": "Anaerobico lattacido",
+        "correct": false
+      },
+      {
+        "text": "Tecnico-coordinativo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Parametri fisiologici delle esercitazioni A1-A2",
+    "answers": [
+      {
+        "text": "Frequenza cardiaca 150-180 bpm – lattacidemia 2,5-3 mmol/l",
+        "correct": true
+      },
+      {
+        "text": "Frequenza cardiaca < 150 bpm - lattacidemia < 2,5 mmol/l",
+        "correct": false
+      },
+      {
+        "text": "Frequenza cardiaca massimale – lattacidemia massimale",
+        "correct": false
+      },
+      {
+        "text": "Frequenza cardiaca > 180 bpm – lattacidemia > 2,5 mmol/l",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per allenare la forza rapida gli sforzi devono essere",
+    "answers": [
+      {
+        "text": "Brevissimi (3-9 secondi)",
+        "correct": true
+      },
+      {
+        "text": "Brevi (10-15 secondi)",
+        "correct": false
+      },
+      {
+        "text": "Medi (18-30 secondi)",
+        "correct": false
+      },
+      {
+        "text": "Lunghi (oltre il minuto)",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per allenare la resistenza bisogna",
+    "answers": [
+      {
+        "text": "Nuotare velocemente per lunghi tratti",
+        "correct": false
+      },
+      {
+        "text": "Nuotare velocemente per brevi tratti",
+        "correct": false
+      },
+      {
+        "text": "Nuotare lentamente per brevi tratti",
+        "correct": false
+      },
+      {
+        "text": "Nuotare lentamente per lunghi tratti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per carico fisico esterno, intendiamo",
+    "answers": [
+      {
+        "text": "La frequenza cardiaca mantenuta in allenamento",
+        "correct": false
+      },
+      {
+        "text": "La quantità di lavoro che si svolge all’aperto",
+        "correct": false
+      },
+      {
+        "text": "La massima sopportazione allo sforzo dell’organismo",
+        "correct": false
+      },
+      {
+        "text": "La quantità degli esercizi di allenamento",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per fattori di prestazione s’intendono",
+    "answers": [
+      {
+        "text": "L’insieme delle capacità generali dell’individuo",
+        "correct": true
+      },
+      {
+        "text": "Le risorse interne dell’individuo",
+        "correct": false
+      },
+      {
+        "text": "I principi dell’allenamento",
+        "correct": false
+      },
+      {
+        "text": "La costituzione, la condizione, la coordinazione e la mobilità articolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per formare la struttura di base del nuotatore bisogna curare",
+    "answers": [
+      {
+        "text": "L’affinamento del gesto",
+        "correct": false
+      },
+      {
+        "text": "Le esercitazioni analitiche",
+        "correct": false
+      },
+      {
+        "text": "Il benessere e il buonumore del gruppo",
+        "correct": false
+      },
+      {
+        "text": "Il ritmo e l’ampiezza del gesto",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Per incrementare il carico si varia prima",
+    "answers": [
+      {
+        "text": "Il volume e l’intensità",
+        "correct": false
+      },
+      {
+        "text": "La durata ed il volume",
+        "correct": true
+      },
+      {
+        "text": "L’intensità e la densità",
+        "correct": false
+      },
+      {
+        "text": "La durata e la densità",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Per lo sviluppo della sensopercezione è utile",
+    "answers": [
+      {
+        "text": "Amplificare o inibire le informazioni provenienti dagli analizzatori",
+        "correct": true
+      },
+      {
+        "text": "Esercitarsi sulle singole azioni delle nuotate",
+        "correct": false
+      },
+      {
+        "text": "Stimolare i differenti meccanismi energetici",
+        "correct": false
+      },
+      {
+        "text": "Curare al massimo la comunicazione non verbale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per lo sviluppo della sensopercezione è utile",
+    "answers": [
+      {
+        "text": "Amplificare o inibire le informazioni provenienti dagli analizzatori",
+        "correct": true
+      },
+      {
+        "text": "Esercitarsi sulle singole azioni delle nuotate",
+        "correct": false
+      },
+      {
+        "text": "Aumentare le ripetute",
+        "correct": false
+      },
+      {
+        "text": "Utilizzare un’ampia gamma di esercizi",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per provocare nuovi adattamenti a livello più elevato, un carico di lavoro deve",
+    "answers": [
+      {
+        "text": "Sviluppare sempre il suo massimale",
+        "correct": false
+      },
+      {
+        "text": "Stabilizzarsi nel tempo",
+        "correct": false
+      },
+      {
+        "text": "Progressivamente crescere",
+        "correct": true
+      },
+      {
+        "text": "Decrescere progressivamente",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Per unità di base del movimento intendiamo",
+    "answers": [
+      {
+        "text": "Le capacità condizionali",
+        "correct": false
+      },
+      {
+        "text": "Gli schemi motori di base",
+        "correct": true
+      },
+      {
+        "text": "Le fasi delle bracciate nei diversi stili",
+        "correct": false
+      },
+      {
+        "text": "Le capacità coordinative",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Perché lo stile libero è la nuotata più veloce?",
+    "answers": [
+      {
+        "text": "Perché si possono fare la virate a capovolta senza toccare con le mani",
+        "correct": false
+      },
+      {
+        "text": "Perché è la nuotata in cui il nuotatore può applicare la massima potenza angolare con un azione propulsiva continua",
+        "correct": true
+      },
+      {
+        "text": "Perché l’azione propulsiva delle gambe è particolarmente efficace",
+        "correct": false
+      },
+      {
+        "text": "Perché a differenza che negli altri stili, si nuota sempre in superficie",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è il momento di maggiore difficoltà nella virata a dorso?",
+    "answers": [
+      {
+        "text": "Uscita dalla fase subacquea",
+        "correct": false
+      },
+      {
+        "text": "Rotazione al muro",
+        "correct": false
+      },
+      {
+        "text": "Avvicinamento al muro e calcolo della giusta distanza",
+        "correct": true
+      },
+      {
+        "text": "Nessuna difficoltà particolare perché è una virata molto facile da eseguire",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qual è il presupposto biologico fondamentale per lo sviluppo della coordinazione?",
+    "answers": [
+      {
+        "text": "La maturazione sessuale",
+        "correct": false
+      },
+      {
+        "text": "Lo sviluppo delle masse muscolari",
+        "correct": false
+      },
+      {
+        "text": "L’incremento della funzionalità cardiocircolatoria",
+        "correct": false
+      },
+      {
+        "text": "La funzionalità del sistema nervoso centrale",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qual è l’allenamento tipico del periodo che va dall’età prepuberale all’adolescenza?",
+    "answers": [
+      {
+        "text": "Di formazione",
+        "correct": false
+      },
+      {
+        "text": "Di costruzione",
+        "correct": true
+      },
+      {
+        "text": "Di prestazione",
+        "correct": false
+      },
+      {
+        "text": "Di controllo",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è l’analizzatore sensoriale che invia al SNC le informazioni sulle tensioni muscolari?",
+    "answers": [
+      {
+        "text": "Labirintico",
+        "correct": false
+      },
+      {
+        "text": "Vestibolare",
+        "correct": false
+      },
+      {
+        "text": "Cinestetico",
+        "correct": true
+      },
+      {
+        "text": "Tattile",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qual è l’articolazione più sollecitata nel nuoto?",
+    "answers": [
+      {
+        "text": "Gomito",
+        "correct": false
+      },
+      {
+        "text": "Anca",
+        "correct": false
+      },
+      {
+        "text": "Ginocchio",
+        "correct": false
+      },
+      {
+        "text": "Spalla",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qual è l’età cronologica in cui gli stimoli per la velocità, o rapidità, possono avere maggiore efficacia?",
+    "answers": [
+      {
+        "text": "Tra i 2 ed i 4 anni",
+        "correct": false
+      },
+      {
+        "text": "Tra i 3 ed i 6 anni",
+        "correct": false
+      },
+      {
+        "text": "Tra i 6 ed i 13/14anni",
+        "correct": true
+      },
+      {
+        "text": "Dopo i 14 anni",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qual è la fascia di età ottimale per l’allenamento delle capacità coordinative?",
+    "answers": [
+      {
+        "text": "6 - 12 anni",
+        "correct": true
+      },
+      {
+        "text": "Dai 12 ani in su",
+        "correct": false
+      },
+      {
+        "text": "3 - 6 anni",
+        "correct": false
+      },
+      {
+        "text": "0 - 6 anni",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qual è la fase più propulsiva della gambata a rana?",
+    "answers": [
+      {
+        "text": "La fase di chiusura",
+        "correct": false
+      },
+      {
+        "text": "L’azione calciata",
+        "correct": true
+      },
+      {
+        "text": "Entrambe perché continue",
+        "correct": false
+      },
+      {
+        "text": "La fase di chiusura e riallineamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è la frequenza cardiaca da raggiungere per allenare le capacità condizionali?",
+    "answers": [
+      {
+        "text": "120 battiti/minuto",
+        "correct": false
+      },
+      {
+        "text": "La massimale (220-età)",
+        "correct": false
+      },
+      {
+        "text": "70% - 90% della frequenza cardiaca massimale",
+        "correct": true
+      },
+      {
+        "text": "Non più del 70% della frequenza cardiaca massimale",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qual è la giusta definizione di abilità motoria?",
+    "answers": [
+      {
+        "text": "La capacità del soggetto di eseguire azioni motorie complesse che necessitano di una certa dose di forza",
+        "correct": false
+      },
+      {
+        "text": "Un’azione motoria automatizzata tramite ripetizioni consapevoli, che può essere eseguita senza l’intervento cosciente dell’allievo",
+        "correct": true
+      },
+      {
+        "text": "La possibilità dell’individuo di creare strategie motorie per la realizzazione dello scopo prefissato",
+        "correct": false
+      },
+      {
+        "text": "Uno schema motorio di base",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qual è la temperatura dell’acqua migliore per attività motorie intense e prolungate? #####",
+    "answers": [
+      {
+        "text": "27 - 28° C #####",
+        "correct": true
+      },
+      {
+        "text": "30 - 31° C #####",
+        "correct": false
+      },
+      {
+        "text": "32 - 33° C #####",
+        "correct": false
+      },
+      {
+        "text": "34 - 35° C",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale combustibile viene prevalentemente utilizzato dal meccanismo anaerobico lattacido?",
+    "answers": [
+      {
+        "text": "Zuccheri",
+        "correct": true
+      },
+      {
+        "text": "Proteine",
+        "correct": false
+      },
+      {
+        "text": "Grassi",
+        "correct": false
+      },
+      {
+        "text": "Vitamine",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale dei seguenti non è un criterio di selezione dei talenti da avviare all’attività agonistica?",
+    "answers": [
+      {
+        "text": "Parametro ereditario (caratteristiche morfologiche dei genitori)",
+        "correct": false
+      },
+      {
+        "text": "Livello di sviluppo delle capacità coordinative e dell’immagine motoria",
+        "correct": false
+      },
+      {
+        "text": "Fattori psicologici e motivazionali",
+        "correct": false
+      },
+      {
+        "text": "Primato personale sui 25 metri stile libero",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è corretta?",
+    "answers": [
+      {
+        "text": "Le capacità coordinative si sviluppano maggiormente fra quattro e sei anni",
+        "correct": false
+      },
+      {
+        "text": "Le capacità condizionali non mostrano differenze fra i sessi",
+        "correct": false
+      },
+      {
+        "text": "Le capacità condizionali sono sempre sensibili all’allenamento, anche generale",
+        "correct": true
+      },
+      {
+        "text": "Le capacità coordinative sono forza, resistenza e velocità",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale delle seguenti affermazioni sulla supercompensazione è corretta?",
+    "answers": [
+      {
+        "text": "Determina un adattamento che si conclude con l’applicazione dello stimolo",
+        "correct": false
+      },
+      {
+        "text": "Necessita di un tempo adeguato per potersi esprimere",
+        "correct": true
+      },
+      {
+        "text": "Necessita di un uno stimolo non necessariamente intenso",
+        "correct": false
+      },
+      {
+        "text": "Gli adattamenti sono permanenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale delle seguenti affermazioni sulle virate non è corretta?",
+    "answers": [
+      {
+        "text": "Si costruiscono su abilità motorie semplici che hanno le loro fondamenta nella fase di ambientamento",
+        "correct": true
+      },
+      {
+        "text": "Vanno affrontate esclusivamente nei gruppi evoluti perché troppo difficili da apprendere nei gruppi intermedi di scuola nuoto",
+        "correct": false
+      },
+      {
+        "text": "In ogni livello di scuola nuoto vengono allenate, anche se non nella forma completa, comunque nei singoli elementi che le compongono",
+        "correct": false
+      },
+      {
+        "text": "Nella scuola nuoto è inutile insegnare le virate in quanto sono un’abilità tipica del nuoto agonistico",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale delle seguenti è una capacità coordinativa generale?",
+    "answers": [
+      {
+        "text": "Di equilibrio",
+        "correct": false
+      },
+      {
+        "text": "Di orientamento",
+        "correct": false
+      },
+      {
+        "text": "Di controllo",
+        "correct": true
+      },
+      {
+        "text": "Di reazione",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale delle seguenti può essere una causa di errore?",
+    "answers": [
+      {
+        "text": "Fattori cinematici",
+        "correct": false
+      },
+      {
+        "text": "Dinamica del gesto",
+        "correct": false
+      },
+      {
+        "text": "Coordinazione inter- ed intramuscolare",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale di questi elementi incide maggiormente nella mancata coordinazione della nuotata a farfalla?",
+    "answers": [
+      {
+        "text": "Recupero lento delle braccia",
+        "correct": false
+      },
+      {
+        "text": "Discontinuità della bracciata",
+        "correct": true
+      },
+      {
+        "text": "Doppio colpo di gambe",
+        "correct": false
+      },
+      {
+        "text": "Nessuno dei precedenti",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale di questi errori è più grave, e quindi va corretto prima?",
+    "answers": [
+      {
+        "text": "Un errore di traiettoria della mano sott’acqua",
+        "correct": false
+      },
+      {
+        "text": "Una battuta di gambe deficitaria",
+        "correct": false
+      },
+      {
+        "text": "Un errore di ritmo respiratorio",
+        "correct": true
+      },
+      {
+        "text": "Un errore nel recupero",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale di questi particolari rende del tutto inefficace il colpo di gambe a rana?",
+    "answers": [
+      {
+        "text": "Ginocchia troppo strette",
+        "correct": false
+      },
+      {
+        "text": "Piedi fuori dall’acqua",
+        "correct": true
+      },
+      {
+        "text": "Gambe eccessivamente larghe",
+        "correct": false
+      },
+      {
+        "text": "Discontinuità del movimento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale è la prima fase da rispettare per un corretto processo di apprendimento motorio?",
+    "answers": [
+      {
+        "text": "Comunicazione e comprensione del gesto da effettuare",
+        "correct": true
+      },
+      {
+        "text": "Automatizzazione del gesto",
+        "correct": false
+      },
+      {
+        "text": "Intimorire gli allievi",
+        "correct": false
+      },
+      {
+        "text": "Sviluppi della coordinazione fine",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale fascia di età è ritenuta la migliore per lo sviluppo delle capacità coordinative?",
+    "answers": [
+      {
+        "text": "Dai 5/6 ai 10/11 anni",
+        "correct": true
+      },
+      {
+        "text": "Dai 14 ai 18 anni",
+        "correct": false
+      },
+      {
+        "text": "Dai 2 ai 4 anni",
+        "correct": false
+      },
+      {
+        "text": "Dai 20 ai 30 anni",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale fra i seguenti non è uno schema motorio di base?",
+    "answers": [
+      {
+        "text": "Strisciare",
+        "correct": false
+      },
+      {
+        "text": "Rotolare",
+        "correct": false
+      },
+      {
+        "text": "Galleggiare",
+        "correct": true
+      },
+      {
+        "text": "Arrampicare",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale fra queste affermazioni sul metabolismo aerobico è errata?",
+    "answers": [
+      {
+        "text": "È l’ultimo metabolismo che entra in funzione",
+        "correct": false
+      },
+      {
+        "text": "Permette performance di lunga durata e bassa intensità",
+        "correct": false
+      },
+      {
+        "text": "Produce grosse quantità di acido lattico",
+        "correct": true
+      },
+      {
+        "text": "Richiede la presenza dell’ossigeno",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale tra i seguenti non è un metodo didattico?",
+    "answers": [
+      {
+        "text": "Globale",
+        "correct": false
+      },
+      {
+        "text": "Grezzo",
+        "correct": true
+      },
+      {
+        "text": "Analitico",
+        "correct": false
+      },
+      {
+        "text": "Analitico Segmentario",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale tra le seguenti affermazioni è corretta?",
+    "answers": [
+      {
+        "text": "Le abilità motorie sono lo sviluppo delle capacità motorie",
+        "correct": true
+      },
+      {
+        "text": "Capacità motorie ed abilità motorie non definiscono il talento",
+        "correct": false
+      },
+      {
+        "text": "Le capacità motorie sono prerequisiti del movimento",
+        "correct": false
+      },
+      {
+        "text": "Le abilità motorie sono il presuopposto delle capacità motorie",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale tra le seguenti è una capacità condizionale?",
+    "answers": [
+      {
+        "text": "Il ritmo della bracciata",
+        "correct": false
+      },
+      {
+        "text": "L’orientamento",
+        "correct": false
+      },
+      {
+        "text": "La velocità",
+        "correct": true
+      },
+      {
+        "text": "Il galleggiamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale tra le seguenti è una capacità condizionale?",
+    "answers": [
+      {
+        "text": "La resistenza all’orientamento",
+        "correct": false
+      },
+      {
+        "text": "Il ritmo della bracciata",
+        "correct": false
+      },
+      {
+        "text": "La forza resistente",
+        "correct": true
+      },
+      {
+        "text": "Il galleggiamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale tra le seguenti è una capacità coordinativa generale?",
+    "answers": [
+      {
+        "text": "Capacità di equilibrio",
+        "correct": false
+      },
+      {
+        "text": "Capacità di adattamento e trasformazione",
+        "correct": true
+      },
+      {
+        "text": "Capacità di ritmizzazione",
+        "correct": false
+      },
+      {
+        "text": "Capacità di comprensione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale tra queste è la capacità coordinativa più importante per il nuoto?",
+    "answers": [
+      {
+        "text": "Capacità di reazione",
+        "correct": false
+      },
+      {
+        "text": "Capacità cinestesica",
+        "correct": true
+      },
+      {
+        "text": "Ritmo",
+        "correct": false
+      },
+      {
+        "text": "Orientamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale tra questi analizzatori ha il ruolo di maggiore importanza nel nuoto?",
+    "answers": [
+      {
+        "text": "Acustico",
+        "correct": false
+      },
+      {
+        "text": "Tattile",
+        "correct": false
+      },
+      {
+        "text": "Cinestetico",
+        "correct": true
+      },
+      {
+        "text": "Ottico",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale tra questi particolari va corretto prioritariamente?",
+    "answers": [
+      {
+        "text": "La battuta di gambe",
+        "correct": false
+      },
+      {
+        "text": "Le pause ed il ritmo",
+        "correct": true
+      },
+      {
+        "text": "L’ingresso della mano in acqua",
+        "correct": false
+      },
+      {
+        "text": "Il rollio",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quale, tra i seguenti, non è un meccanismo di produzione dell’energia?",
+    "answers": [
+      {
+        "text": "Aerobico glicolitico",
+        "correct": true
+      },
+      {
+        "text": "Aerobico",
+        "correct": false
+      },
+      {
+        "text": "Anaerobico alattacido",
+        "correct": false
+      },
+      {
+        "text": "Anaerobico lattacido",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale, tra le seguenti, è una capacità coordinativa generale?",
+    "answers": [
+      {
+        "text": "Capacità di equilibrio",
+        "correct": false
+      },
+      {
+        "text": "Capacita di controllo segmentario",
+        "correct": false
+      },
+      {
+        "text": "Capacità di orientamento",
+        "correct": false
+      },
+      {
+        "text": "Capacità di direzione e controllo motorio",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale, tra le seguenti, non è un’espressione della forza?",
+    "answers": [
+      {
+        "text": "Forza massima",
+        "correct": false
+      },
+      {
+        "text": "Forza coordinata",
+        "correct": true
+      },
+      {
+        "text": "Forza resistente",
+        "correct": false
+      },
+      {
+        "text": "Forza rapida",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali dei seguenti elementi non fanno parte degli analizzatori?",
+    "answers": [
+      {
+        "text": "Recettori specifici",
+        "correct": false
+      },
+      {
+        "text": "Vie nervose afferenti",
+        "correct": false
+      },
+      {
+        "text": "Centri sensoriali",
+        "correct": false
+      },
+      {
+        "text": "Miofibrille",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali di questi sport sono di coordinazione a mappa rigida?",
+    "answers": [
+      {
+        "text": "Calcio – Ciclismo – Pallavolo",
+        "correct": false
+      },
+      {
+        "text": "Corsa - Pugilato – Pallacanestro",
+        "correct": false
+      },
+      {
+        "text": "Ciclismo – Nuoto – Canottaggio",
+        "correct": true
+      },
+      {
+        "text": "Pallavolo – Pallacanestro – Nuoto",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali metodi sono efficaci per lo sviluppo della forza rapida?",
+    "answers": [
+      {
+        "text": "Sforzi di intensità medio-bassa, durata adeguata, pause brevi",
+        "correct": false
+      },
+      {
+        "text": "Sforzi coscienti ad elevata intensità",
+        "correct": true
+      },
+      {
+        "text": "Sovraccarichi",
+        "correct": false
+      },
+      {
+        "text": "Training autogeno",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali sfere sono investite dalla supercompensazione?",
+    "answers": [
+      {
+        "text": "Biologica, vegetativa, coordinativa",
+        "correct": true
+      },
+      {
+        "text": "Biologica, psicologica, pedagogica",
+        "correct": false
+      },
+      {
+        "text": "Psicologica, vegetativa, coordinativa",
+        "correct": false
+      },
+      {
+        "text": "Vegetativa, coordinativa, etimologica",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono gli analizzatori coinvolti nel movimento?",
+    "answers": [
+      {
+        "text": "Muscolare, scheletrico, articolare",
+        "correct": false
+      },
+      {
+        "text": "Cardiocircolatorio e respiratorio",
+        "correct": false
+      },
+      {
+        "text": "Cinestesico, stato dinamico, tattile, visivo, uditivo",
+        "correct": true
+      },
+      {
+        "text": "Cinestesico e stato dinamico",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali sono gli analizzatori?",
+    "answers": [
+      {
+        "text": "Acustico, ottico, corporale, cinestesico, interno",
+        "correct": false
+      },
+      {
+        "text": "Acustico, ottico, tattile, vestibolare, cinestesico",
+        "correct": true
+      },
+      {
+        "text": "Acustico, vestibolare, tattile, esterno, corporale",
+        "correct": false
+      },
+      {
+        "text": "Statico, dinamico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali sono gli aspetti strutturali di una nuotata?",
+    "answers": [
+      {
+        "text": "Continuità, ampiezza, ritmo",
+        "correct": true
+      },
+      {
+        "text": "Forza, velocità, resistenza",
+        "correct": false
+      },
+      {
+        "text": "Capacità coordinative generali e speciali",
+        "correct": false
+      },
+      {
+        "text": "Condizione, coordinazione, controllo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono gli strumenti per effettuare la selezione dei talenti?",
+    "answers": [
+      {
+        "text": "Considerazioni del genitore",
+        "correct": false
+      },
+      {
+        "text": "Gare sociali, istruttori e allenatori",
+        "correct": true
+      },
+      {
+        "text": "Desideri personali",
+        "correct": false
+      },
+      {
+        "text": "Consiglio dei compagni",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali sono i fattori della prestazione sportiva?",
+    "answers": [
+      {
+        "text": "Forza – resistenza – velocità",
+        "correct": false
+      },
+      {
+        "text": "Costituzione - condizione - coordinazione – controllo",
+        "correct": true
+      },
+      {
+        "text": "Capacità condizionali e coordinative (generali e speciali)",
+        "correct": false
+      },
+      {
+        "text": "Antropometria – motivazione – disponibilità",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali sono i parametri del carico?",
+    "answers": [
+      {
+        "text": "Volume, durata, densità, intensità e multilateralità",
+        "correct": false
+      },
+      {
+        "text": "Durata, densità, intensità e multilateralità",
+        "correct": false
+      },
+      {
+        "text": "Costituzione, condizione, coordinazione, controllo",
+        "correct": false
+      },
+      {
+        "text": "Volume, durata, densità e intensità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono i requisiti fondamentali delle nuotate elementari?",
+    "answers": [
+      {
+        "text": "Movimenti fini",
+        "correct": false
+      },
+      {
+        "text": "Ritmo e variazioni di velocità",
+        "correct": false
+      },
+      {
+        "text": "Rapidità di spostamento",
+        "correct": false
+      },
+      {
+        "text": "Continuità delle azioni ed ampiezza del gesto",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono le capacità condizionali?",
+    "answers": [
+      {
+        "text": "Resistenza, forza, volume",
+        "correct": false
+      },
+      {
+        "text": "Capacità motorie speciali",
+        "correct": false
+      },
+      {
+        "text": "Forza, resistenza, intensità",
+        "correct": false
+      },
+      {
+        "text": "Forza, resistenza, velocità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono le condizioni dell’analizzatore uditivo in acqua?",
+    "answers": [
+      {
+        "text": "Riduzione delle capacità, impossibilità di controllare lo spazio d’azione",
+        "correct": false
+      },
+      {
+        "text": "Aumento delle quantità di stimolazione",
+        "correct": false
+      },
+      {
+        "text": "Invariate rispetto alla terraferma",
+        "correct": false
+      },
+      {
+        "text": "Riduzione delle capacità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono le condizioni dell’analizzatore visivo in acqua?",
+    "answers": [
+      {
+        "text": "Riduzione delle capacità, impossibilità di controllare lo spazio d’azione",
+        "correct": true
+      },
+      {
+        "text": "Aumento delle quantità di stimolazione",
+        "correct": false
+      },
+      {
+        "text": "Invariate rispetto alla terraferma",
+        "correct": false
+      },
+      {
+        "text": "Riduzione delle capacità",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le condizioni più opportune per lo sviluppo delle capacità coordinative?",
+    "answers": [
+      {
+        "text": "Eseguire fondamentali di uno sport in forma precisa",
+        "correct": false
+      },
+      {
+        "text": "Insistere solo sullo sviluppo dell’equilibrio",
+        "correct": false
+      },
+      {
+        "text": "Ripetere un movimento identico, numerose volte",
+        "correct": false
+      },
+      {
+        "text": "Apprendimento di abilità motorie diverse",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono le evoluzioni fisiologiche che differenziano un allenamento di contenuto aerobico da un allenamento di sforzo più intenso?",
+    "answers": [
+      {
+        "text": "Aumento della frequenza cardiaca e incremento dell’acido lattico",
+        "correct": false
+      },
+      {
+        "text": "Maggior intervento delle fibre rosse",
+        "correct": true
+      },
+      {
+        "text": "Aumento della frequenza cardiaca e nessun accumulo di acido lattico",
+        "correct": false
+      },
+      {
+        "text": "Situazione di equilibrio tra produzione e smaltimento di acido lattico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali sono le informazioni che raccogliamo dall’analizzatore cinestesico?",
+    "answers": [
+      {
+        "text": "Pressione e calore",
+        "correct": false
+      },
+      {
+        "text": "Onde sonore",
+        "correct": false
+      },
+      {
+        "text": "Posizione di una parte del corpo rispetto ad un’altra e stato di tensione di un muscolo",
+        "correct": true
+      },
+      {
+        "text": "Posizione della testa rispetto al centro di gravità",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali sono le informazioni che raccogliamo dall’analizzatore statico-dinamico?",
+    "answers": [
+      {
+        "text": "Onde sonore",
+        "correct": false
+      },
+      {
+        "text": "Segnali luminosi",
+        "correct": false
+      },
+      {
+        "text": "Posizione di una parte del corpo rispetto ad un’altra e stato di tensione di un muscolo",
+        "correct": false
+      },
+      {
+        "text": "Posizione della testa rispetto al centro di gravità",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali sono le informazioni che raccogliamo dall’analizzatore tattile?",
+    "answers": [
+      {
+        "text": "Onde sonore",
+        "correct": false
+      },
+      {
+        "text": "Segnali luminosi",
+        "correct": false
+      },
+      {
+        "text": "Pressione e calore",
+        "correct": true
+      },
+      {
+        "text": "Posizione di una parte del corpo rispetto a un’altra e stato di tensione di un muscolo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali sono le informazioni che raccogliamo dall’analizzatore uditivo?",
+    "answers": [
+      {
+        "text": "Segnali luminosi",
+        "correct": false
+      },
+      {
+        "text": "Pressione e calore",
+        "correct": false
+      },
+      {
+        "text": "Onde sonore",
+        "correct": true
+      },
+      {
+        "text": "Posizione della testa rispetto al centro di gravità",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali sono le informazioni che raccogliamo dall’analizzatore visivo?",
+    "answers": [
+      {
+        "text": "Segnali luminosi",
+        "correct": true
+      },
+      {
+        "text": "Onde sonore",
+        "correct": false
+      },
+      {
+        "text": "Pressione e calore",
+        "correct": false
+      },
+      {
+        "text": "Sapori e odori",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono le tappe dello sviluppo dello schema corporeo?",
+    "answers": [
+      {
+        "text": "Infanzia, fanciullezza, giovinezza, età adulta",
+        "correct": false
+      },
+      {
+        "text": "Corpo subìto, corpo vissuto, corpo percepito, corpo rappresentato",
+        "correct": true
+      },
+      {
+        "text": "Corpo amato, corpo percepito, corpo rappresentato",
+        "correct": false
+      },
+      {
+        "text": "Corpo bambino, corpo adolescente, corpo adulto",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali tra i seguenti errori relativi ai quattro stili vanno corretti per primi?",
+    "answers": [
+      {
+        "text": "Errori di respirazione",
+        "correct": true
+      },
+      {
+        "text": "Errori di traiettoria",
+        "correct": false
+      },
+      {
+        "text": "Errori di ritmo",
+        "correct": false
+      },
+      {
+        "text": "Errori di ampiezza",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali tra i seguenti sono schemi motori di base?",
+    "answers": [
+      {
+        "text": "Flettere, circondurre, estendere",
+        "correct": false
+      },
+      {
+        "text": "Rotolare, arrampicarsi, correre",
+        "correct": true
+      },
+      {
+        "text": "Contrarre, distendere",
+        "correct": false
+      },
+      {
+        "text": "Organizzare produrre, valutare",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali tra le seguenti può essere considerata una capacità condizionale?",
+    "answers": [
+      {
+        "text": "Il galleggiamento",
+        "correct": false
+      },
+      {
+        "text": "Il ritmo della bracciata",
+        "correct": false
+      },
+      {
+        "text": "La velocità di comprensione",
+        "correct": false
+      },
+      {
+        "text": "La forza resistente",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quali tra le seguenti, può essere considerata una capacità condizionale?",
+    "answers": [
+      {
+        "text": "Il galleggiamento",
+        "correct": false
+      },
+      {
+        "text": "La prossemica",
+        "correct": false
+      },
+      {
+        "text": "La rapidità",
+        "correct": true
+      },
+      {
+        "text": "La velocità di apprendimento",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali tra questi è un criterio di selezione per l’attività preagonistica?",
+    "answers": [
+      {
+        "text": "Conoscenza delle distanze di gara",
+        "correct": false
+      },
+      {
+        "text": "Fattori psicologici e motivazionali",
+        "correct": true
+      },
+      {
+        "text": "Rapporto tra massa grassa e massa magra",
+        "correct": false
+      },
+      {
+        "text": "Senso tattico",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali tra questi è uno schema motorio acquatico?",
+    "answers": [
+      {
+        "text": "Scivolamento supino",
+        "correct": true
+      },
+      {
+        "text": "Corsa",
+        "correct": false
+      },
+      {
+        "text": "Appoggio plantare",
+        "correct": false
+      },
+      {
+        "text": "Salto a piedi uniti",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali tra questi sono schemi motori di base?",
+    "answers": [
+      {
+        "text": "Rotolare, arrampicarsi, correre",
+        "correct": true
+      },
+      {
+        "text": "Flettere, circondurre, estendere",
+        "correct": false
+      },
+      {
+        "text": "Organizzare, produrre, valutare",
+        "correct": false
+      },
+      {
+        "text": "Fare, far fare, essere",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quando abbiamo la certezza che un errore sia stato corretto?",
+    "answers": [
+      {
+        "text": "Quando l’allievo esegue il corretto movimento a secco",
+        "correct": false
+      },
+      {
+        "text": "Quando guidiamo il movimento dell’allievo in acqua",
+        "correct": false
+      },
+      {
+        "text": "Quando il movimento corretto diventa un gesto volontario da parte dell’allievo",
+        "correct": true
+      },
+      {
+        "text": "Mai",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quando è consigliabile far eseguire esercizi di coordinazione?",
+    "answers": [
+      {
+        "text": "Sin dalla prima lezione in vasca alta",
+        "correct": false
+      },
+      {
+        "text": "Quando le forme globali delle nuotate sono state ben apprese ed automatizzate",
+        "correct": true
+      },
+      {
+        "text": "Non appena gli allievi hanno acquisito le prime forme di propulsione",
+        "correct": false
+      },
+      {
+        "text": "Sempre",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quando vengono inseriti due colpi di gambe a farfalla all’interno di un ciclo di bracciata?",
+    "answers": [
+      {
+        "text": "Uno alla fine della fase di recupero quando le mani entrano in acqua e uno subito dopo lo scivolamento in fase di presa",
+        "correct": false
+      },
+      {
+        "text": "Uno alla fine della fase di recupero quando le mani entrano in acqua e uno nella fase di spinta",
+        "correct": true
+      },
+      {
+        "text": "Uno durante la fase di trazione e uno alla fine della fase di presa",
+        "correct": false
+      },
+      {
+        "text": "Uno dopo la fase di presa e uno dopo la fase di recupero quando le mani entrano in acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quella di adattamento e trasformazione è",
+    "answers": [
+      {
+        "text": "Un’attitudine individuale",
+        "correct": false
+      },
+      {
+        "text": "Una capacità condizionale non sempre allenabile",
+        "correct": false
+      },
+      {
+        "text": "Una capacità coordinativa speciale",
+        "correct": true
+      },
+      {
+        "text": "Una capacità coordinativa generale",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Sotto il profilo dell’organizzazione motoria, il principio cefalo-caudale insegna che lo sviluppo avviene rispettando quale subordinazione?",
+    "answers": [
+      {
+        "text": "Gambe - busto - braccia - testa",
+        "correct": false
+      },
+      {
+        "text": "Testa - busto - braccia - gambe",
+        "correct": true
+      },
+      {
+        "text": "Busto - gambe - braccia – testa",
+        "correct": false
+      },
+      {
+        "text": "Braccia – gambe – testa - busto",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Strisciare è",
+    "answers": [
+      {
+        "text": "Uno schema motorio di base",
+        "correct": true
+      },
+      {
+        "text": "Una tecnica appresa",
+        "correct": false
+      },
+      {
+        "text": "Un’abilità motoria di secondo grado",
+        "correct": false
+      },
+      {
+        "text": "Uno schema motorio evoluto",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Su quale base si effettua la scelta degli atleti?",
+    "answers": [
+      {
+        "text": "Capacità di apprendimento rapido",
+        "correct": true
+      },
+      {
+        "text": "Fattori sociali",
+        "correct": false
+      },
+      {
+        "text": "Fattori relazioni",
+        "correct": false
+      },
+      {
+        "text": "Capacità di ambientamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Tra gli esercizi di specializzazione a dorso a cosa serve la doppia bracciata?",
+    "answers": [
+      {
+        "text": "A tenere la testa ferma",
+        "correct": false
+      },
+      {
+        "text": "A enfatizzare il rollio e a velocizzare il recupero",
+        "correct": false
+      },
+      {
+        "text": "A migliorare la coordinazione con le gambe",
+        "correct": false
+      },
+      {
+        "text": "Insegna la posizione del gomito alto e a enfatizzare la presa",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Tra gli esercizi di specializzazione della farfalla a cosa serve utilizzo della gambata a stile libero?",
+    "answers": [
+      {
+        "text": "A sviluppare i muscoli del grande tronco",
+        "correct": false
+      },
+      {
+        "text": "A enfatizzare il rollio e a velocizzare il recupero",
+        "correct": false
+      },
+      {
+        "text": "A migliorare la coordinazione tra le braccia e la testa",
+        "correct": false
+      },
+      {
+        "text": "A ridurre le ondulazioni e a stimolare una bracciata senza pause",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Tra i fattori della prestazione troviamo il controllo; cos’è?",
+    "answers": [
+      {
+        "text": "La capacità di controllare e monitorare il proprio corpo e l’ambiente circostante",
+        "correct": false
+      },
+      {
+        "text": "Uno schema motorio di base",
+        "correct": false
+      },
+      {
+        "text": "L’insieme dei processi emotivi, cognitivi e motivazionali",
+        "correct": true
+      },
+      {
+        "text": "L’insieme dei processi emotivi e cognitivi",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Tra i parametri del carico fisico, cos’è la densità?",
+    "answers": [
+      {
+        "text": "La quantità di sforzo che un organismo produce nell’eseguire un esercizio",
+        "correct": false
+      },
+      {
+        "text": "Il comportamento temporale del tempo di stimolo e di riposo in una unità di allenamento",
+        "correct": true
+      },
+      {
+        "text": "Il livello dell’impegno richiesto al soggetto rispetto alle sue capacità massimali",
+        "correct": false
+      },
+      {
+        "text": "Un parametro che indica il comportamento evolutivo della frequenza di un particolare sforzo con il relativo adattamento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tra quelle elencate quali sono le condizioni che favoriscono lo sviluppo delle capacità coordinative?",
+    "answers": [
+      {
+        "text": "Che siano eseguite tecniche precise, scelte tra i fondamentali del nuoto",
+        "correct": false
+      },
+      {
+        "text": "Che gli esercizi proposti diventino immediatamente più difficili e più complicati",
+        "correct": false
+      },
+      {
+        "text": "Che venga utilizzato un allenamento ricco di stimoli motori",
+        "correct": true
+      },
+      {
+        "text": "Che ogni esercizio venga ripetuto, identico, numerose volte",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Un esercizio è non strutturato quando",
+    "answers": [
+      {
+        "text": "Si definiscono tutti i dettagli dell’esecuzione",
+        "correct": false
+      },
+      {
+        "text": "Si definiscono alcuni aspetti dell’esecuzione e altri sono lasciati alla scelta dell’allievo",
+        "correct": false
+      },
+      {
+        "text": "Non prevede la fase di recupero",
+        "correct": false
+      },
+      {
+        "text": "Non si richiede nessuna esecuzione ma si agisce sul contesto per stimolare l’azione dell’allievo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Un esercizio è semi-strutturato quando",
+    "answers": [
+      {
+        "text": "Si definiscono tutti i dettagli dell’esecuzione",
+        "correct": false
+      },
+      {
+        "text": "Prevede la fase di recupero",
+        "correct": false
+      },
+      {
+        "text": "Si definiscono alcuni aspetti dell’esecuzione e altri sono lasciati alla scelta dell’allievo",
+        "correct": true
+      },
+      {
+        "text": "Non si richiede nessuna esecuzione ma si agisce sul contesto per stimolare l’azione dell’allievo",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Un esercizio è strutturato quando",
+    "answers": [
+      {
+        "text": "Si definiscono tutti i dettagli dell’esecuzione",
+        "correct": true
+      },
+      {
+        "text": "Prevede la fase di recupero",
+        "correct": false
+      },
+      {
+        "text": "Si definiscono alcuni aspetti dell’esecuzione e altri sono lasciati alla scelta dell’allievo",
+        "correct": false
+      },
+      {
+        "text": "Non si richiede nessuna esecuzione ma si agisce sul contesto per stimolare l’azione dell’allievo",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Un modello di movimento ben consolidato nella mente, facilmente riproducibile, è detto",
+    "answers": [
+      {
+        "text": "Schema complesso",
+        "correct": false
+      },
+      {
+        "text": "Schema corporeo",
+        "correct": false
+      },
+      {
+        "text": "Schema tattico",
+        "correct": false
+      },
+      {
+        "text": "Schema motorio",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Un’elevata mobilità articolare comporta",
+    "answers": [
+      {
+        "text": "Delle difficoltà nella fase di recupero aereo",
+        "correct": false
+      },
+      {
+        "text": "Una migliore sensibilità in acqua",
+        "correct": false
+      },
+      {
+        "text": "Una nuotata più fluida ed economica",
+        "correct": true
+      },
+      {
+        "text": "Nessun vantaggio o svantaggio particolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  }
+]

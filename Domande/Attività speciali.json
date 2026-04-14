@@ -1,0 +1,1124 @@
+[
+  {
+    "question": "Attività prescolare: primi obiettivi da raggiungere",
+    "answers": [
+      {
+        "text": "Ambientamento e scivolamento con attività ludiche finalizzate",
+        "correct": true
+      },
+      {
+        "text": "Imparare la disciplina e l’ordine con rigido controllo tecnico sulle esercitazioni",
+        "correct": false
+      },
+      {
+        "text": "Stile libero con respirazione, dorso ed alcune bracciate a farfalla",
+        "correct": false
+      },
+      {
+        "text": "Nessun obiettivo particolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Che cos’è il diving reflex?",
+    "answers": [
+      {
+        "text": "È un riflesso arcaico che non perdiamo mai e che prevede la chiusura involontaria dell’epiglottide",
+        "correct": false
+      },
+      {
+        "text": "È un riflesso arcaico che viene perso verso i 7 - 9 mesi dopo la nascita per trasformarsi in acqua in apnea volontaria",
+        "correct": true
+      },
+      {
+        "text": "È un riflesso arcaico che viene perso dopo i tre anni per trasformarsi in apnea volontaria",
+        "correct": false
+      },
+      {
+        "text": "È un riflesso condizionato",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Con i bambini in età prescolare il canale privilegiato per insegnare è costituito da",
+    "answers": [
+      {
+        "text": "Il gioco e la comunicazione verbale",
+        "correct": false
+      },
+      {
+        "text": "Il gioco e l’imitazione",
+        "correct": true
+      },
+      {
+        "text": "La sola comunicazione verbale",
+        "correct": false
+      },
+      {
+        "text": "La motivazione endogena",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Cos’è un corso in acqua per bambini al di sotto dei 3 anni?",
+    "answers": [
+      {
+        "text": "Un corso di nuoto",
+        "correct": false
+      },
+      {
+        "text": "Un’attività motoria che favorisce uno sviluppo armonico dei bambini",
+        "correct": true
+      },
+      {
+        "text": "Un’attività motoria che favorisce lo sviluppo delle abilità motorie",
+        "correct": false
+      },
+      {
+        "text": "Una forma di avviamento allo sport",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Differenze tra esercizio fisico e terapia acquatica per i disabili",
+    "answers": [
+      {
+        "text": "L’esercizio fisico e la terapia acquatica svolgono la stessa funzione",
+        "correct": false
+      },
+      {
+        "text": "L’esercizio fisico lavora sulle caratteristiche residue del disabile, non sul danno fisico",
+        "correct": true
+      },
+      {
+        "text": "Entrambe le attività devono essere svolte da personale specializzato",
+        "correct": false
+      },
+      {
+        "text": "Entrambe sono attività di condizionamento acquatico generale per persone con mobilità limitata",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Dove deve posizionarsi l’istruttore dei gruppi prescolari?",
+    "answers": [
+      {
+        "text": "Sul bordo vasca, in piedi",
+        "correct": false
+      },
+      {
+        "text": "Sul bordo vasca, seduto",
+        "correct": false
+      },
+      {
+        "text": "In acqua",
+        "correct": true
+      },
+      {
+        "text": "È indifferente",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "È uno degli obiettivi di un corso neonatale",
+    "answers": [
+      {
+        "text": "Porre le basi per la costruzione di un futuro atleta di livello",
+        "correct": false
+      },
+      {
+        "text": "Il potenziamento del sistema cardio- circolatorio e muscolo-scheletrico",
+        "correct": false
+      },
+      {
+        "text": "Il galleggiamento",
+        "correct": false
+      },
+      {
+        "text": "Il raggiungimento dell’autonomia rispetto al genitore",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "I bambini nella fascia di età 18-24 mesi normalmente",
+    "answers": [
+      {
+        "text": "Galleggiano autonomamente",
+        "correct": false
+      },
+      {
+        "text": "Razionalizzano le proprie paure",
+        "correct": false
+      },
+      {
+        "text": "Affrontano spontaneamente l’argomento piscina",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Il bimbo di 4-10 mesi in acqua può",
+    "answers": [
+      {
+        "text": "Eseguire apnee guidate",
+        "correct": true
+      },
+      {
+        "text": "Eseguire movimenti mirati degli arti",
+        "correct": false
+      },
+      {
+        "text": "Galleggiare autonomamente",
+        "correct": false
+      },
+      {
+        "text": "Allontanarsi dai genitori seguendo le indicazioni dell’istruttore",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In età prescolare quale deve essere il fine dell’attività in acqua?",
+    "answers": [
+      {
+        "text": "L’apprendimento del nuoto",
+        "correct": false
+      },
+      {
+        "text": "L’acquisizione di abilità motorie specifiche",
+        "correct": false
+      },
+      {
+        "text": "L’adattamento all’acqua",
+        "correct": true
+      },
+      {
+        "text": "Lo sviluppo delle capacità condizionali",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In età prescolare quali sono gli obiettivi per un buon lavoro sullo schema corporeo?",
+    "answers": [
+      {
+        "text": "Percezione dello spazio",
+        "correct": false
+      },
+      {
+        "text": "Lateralità",
+        "correct": false
+      },
+      {
+        "text": "Riconoscimento dei segmenti corporei",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "In gravidanza, l’attività motoria in acqua",
+    "answers": [
+      {
+        "text": "Aumenta la possibilità di eventi traumatici",
+        "correct": false
+      },
+      {
+        "text": "Allunga la durata del travaglio",
+        "correct": false
+      },
+      {
+        "text": "Riduce le possibilità di eventi traumatici",
+        "correct": true
+      },
+      {
+        "text": "Diminuisce il tono muscolare",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In quante fasce d’età è consigliabile suddividere i corsi di prima infanzia?",
+    "answers": [
+      {
+        "text": "Non è consigliabile",
+        "correct": false
+      },
+      {
+        "text": "In due fasce d’età (dai 4 ai 18 mesi e dai 18 ai 3 6mesi)",
+        "correct": false
+      },
+      {
+        "text": "In tre fasce d’età (dai 4 ai 10 mesi, dai 10 ai 24 mesi e dai 24 ai 36 mesi)",
+        "correct": false
+      },
+      {
+        "text": "In quattro fasce d’età (dai 4 ai 10 mesi, dai 10 ai 18 mesi, dai 18 ai 24 mesi e dai 24 ai 36 mesi)",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "In un corso di prima infanzia la figura dell’istruttore è quella di",
+    "answers": [
+      {
+        "text": "Suggeritore, guida, supporto ed animatore",
+        "correct": true
+      },
+      {
+        "text": "Insegnante delle tecniche delle nuotate",
+        "correct": false
+      },
+      {
+        "text": "Osservatore",
+        "correct": false
+      },
+      {
+        "text": "Correttore",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "In un corso di prima infanzia la presenza del genitore e assolutamente necessaria ed indispensabile",
+    "answers": [
+      {
+        "text": "Mai",
+        "correct": false
+      },
+      {
+        "text": "In tutte e quattro le fasce d’età (dai 4 ai 36 mesi)",
+        "correct": false
+      },
+      {
+        "text": "Soprattutto nelle prime tre fasce d’eta (dai 4 ai 24 mesi)",
+        "correct": true
+      },
+      {
+        "text": "Soprattutto nelle prime due fasce d’eta (dai 4 ai 18 mesi)",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "In un corso di prima infanzia per un’organizzazione efficiente è consigliabile",
+    "answers": [
+      {
+        "text": "Dividere i bambini in fasce d’età",
+        "correct": true
+      },
+      {
+        "text": "Dividere i bambini in base al loro livello di motricità",
+        "correct": false
+      },
+      {
+        "text": "Unire tutti i bambini da 0 a 3 anni",
+        "correct": false
+      },
+      {
+        "text": "Non creare alcun tipo di divisione o gerarchia",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Indica i principali obiettivi dell’attività in acqua per bambini di tre anni",
+    "answers": [
+      {
+        "text": "Favorire lo sviluppo psicomotorio, cognitivo e socio – affettivo del bambino",
+        "correct": true
+      },
+      {
+        "text": "Apprendere le tecniche delle nuotate",
+        "correct": false
+      },
+      {
+        "text": "Favorire lo sviluppo delle capacità coordinative",
+        "correct": false
+      },
+      {
+        "text": "Far acquisire al bambino un rapporto naturale e positivo con l’acqua",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Iniziare l’insegnamento del nuoto in età prescolare",
+    "answers": [
+      {
+        "text": "È utile perché consente di specializzare prima gli allievi e di raggiungere prima risultati agonistici",
+        "correct": false
+      },
+      {
+        "text": "Non è di nessuna utilità",
+        "correct": false
+      },
+      {
+        "text": "Favorisce un più intenso sviluppo della forza",
+        "correct": false
+      },
+      {
+        "text": "Favorisce il formarsi di una migliore coordinazione acquatica dovuta alla plasticità del sistema nervoso",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "L’attività fisica in acqua per la donna in gravidanza prevede",
+    "answers": [
+      {
+        "text": "Esercizi di tonificazione solo in acqua alta con ritmi elevati e pochi minuti di rilassamento finale",
+        "correct": false
+      },
+      {
+        "text": "Esercizi di tonificazione per tutto il corpo con ritmi blandi, con prevalenza di esercizi che ricercano l’extra-rotazione delle anche. Esercizi di rilassamento e di respirazione",
+        "correct": true
+      },
+      {
+        "text": "Esercizi di tonificazione per tutto il corpo con ritmi blandi, con prevalenza di esercizi che ricercano l’intra-rotazione delle anche",
+        "correct": false
+      },
+      {
+        "text": "Esercizi di resistenza alla forza",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’attività motoria adattata è",
+    "answers": [
+      {
+        "text": "L’attività sportiva praticata dai soggetti diversamente abili",
+        "correct": true
+      },
+      {
+        "text": "L’insieme degli esercizi proponibili in una piscina che dipende dal tipo di vasca e dai sussidi didattici a disposizione.",
+        "correct": false
+      },
+      {
+        "text": "L’attività proposta che più si adatta alle preferenze degli allievi",
+        "correct": false
+      },
+      {
+        "text": "L’attività preferita dall’istruttore",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’attività motoria in acqua per gli anziani riduce",
+    "answers": [
+      {
+        "text": "La pressione venosa agli arti inferiori, con miglioramento del ritorno venoso al cuore",
+        "correct": true
+      },
+      {
+        "text": "La densità ossea agli arti inferiori, con miglioramento del ritorno venoso al cuore",
+        "correct": false
+      },
+      {
+        "text": "La pressione venosa agli arti inferiori, con miglioramento del ritorno venoso al cervello",
+        "correct": false
+      },
+      {
+        "text": "L’aspettativa di vita",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L’epilessia è una disabilità di natura",
+    "answers": [
+      {
+        "text": "Fisico-motoria",
+        "correct": false
+      },
+      {
+        "text": "Psico-fisica",
+        "correct": true
+      },
+      {
+        "text": "Da deformazione cranio-spinale",
+        "correct": false
+      },
+      {
+        "text": "Sensoriale",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "L’immaturità nella funzionalità motoria incide sullo sviluppo cognitivo e socio - affettivo del bambino di tre anni?",
+    "answers": [
+      {
+        "text": "Dipende dalla personalità del bambino e dal contesto educativo in cui è inserito",
+        "correct": true
+      },
+      {
+        "text": "Non incide",
+        "correct": false
+      },
+      {
+        "text": "Incide sicuramente",
+        "correct": false
+      },
+      {
+        "text": "Incide esclusivamente sullo sviluppo cognitivo e motorio",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "La classificazione funzionale del nuoto agonistico per disabili",
+    "answers": [
+      {
+        "text": "È composta da 12 classi",
+        "correct": false
+      },
+      {
+        "text": "Valuta l’handicap fisico",
+        "correct": false
+      },
+      {
+        "text": "Non valuta il gesto sportivo",
+        "correct": false
+      },
+      {
+        "text": "Permette handicap diversi nella stessa classe, ma con funzionalità simile",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La paresi cerebrale si manifesta",
+    "answers": [
+      {
+        "text": "Prima della nascita",
+        "correct": false
+      },
+      {
+        "text": "Durante il parto",
+        "correct": false
+      },
+      {
+        "text": "Nel primo anno di vita",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "La tetraplegia è causata da una",
+    "answers": [
+      {
+        "text": "Lesione toracica",
+        "correct": false
+      },
+      {
+        "text": "Lesione cervicale",
+        "correct": true
+      },
+      {
+        "text": "Lesione sacro-coccigea",
+        "correct": false
+      },
+      {
+        "text": "Lesione lombare",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel lavoro in acqua con persone diversamente abili è necessario",
+    "answers": [
+      {
+        "text": "Avere dei rudimenti di medicina generale",
+        "correct": false
+      },
+      {
+        "text": "Possedere una laurea in scienze motorie",
+        "correct": false
+      },
+      {
+        "text": "Essere dei buoni nuotatori",
+        "correct": false
+      },
+      {
+        "text": "Mettersi in ascolto dell’allievo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nel nuoto in gravidanza la temperatura dell’acqua consigliata è",
+    "answers": [
+      {
+        "text": "Tra 23 e 25°C",
+        "correct": false
+      },
+      {
+        "text": "Tra 27 e 30°C",
+        "correct": true
+      },
+      {
+        "text": "Tra 35 e 37°C",
+        "correct": false
+      },
+      {
+        "text": "Oltre 37°C",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nel nuoto per la terza e quarta età, il primo obiettivo da perseguire è quello di",
+    "answers": [
+      {
+        "text": "Rendere l’anziano il più autosufficiente possibile",
+        "correct": true
+      },
+      {
+        "text": "Programmare un allenamento a fini agonistici",
+        "correct": false
+      },
+      {
+        "text": "Potenziare le capacità condizionali e coordinative",
+        "correct": false
+      },
+      {
+        "text": "Fare attività acquatica basata sulla patologia dell’anziano",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nell’attività natatoria per la terza età",
+    "answers": [
+      {
+        "text": "Ci sono dei cambiamenti evidenti nell’individuo che comunque non rappresentano un limite all’attività sportiva",
+        "correct": false
+      },
+      {
+        "text": "Uno degli obiettivi è il rallentamento del decadimento organico dovuto all’invecchiamento",
+        "correct": true
+      },
+      {
+        "text": "Non ci sono particolari rischi legati all’età",
+        "correct": false
+      },
+      {
+        "text": "Gli obiettivi da raggiungere devono essere in linea con quelli richiesti alle altre fasce di età perché tutti sono potenzialmente in grado di poter nuotare",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Nella fascia di età prescolare l’apprendimento avviene principalmente grazie a",
+    "answers": [
+      {
+        "text": "Spiegazioni verbali",
+        "correct": false
+      },
+      {
+        "text": "Gioco ed imitazione",
+        "correct": true
+      },
+      {
+        "text": "Cooperazione",
+        "correct": false
+      },
+      {
+        "text": "Competizione",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Obiettivi da perseguire nell’insegnamento alla terza e quarta età",
+    "answers": [
+      {
+        "text": "Socializzazione",
+        "correct": false
+      },
+      {
+        "text": "Alleggerire il lavoro articolare",
+        "correct": false
+      },
+      {
+        "text": "Ricondizionamento fisico",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Obiettivo dell’attività prescolare è",
+    "answers": [
+      {
+        "text": "Adattamento degli schemi motori terrestri all’ambiente acquatico",
+        "correct": true
+      },
+      {
+        "text": "Coordinazione fine",
+        "correct": false
+      },
+      {
+        "text": "Tecnica dei quattro stili",
+        "correct": false
+      },
+      {
+        "text": "Sviluppo condizionale",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Per un bambino di tre anni il canale privilegiato di insegnamento è",
+    "answers": [
+      {
+        "text": "Il gioco strutturato",
+        "correct": true
+      },
+      {
+        "text": "La spiegazione verbale",
+        "correct": false
+      },
+      {
+        "text": "Gli esercizi tecnico – didattici finalizzati all’ apprendimento di abilità motorie specifiche",
+        "correct": false
+      },
+      {
+        "text": "Il gioco libero",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Punti essenziali della pedagogia inclusiva",
+    "answers": [
+      {
+        "text": "Tutti possono imparare",
+        "correct": false
+      },
+      {
+        "text": "La diversità è un punto di forza",
+        "correct": false
+      },
+      {
+        "text": "Cooperazione sinergica delle agenzie educative",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qual è il tratto caratterizzante del bambino di 3 - 4 anni?",
+    "answers": [
+      {
+        "text": "Pensiero intuitivo",
+        "correct": false
+      },
+      {
+        "text": "Altruismo",
+        "correct": false
+      },
+      {
+        "text": "Piena consapevolezza del corpo",
+        "correct": false
+      },
+      {
+        "text": "Egocentrismo",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qual è l’obiettivo principale nell’attività neonatale in acqua?",
+    "answers": [
+      {
+        "text": "Che il bambino impari a nuotare precocemente",
+        "correct": false
+      },
+      {
+        "text": "Si tratta di un’attività priva di obiettivi specifici",
+        "correct": false
+      },
+      {
+        "text": "Dare al bambino anche piccolissimi strumenti per mettersi in situazione di sicurezza in acqua in caso di caduta accidentale",
+        "correct": false
+      },
+      {
+        "text": "Favorire la relazione della coppia genitore-bambino attraverso l’elemento acqua",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale dei seguenti è un beneficio dell’attività in acqua per una donna in gravidanza?",
+    "answers": [
+      {
+        "text": "Aumento della mobilità articolare.",
+        "correct": true
+      },
+      {
+        "text": "Aumento della capacità coordinativa.",
+        "correct": false
+      },
+      {
+        "text": "Diminuzione del ritmo cardiaco",
+        "correct": false
+      },
+      {
+        "text": "Irrobustimento del feto",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è sempre veritiera?",
+    "answers": [
+      {
+        "text": "A tutela della propria salute e di quella del bambino è opportuno che la donna in gravidanza sospenda la pratica sportiva",
+        "correct": false
+      },
+      {
+        "text": "L’attività fisica non ha conseguenze benefiche sul normale sviluppo del feto",
+        "correct": false
+      },
+      {
+        "text": "La donna in gravidanza può praticare solo sport di endurance",
+        "correct": false
+      },
+      {
+        "text": "La donna in gravidanza può condurre una vita pressoché normale, tranne in quei casi ove subentrano problematiche particolari o vere e proprie patologie",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale delle seguenti è una finalità specifica dell’attività acquatica in gravidanza?",
+    "answers": [
+      {
+        "text": "Allenamento aerobico",
+        "correct": false
+      },
+      {
+        "text": "Decontrazione del bacino",
+        "correct": false
+      },
+      {
+        "text": "Profilassi delle trombosi venose e del gonfiore da liquidi",
+        "correct": false
+      },
+      {
+        "text": "Tutte le risposte precedenti",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale di questi non è un vantaggio dell’attività motoria acquatica nella terza età?",
+    "answers": [
+      {
+        "text": "Riduzione del rischio traumatologico",
+        "correct": false
+      },
+      {
+        "text": "Riduzione del sovraccarico sull’apparato locomotore",
+        "correct": false
+      },
+      {
+        "text": "Marcato sviluppo coordinativo",
+        "correct": true
+      },
+      {
+        "text": "Miglioramento del ritorno venoso",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quale fra i seguenti non è un obiettivo specifico dell’attività in acqua per bambini di età compresa fra 4 e 36 mesi?",
+    "answers": [
+      {
+        "text": "Rafforzamento del legame genitore- figlio",
+        "correct": false
+      },
+      {
+        "text": "Miglioramento delle condizioni fisiche del bambino",
+        "correct": false
+      },
+      {
+        "text": "Presa di confidenza con l’acqua",
+        "correct": false
+      },
+      {
+        "text": "Sviluppo delle capacità coordinative",
+        "correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quale tra questi è uno dei cambiamenti più rilevanti legati all’invecchiamento?",
+    "answers": [
+      {
+        "text": "Aumento della funzionalità cardio- respiratoria e muscolare",
+        "correct": false
+      },
+      {
+        "text": "Aumento delle capacità di autoregolazione metabolica",
+        "correct": false
+      },
+      {
+        "text": "Riduzione dell’attività neuro- muscolare",
+        "correct": true
+      },
+      {
+        "text": "Riduzione della perdita di massa ossea",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quali aspetti possono creare un disincentivo all’attività in un soggetto anziano?",
+    "answers": [
+      {
+        "text": "La ricerca di un punto di incontro fra esigenze didattiche ed esigenze dell’utente",
+        "correct": false
+      },
+      {
+        "text": "L’inadeguatezza della proposta, della struttura e la rigidità",
+        "correct": true
+      },
+      {
+        "text": "L’attenzione massima posta all’inadeguatezza fisica dell’utente",
+        "correct": false
+      },
+      {
+        "text": "La composizione di gruppi per motivazione e condizioni di funzionalità",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali sono considerate popolazioni speciali?",
+    "answers": [
+      {
+        "text": "Gestanti, neonatale, prescolare, terza età, disabili",
+        "correct": true
+      },
+      {
+        "text": "Atleti e disabili",
+        "correct": false
+      },
+      {
+        "text": "Terza età e bambini",
+        "correct": false
+      },
+      {
+        "text": "Pallanuotisti e sincronette",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quali sono i principali obiettivi da raggiungere nei gruppi di attività prescolare?",
+    "answers": [
+      {
+        "text": "Nessun obiettivo, solo gioco e divertimento",
+        "correct": false
+      },
+      {
+        "text": "Ambientamento e scivolamento con attività ludiche finalizzate",
+        "correct": true
+      },
+      {
+        "text": "Stile libero con respirazione, dorso ed alcune bracciate a farfalla",
+        "correct": false
+      },
+      {
+        "text": "Imparare la disciplina e l’ordine",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quali sono le problematiche dell’attività fisica determinate all’invecchiamento?",
+    "answers": [
+      {
+        "text": "Aumento della capacità aerobica",
+        "correct": false
+      },
+      {
+        "text": "Possibilità solo di sforzi di breve durata",
+        "correct": false
+      },
+      {
+        "text": "Riduzione della funzionalità cardio- respiratoria e muscolare",
+        "correct": true
+      },
+      {
+        "text": "Possibilità di effettuare solo lavoro anaerobici alattacidi",
+        "correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quanti tipi di menomazione fisica sono classificati dal movimento paralimpico? #####",
+    "answers": [
+      {
+        "text": "4 #####",
+        "correct": false
+      },
+      {
+        "text": "8 #####",
+        "correct": true
+      },
+      {
+        "text": "12 #####",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Un bambino di 4 anni apprende soprattutto attraverso",
+    "answers": [
+      {
+        "text": "Ripetizioni automatiche e inconsapevoli",
+        "correct": false
+      },
+      {
+        "text": "Gioco strutturato, gioco simbolico e di movimento",
+        "correct": true
+      },
+      {
+        "text": "Spiegazioni e dimostrazioni dell’istruttore",
+        "correct": false
+      },
+      {
+        "text": "Esercizi tecnico-coordinativi specifici",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Un’adeguata attività motoria oltre i 60 anni",
+    "answers": [
+      {
+        "text": "Migliora il livello delle capacità motorie e la forza",
+        "correct": false
+      },
+      {
+        "text": "Migliora il livello delle capacità motorie e la componente psicologica",
+        "correct": true
+      },
+      {
+        "text": "Migliora solo la componente psicologica",
+        "correct": false
+      },
+      {
+        "text": "Non apporta alcun miglioramento",
+        "correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Uno dei cambiamenti più evidenti legati all’invecchiamento è",
+    "answers": [
+      {
+        "text": "Perdita di massa magra e riduzione percentuale dell’acqua intracellulare",
+        "correct": true
+      },
+      {
+        "text": "Perdita di massa grassa e riduzione percentuale dell’acqua intracellulare",
+        "correct": false
+      },
+      {
+        "text": "Perdita di massa magra e scomparsa dell’acqua intracellulare",
+        "correct": false
+      },
+      {
+        "text": "Perdita di massa magra e aumento percentuale dell’acqua intracellulare",
+        "correct": false
+      }
+    ],
+    "correct_index": 0
+  }
+]
