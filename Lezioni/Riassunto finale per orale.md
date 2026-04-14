@@ -112,11 +112,7 @@ Esempio dalla lezione: ragazzo adulto con distonia — corpo completamente rigid
 
 ---
 
-> Concetti fondamentali delle lezioni 2-3 (Il Corpo Umano). Buon studio.
-
----
-
-# Il Corpo Umano — Parte I (lezione 2)
+# Il Corpo Umano — Parte I
 
 ## Cellula: strutture chiave
 
@@ -192,7 +188,7 @@ Negli **alveoli**: O2 passa all'aria → sangue; CO2 passa dal sangue → aria.
 
 ---
 
-# Il Corpo Umano — Parte II (lezione 3)
+# Il Corpo Umano — Parte II
 
 ## Apparato cardiocircolatorio
 
@@ -682,10 +678,6 @@ Il 5° livello apre l'accesso a: nuoto agonistico, salvamento, nuoto in acque li
 
 ---
 
-> Concetti fondamentali delle lezioni 19-23. Buon studio.
-
----
-
 # Attività per Gestanti
 
 La gravidanza è un **fatto fisiologico**, non una malattia. L'attività acquatica ne è un'**integrazione** — non sostituisce i corsi ospedalieri. Metodica con validazione scientifica dal **1990**.
@@ -766,7 +758,7 @@ Il genitore trasmette le proprie ansie al bambino — va gestito. Scegliere come
 
 ---
 
-# Attività Prescolare (lezione 21)
+# Attività Prescolare
 
 Fascia **3-6 anni**. Il bambino deve **divertirsi**: un corso inadatto è deleterio.
 
@@ -928,11 +920,8 @@ Le piscine moderne diventano **centri di aggregazione**: gite culturali, escursi
 In crescita costante. Ultimi campionati europei a Riccione: ~**10.000 partecipanti**. Obiettivo: confrontarsi, socializzare, sentirsi vivi — non solo vincere. Destinato a crescere ulteriormente.
 
 ---
-> Concetti fondamentali delle lezioni 24-25. Buon studio.
 
----
-
-# Fitness in Acqua (lezione 24)
+# Fitness in Acqua
 
 ## Definizione
 
@@ -981,7 +970,7 @@ Trend: crescita fino al **2013-2014**, poi stabilizzazione. La musica non è obb
 
 ---
 
-# Ginnastica Educativa e Prenatatoria (lezione 25)
+# Ginnastica Educativa e Prenatatoria 
 
 ## Cos'è e perché importa
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/10.L'uomo e l'acqua.md",
+                "file": "Lezioni/Riassunto finale per orale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.L'uomo e l'acqua"
+              "title": "Riassunto finale per orale"
             }
           }
         ]
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "bebee12f88701504",
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lezioni/10.L'uomo e l'acqua.md",
+            "file": "Lezioni/Riassunto finale per orale.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,11 +171,29 @@
   },
   "active": "46c2adb682a3f0f5",
   "lastOpenFiles": [
+    "Lezioni/10.L'uomo e l'acqua.md",
+    "Domande/La cultura dell’acqua.json",
+    "Domande/Psicopedagogia.json",
+    "Domande/La scuola nuoto.json",
+    "Domande/Fitness in acqua.json",
+    "Domande/Attività speciali.json",
+    "Domande/Metodologia.json",
+    "Domande/Biofisiologia.json",
+    "Lezioni/Riassunto finale per orale.md",
+    "Altro/Ripasso_2_Aprile_2026.md",
+    "Altro/2024_11_16_Correttore.md",
+    "Altro/Correttore.md",
+    "Altro/converti_risposte.py",
+    "Altro/converti_correttore.py",
+    "Altro/TRASCRIZIONE_2 apr 2026, 19-12.txt",
+    "Altro/PROMPT.md",
+    "Altro/Domande.md",
+    "Pics/Pasted image 20260413104140.png",
+    "temp/Riassuntone.md",
     "Lezioni/7.Area psicopedagogica 3.md",
     "Lezioni/6.Area psicopedagogica 2.md",
     "Lezioni/5.Area psicopedagogica 1.md",
     "Lezioni/4.Teoria del movimento.md",
-    "Lezioni/10.L'uomo e l'acqua.md",
     "Lezioni/20.Cenni di Attività Neonatale.md",
     "Lezioni/19.Cenni di Attività per Gestanti.md",
     "Domande.md",
@@ -188,12 +206,6 @@
     "Domande/La cultura dell’acqua.md",
     "Domande/Fitness in acqua.md",
     "Domande/Biofisiologia.md",
-    "Domande/Attività speciali.md",
-    "Riassunto_Corso_ISTRUTTORI_FIN_2025-2026.md",
-    "Lezioni/Priorità_Studio.md",
-    "Lezioni/11.Ambientamento e acquaticita.md",
-    "Lezioni/Indice_Analitico.md",
-    "Lezioni/2.Il Corpo Umano parte I.md",
-    "Lezioni/1. Aspetti Amministrativi.md"
+    "Domande/Attività speciali.md"
   ]
 }
