@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domande/Psicopedagogia.md",
+                "file": "Lezioni/10.L'uomo e l'acqua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psicopedagogia"
+              "title": "10.L'uomo e l'acqua"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Intellettivo",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "bebee12f88701504",
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Domande/Psicopedagogia.md",
+            "file": "Lezioni/10.L'uomo e l'acqua.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,19 +171,28 @@
   },
   "active": "46c2adb682a3f0f5",
   "lastOpenFiles": [
+    "Lezioni/7.Area psicopedagogica 3.md",
+    "Lezioni/6.Area psicopedagogica 2.md",
+    "Lezioni/5.Area psicopedagogica 1.md",
+    "Lezioni/4.Teoria del movimento.md",
+    "Lezioni/10.L'uomo e l'acqua.md",
+    "Lezioni/20.Cenni di Attività Neonatale.md",
+    "Lezioni/19.Cenni di Attività per Gestanti.md",
+    "Domande.md",
+    "Corso istruttori FIN 2025.md",
+    "Lezioni/12.Galleggiamenti spostamenti posture propulsioni.md",
+    "Lezioni/3.Il Corpo Umano parte II.md",
+    "Domande/Psicopedagogia.md",
     "Domande/Metodologia.md",
     "Domande/La scuola nuoto.md",
     "Domande/La cultura dell’acqua.md",
     "Domande/Fitness in acqua.md",
     "Domande/Biofisiologia.md",
     "Domande/Attività speciali.md",
-    "Lezioni/4.Teoria del movimento.md",
     "Riassunto_Corso_ISTRUTTORI_FIN_2025-2026.md",
-    "Lezioni/10.L'uomo e l'acqua.md",
     "Lezioni/Priorità_Studio.md",
     "Lezioni/11.Ambientamento e acquaticita.md",
     "Lezioni/Indice_Analitico.md",
-    "Lezioni/5.Area psicopedagogica 1.md",
     "Lezioni/2.Il Corpo Umano parte I.md",
     "Lezioni/1. Aspetti Amministrativi.md"
   ]
