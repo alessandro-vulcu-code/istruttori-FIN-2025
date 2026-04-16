@@ -398,6 +398,12 @@ La spalla è l'articolazione più mobile del corpo umano e la **principale causa
 
 ## Struttura e contrazione muscolare
 
+I muscoli nel contrarsi cambiano forma, si accorciano ed in pari tempo aumentano diametro trasversale. A seconda della loro attività predominante, i muscoli vengono suddivisi nei seguenti gruppi:
+- **Flessori-estensori**: flessione ed estensione di un segmento osseo rispetto ad un altro
+- **Adduttori**: che avvicinano il segmento al corpo (interno coscia)
+- **Abduttori**: che lo allontanano (gluteo, laterale)
+- **Costrittori-dilatatori**: chiudono o aprono sfinteri e cavità
+
 Proteine contrattili: **actina** (filamento sottile) + **miosina** (filamento spesso con ponti crociati).
 
 **Meccanismo** (il "remo"): i ponti crociati della miosina si agganciano all'actina e si piegano → actina scivola → miofibrilla si accorcia → muscolo si contrae.
@@ -503,6 +509,142 @@ I cambiamenti fisiologici (cardiovascolari, muscolo-scheletrici, cognitivi) sono
 
 **Socializzazione trasversale**: favorire l'integrazione tra fasce d'età diverse. L'anziano guadagna vitalità; il giovane scopre lo sport come benessere, non solo competizione.
 
+
+
+---
+
+# Ambientamento e Acquaticità
+
+## Definizione
+
+**Ambientamento** = fase preliminare a qualsiasi competenza motoria acquatica. Raggiungimento di uno **stato di benessere psicofisico** conseguente all'immersione e alla conoscenza di come il proprio corpo reagisce all'acqua.
+
+L'uomo non è un animale acquatico: l'istinto sviluppa paura e diffidenza. I corsi 0-3 e 3-6 anni esistono non per insegnare a nuotare, ma per far considerare l'acqua un elemento amico.
+
+## Ambientamento in Vasca Piccola
+
+**Istruttore sempre in acqua** con i bambini (rassicura, interviene, comunica allo stesso livello). Spazio ridotto a **4-5 metri di lato**. Regola: parlare poco, far muovere molto.
+
+**Indicatore del livello di ambientamento**: grado di tensione muscolare. Bambino rigido = ancora spaventato.
+
+### Sequenza delle competenze da acquisire
+
+1. **Entrata in acqua** — graduale, attraverso il gioco
+2. **Schemi motori terrestri in acqua** — camminare, saltare, muoversi rilassati
+3. **Immersione del viso e apertura occhi sott'acqua** — prima con occhialini, poi senza (devono saper stare sott'acqua in qualsiasi condizione)
+4. **Respirazione in acqua** — inspirare con la **bocca** (non col naso: rischio inalazione), espirare con bocca o naso. Espirazione **forzata**: la pressione dell'acqua sul torace va vinta attivamente.
+5. **Tuffo in acqua**
+6. **Galleggiamento statico e dinamico** — prono e supino; poi scivolamenti
+
+## Il Tuffo per il Principiante
+
+**In vasca piccola (acqua bassa)**: il tuffo avviene **sempre in piedi, mai di testa** — ragioni di sicurezza.
+
+**Il tuffo di testa è riservato esclusivamente all'acqua fonda.**
+
+## Passaggio all'Acqua Fonda
+
+L'acqua fonda è un piccolo trauma: le acquisizioni precedenti sembrano scomparire, il bambino torna rigido. Il passaggio non va mai fatto di colpo.
+
+**Progressione graduale** (già durante il lavoro in vasca piccola):
+
+| Sessione | Attività |
+|--|--|
+| Prima visita | Guardare la vasca grande, senza entrare |
+| Seconda | Sedersi sul bordo, battere i piedi |
+| Terza | Brevi immersioni con uscita immediata |
+| Progressivamente | Aumentare tempo e attività in acqua fonda |
+
+**Prima priorità in acqua fonda**: galleggiamento verticale con la testa fuori. Qualsiasi tecnica va bene (cagnolino, bicicletta, rana). Solo dopo si lavora su tutto il resto.
+
+### Esercizio di sicurezza in vasca grande
+
+1. Staccarsi dal bordo
+2. Spostarsi **4-5 metri** in posizione **prona**
+3. Verticalizzarsi e mantenersi (contare fino a 10)
+4. Tornare al bordo in posizione **supina**
+
+Ripetere anche in senso inverso (partendo supini). Chi sa fare questo in entrambi i sensi è autonomamente sicuro in acqua fonda.
+
+## Solo Acqua Fonda (senza vasca piccola)
+
+Istruttore **fuori dall'acqua** (non può assistere dall'interno senza rischiare). Ordine delle acquisizioni invertito:
+
+1. **Galleggiamento verticale** (sicurezza)
+2. **Spostamenti orizzontali brevi**
+3. Respirazione, immersione, galleggiamento, scivolamenti
+
+Richiede gruppi **molto piccoli**.
+
+---
+
+# Galleggiamenti, Spostamenti, Posture e Propulsioni
+
+## Ambientamento vs. Acquaticità
+
+| Concetto | Natura |
+|--|--|
+| **Ambientamento** | Fase con inizio e fine — presupposto all'apprendimento tecnico |
+| **Acquaticità** | Attitudine che inizia con l'ambientamento e **non termina mai** |
+
+In ambientamento si propongono **esperienze**, non esercizi. Anticipare l'approccio tecnico è un errore metodologico grave.
+
+## Tre Masse Critiche
+
+Testa — Torace — Gambe: devono essere **allineate** per ridurre il drag e garantire stabilità.
+
+**La testa è la causa principale degli errori a cascata**: testa alta → fianchi giù → gambe cadono. La correzione è "abbassa la testa", non "solleva i fianchi".
+
+**Posizione corretta della testa**: ovale del viso appoggiato all'acqua, collo lungo e rilassato, sguardo verso il basso.
+
+## Respirazione-Azione
+
+Non è un accessorio — incide sull'intera azione motoria. Lavorare al 75-80% della capacità vitale è un **limite tecnico** superabile, non un limite del potenziale. Rapporto di riferimento: **3:1** (3 bracciate ogni 1 respirazione).
+
+## Tre Fasi del Percorso
+
+1. **Educazione acquatica** → l'allievo si *muove* (esperienze)
+2. **Scuola nuoto** → l'allievo si *sposta* (esercizi)
+3. **Agonismo** → l'allievo *attraversa* (allenamenti)
+
+## Principio Metodologico: Togliere, non Aggiungere
+
+L'azione motoria non è semplice movimento. Il processo corretto:
+1. Comprendere **scopo** del gesto
+2. Elaborare una **strategia**
+3. **Mettere in pratica** (prova ed errori)
+4. Eseguire il **movimento** (ultimo step)
+
+**Forma vs. contenuto**: trasmettere contenuti ("aggancia, tira, spingi"), non forme estetiche. I contenuti generano forma personalizzata; la forma senza contenuto è solo coreografia.
+
+## Quattro Parametri Fondamentali di Qualsiasi Nuotata
+
+1. **Posizione del corpo**: tre masse allineate, drag minimo
+2. **Continuità d'azione**: nessuna pausa interna al gesto
+3. **Ampiezza**: movimenti completi, spinta fino in fondo
+4. **Traiettoria**: mano vicina al corpo, non attraversa la linea mediana
+
+## Inside Out
+
+La forza viene generata nel **core** (zona addomino-lombare) e trasmessa alla periferia. Il corpo nuota nella sua interezza — non è solo trasportato. Senza stabilità del core, la forza si disperde in movimenti compensatori.
+
+## Gambe: Triplice Valenza
+
+| Funzione | Scuola nuoto | Nuoto avanzato |
+|--|--|--|
+| **Propulsiva** | Alta (primo motore) | Minore |
+| **Galleggiante** | Media | Alta |
+| **Stabilizzante** | Media | Alta |
+
+Eccezione: nella rana le gambe mantengono importanza propulsiva anche ai livelli avanzati (~50%).
+
+Efficienza degli stili: **stile libero > farfalla ≈ dorso > rana**.
+
+## Quinto Stile
+
+Partenze e virate (fasi subacquee) — possono coprire fino al **60% di una gara** in vasca corta. Va costruito fin dalla scuola nuoto con scivolamenti e posizione streamline (collo lungo, braccia distese, gomiti stretti, corpo in tenuta).
+
+
 ---
 
 # Le 4 nuotate fondamentali
@@ -512,18 +654,26 @@ Il modello prestativo non è uno schema da imporre: serve per leggere il gesto d
 **Continuità**, **ampiezza** e **traiettoria** (mani vicino al corpo) sono i tre parametri che si trovano in tutti gli stili. In tutte le nuotate la spinta finale va in forte accelerazione crescente. Ascella aperta nella presa, sempre.
 
 ### Stile libero
+#### Caratteristiche
+- Asimmetrico
+- Alto rendimento meccanico
+- Con rollio (parte dai fianchi, la testa rimane in asse) 
+- Tollera gli errori coordinativi nelle fasi iniziali — da proporre per primo.
 
-Asimmetrico, alto rendimento meccanico, con rollio (parte dai fianchi, la testa rimane in asse). Tollera gli errori coordinativi nelle fasi iniziali — da proporre per primo.
+#### Passata subacquea 
+Appoggio/presa → trazione → spinta in forte accelerazione → recupero, che inizia già nella spinta finale, non quando il braccio esce dall'acqua. Recupero aereo a gomito alto, muscoli sciolti. La spinta avviene dietro l'allievo che non la vede — servono feedback verbali.
 
-Passata subacquea: appoggio/presa → trazione → spinta in forte accelerazione → recupero, che inizia già nella spinta finale, non quando il braccio esce dall'acqua. Recupero aereo a gomito alto, muscoli sciolti. La spinta avviene dietro l'allievo che non la vede — servono feedback verbali.
-
-Gambe: fase discendente attiva (frustata veloce), ascendente passiva. Sei colpi per ciclo di bracciata (3 cambi di direzione della mano × 2). Funzione principale: galleggiamento e stabilità, non propulsione.
+#### Gambe
+Fase discendente attiva (frustata veloce), ascendente passiva. Sei colpi per ciclo di bracciata (3 cambi di direzione della mano × 2). Funzione principale: galleggiamento e stabilità, non propulsione.
 
 Respirazione laterale, collegata al rollio — la testa ruota, non si solleva.
 
 ### Dorso
+#### Caratteristiche
 
-Asimmetrico come il crawl, ma supino. Rollio presente. La fase subacquea è fuori dal campo visivo: il nuotatore si affida al senso cinestesico (posizione del corpo nello spazio). L'istruttore deve diventare i suoi occhi.
+- Asimmetrico come il crawl, ma supino
+- Rollio presente 
+- La fase subacquea è fuori dal campo visivo: il nuotatore si affida al senso cinestesico (posizione del corpo nello spazio). L'istruttore deve diventare i suoi occhi.
 
 Mano in acqua col mignolo, ascella aperta. Spinta verso il basso in forte accelerazione — la reazione dell'acqua rilancia la mano verso l'alto e avvia il recupero. Respirazione dalla bocca.
 
@@ -533,11 +683,17 @@ Mano in acqua col mignolo, ascella aperta. Spinta verso il basso in forte accele
 
 ### Rana
 
-Simmetrica, basso rendimento meccanico, altissima valenza coordinativa — seconda parte della scuola nuoto. Non tollera errori di coordinazione. Le gambe danno circa il 50% della propulsione: è l'unico stile in cui le gambe fanno almeno quanto le braccia.
+#### Caratteristiche
+- Simmetrica
+- Basso rendimento meccanico, altissima valenza coordinativa — seconda parte della scuola nuoto
+- Non tollera errori di coordinazione. 
+- Le gambe danno circa il 50% della propulsione: è l'unico stile in cui le gambe fanno almeno quanto le braccia.
 
-Braccia: movimento **circolare** e **simultaneo**, sempre nel campo visivo (se le mani escono fuori, il movimento è troppo largo). **Nessuna fase di spinta nelle braccia** — la spinta è tutta nelle gambe.
+#### Braccia
+Movimento **circolare** e **simultaneo**, sempre nel campo visivo (se le mani escono fuori, il movimento è troppo largo). **Nessuna fase di spinta nelle braccia** — la spinta è tutta nelle gambe.
 
-Gambe, la parte più complessa:
+#### Gambe
+La parte più complessa:
 1. flessione (tallone verso il sedere, ginocchia strette)
 2. **extra-rotazione dei piedi** — i piedi devono essere più larghi delle ginocchia, mai il contrario
 3. frustata verso dietro-basso in accelerazione progressiva: **piano → FORTE**
@@ -552,11 +708,16 @@ Perché la rana non si può trascurare: gara dei misti, pallanuoto (la gambata d
 
 ### Farfalla
 
-Simmetrica, coordinazione sopra tutto il resto — la forza conta meno di quanto si pensi. Alla fine del percorso.
+#### Caratteristiche
+- Simmetrica
+- Coordinazione sopra tutto il resto — la forza conta meno di quanto si pensi. Alla fine del percorso.
 
-Due colpi di gambe per ciclo: il primo (braccia in avanti, streamline) è propulsivo; il secondo (braccia ai fianchi, durante la respirazione) è stabilizzante e compensa il calo del bacino.
+#### Gambata a delfino
+Due colpi di gambe per ciclo: 
+- il primo (braccia in avanti, **streamline**) è **propulsivo**
+- il secondo (braccia ai fianchi, durante la respirazione) è **stabilizzante** e compensa il calo del bacino
 
-Continuità assoluta nelle braccia — qualsiasi pausa compromette tutto. Spinta finale in forte accelerazione per lanciare entrambe le braccia nel recupero.
+**Continuità assoluta nelle braccia** — qualsiasi pausa compromette tutto. Spinta finale in forte accelerazione per lanciare entrambe le braccia nel recupero.
 
 Respirazione avanti-alto — il corpo rimane vicino all'acqua, niente verticalizzazione.
 
@@ -1177,12 +1338,11 @@ Struttura completa: **15' ginnastica a secco + doccia + 40-45' in acqua ≈ 70 m
 
 ## Per fascia d'età
 
-| Fascia | Proposta |
-|--|--|
-| Bambini | Circuiti colorati e ludici |
-| Ragazzi/Teenager | Schemi motori, mobilità, coordinazione |
-| Adulti | Prevenzione, mobilità articolare, conoscenza corporea |
-| Over 65 | Socialità, tranquillità, mobilità; monitoraggio problematiche |
+| Fascia           | Proposta                                                      |
+| ---------------- | ------------------------------------------------------------- |
+| Bambini          | Circuiti colorati e ludici                                    |
+| Ragazzi/Teenager | Schemi motori, mobilità, coordinazione                        |
+| Adulti           | Prevenzione, mobilità articolare, conoscenza corporea         |
+| Over 65          | Socialità, tranquillità, mobilità; monitoraggio problematiche |
 
 ---
-
